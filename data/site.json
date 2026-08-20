@@ -1,0 +1,205 @@
+{
+  "name": "Quantum Frequency Records",
+  "shortName": "QFR",
+  "tagline": "A home for artists, sounds and stories that refuse to exist inside the expected.",
+  "headline": "Unleash Music’s Raw Vibrational Energy",
+  "subtitleWords": [
+    "Discover",
+    "Harness",
+    "Nurture",
+    "Succeed"
+  ],
+  "homeHeading": "A New Wave Of Sound",
+  "artistsIntro": {
+    "kicker": "QUANTUM FREQUENCY RECORDS",
+    "heading": "OUR ARTISTS. OUR FREQUENCY.",
+    "sub": "A diverse roster of independent artists creating the future of sound."
+  },
+  "social": {
+    "instagram": "https://instagram.com/quantumfrequencyrecords",
+    "youtube": "https://youtube.com/@quantumfrequencyrecords",
+    "spotify": "https://open.spotify.com",
+    "x": "https://x.com/QFRecords",
+    "tiktok": "https://tiktok.com/@quantumfrequencyrecords"
+  },
+  "contact": {
+    "email": "info@quantumfrequencyrecords.com",
+    "bookings": "bookings@quantumfrequencyrecords.com",
+    "press": "press@quantumfrequencyrecords.com"
+  },
+  "form": {
+    "provider": "formspree",
+    "endpoint": "",
+    "note": "Add a Formspree (or similar) endpoint here. Never put SMTP credentials in the client."
+  },
+  "storeUrl": "/store",
+  "legal": {
+    "privacy": "/privacy",
+    "terms": "/terms"
+  },
+  "copyright": "© 2026 Quantum Frequency Records. All rights reserved.",
+  "about": {
+    "philosophy": "Quantum Frequency Records is an independent label and creative platform built around artists, sounds and stories that do not need to fit inside a predetermined genre or commercial template.",
+    "mission": "A home for artists, sounds and stories that refuse to exist inside the expected. We exist to discover, harness, nurture and succeed — in that order, and without apology.",
+    "origin": "QFR began as a simple observation: the most interesting music was happening between the lanes. Country next to industrial. Surf next to nu-metal. A DJ's 4AM protocol next to a fiddle. The label was built as a frequency, not a format — a place where those signals could occupy the same universe without being sanded into a brand-safe average.",
+    "artistFirst": "The artist is the central object of the experience. Pages, players, news, and the store exist to serve the catalog — not the other way around. We do not ask artists to become a genre. We ask the genre to make room.",
+    "beyondGenre": "The roster intentionally spans country, country rock, punk, alternative, progressive and space rock, electronic, industrial, nu-metal, rap rock, psychedelic and indie sounds. That range is not a marketing trick. It is the point.",
+    "ai": "Some catalog work at QFR is AI-created or AI-assisted where the label has approved that context. We treat those tools as instruments — visible, credited, and never a substitute for artist intent. When a work is machine-collaborative, we say so. When it is human to the bone, we say that too.",
+    "future": "The next phase is a living universe: a store for physical and digital artifacts, live data for what is actually moving, and a CMS behind the same JSON bones that already run this site. New artists should be additions to the system — never a reason to duplicate the website."
+  },
+  "missionGrid": [
+    {
+      "id": "independent",
+      "label": "Independent",
+      "note": "No conglomerate template. Decisions stay close to the music and the people who make it."
+    },
+    {
+      "id": "artist-driven",
+      "label": "Artist Driven",
+      "note": "The artist is the center of gravity. Everything else — pages, players, press — orbits that fact."
+    },
+    {
+      "id": "beyond-genre",
+      "label": "Beyond Genre",
+      "note": "Country beside industrial. Surf beside nu-metal. The roster is a frequency, not a format."
+    },
+    {
+      "id": "fearless",
+      "label": "Fearless",
+      "note": "We would rather miss a trend than sand the edges off a real song."
+    },
+    {
+      "id": "experimental",
+      "label": "Experimental",
+      "note": "Studios, stages, and software are all fair instruments. Curiosity is a credit."
+    },
+    {
+      "id": "authentic",
+      "label": "Authentic",
+      "note": "Room tone, first takes, honest volume. We keep the fingerprints on the work."
+    },
+    {
+      "id": "evolving",
+      "label": "Evolving",
+      "note": "New artists, new tools, new rooms. The catalog is a living system, not a frozen statement."
+    },
+    {
+      "id": "human",
+      "label": "Human",
+      "note": "Even when machines assist, the intent stays human. Voices, stories, bodies in rooms."
+    },
+    {
+      "id": "unrestricted",
+      "label": "Unrestricted",
+      "note": "No predetermined commercial template. If it belongs here, it belongs here."
+    }
+  ],
+  "latest": {
+    "signingArtistId": "jones-beach-boys",
+    "albumReleaseId": "ig-weather",
+    "singleReleaseId": "fn-port",
+    "newsId": "immovable-giants-news-rel"
+  },
+  "inquiryTypes": [
+    {
+      "id": "general",
+      "label": "General Label Feedback",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "artist",
+      "label": "Artist Feedback",
+      "fields": [
+        "artist",
+        "message"
+      ]
+    },
+    {
+      "id": "album",
+      "label": "Album Feedback",
+      "fields": [
+        "artist",
+        "album",
+        "message"
+      ]
+    },
+    {
+      "id": "song",
+      "label": "Song Feedback",
+      "fields": [
+        "artist",
+        "song",
+        "message"
+      ]
+    },
+    {
+      "id": "complaint",
+      "label": "Complaint",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "collab",
+      "label": "Request Collaboration",
+      "fields": [
+        "role",
+        "links",
+        "message"
+      ]
+    },
+    {
+      "id": "content-use",
+      "label": "Request the Use of Content",
+      "fields": [
+        "contentType",
+        "artist",
+        "song",
+        "video",
+        "videoTitle",
+        "message"
+      ]
+    },
+    {
+      "id": "purchase-song",
+      "label": "Purchase a Song",
+      "fields": [
+        "artist",
+        "song",
+        "message"
+      ]
+    },
+    {
+      "id": "stems",
+      "label": "Request Purchasing Song Stems",
+      "fields": [
+        "artist",
+        "song",
+        "message"
+      ]
+    },
+    {
+      "id": "store-idea",
+      "label": "Suggestion for the Store",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "store-feedback",
+      "label": "Store Feedback",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "fields": [
+        "message"
+      ]
+    }
+  ]
+}

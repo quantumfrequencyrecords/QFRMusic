@@ -1,0 +1,678 @@
+[
+  {
+    "id": "buckshot-bourbon",
+    "name": "Buckshot Bourbon",
+    "genre": "Country Rock",
+    "genres": [
+      "Country Rock",
+      "Southern Rock",
+      "Americana"
+    ],
+    "hometown": "Anywhere, NY",
+    "formed": 2019,
+    "type": "group",
+    "tagline": "Dust, steel strings, and a second chance at midnight.",
+    "description": "A country-rock outfit that treats the open road like a studio. Buckshot Bourbon writes bar-room hymns with arena-sized choruses — whiskey-warm guitars, stacked harmonies, and stories that refuse to sand off their edges.",
+    "biography": "Buckshot Bourbon started as a Friday-night residency in a converted feed mill north of the city. What began as three-hour sets for regulars became a catalog of songs about work, weather, loyalty, and the kind of love that leaves boot prints. Quantum Frequency Records signed the group after a live tape of 'Last Call Gravity' circulated through the label's A&R circle. They remain proudly analog in spirit — tracking live when it serves the song — while using the label as a launchpad to take country-rock somewhere less expected.",
+    "image": "/assets/images/artists/buckshot-bourbon.jpg",
+    "hero": "/assets/images/artists/buckshot-bourbon-hero.jpg",
+    "logo": "/assets/images/logos/buckshot-bourbon.png",
+    "members": [
+      {
+        "id": "bb-cole",
+        "name": "Cole Harlan",
+        "role": "Vocals / Guitar",
+        "bio": "Frontman and principal songwriter. Cole writes like he talks: plain, pointed, and a little dangerous after midnight.",
+        "image": "/assets/images/members/bb-cole.jpg"
+      },
+      {
+        "id": "bb-mae",
+        "name": "Mae Riven",
+        "role": "Vocals / Fiddle",
+        "bio": "The high harmony and the wild card. Mae's fiddle lines are the band's secret weapon.",
+        "image": "/assets/images/members/bb-mae.jpg"
+      },
+      {
+        "id": "bb-dutch",
+        "name": "Dutch Keller",
+        "role": "Bass",
+        "bio": "Keeps the floorboards moving. Dutch came up playing roadhouses from Buffalo to Birmingham.",
+        "image": "/assets/images/members/bb-dutch.jpg"
+      },
+      {
+        "id": "bb-rex",
+        "name": "Rex Lang",
+        "role": "Drums",
+        "bio": "A pocket drummer with a stomping right foot and a collection of vintage snares.",
+        "image": "/assets/images/members/bb-rex.jpg"
+      }
+    ],
+    "stats": {
+      "week": 18420,
+      "month": 120567,
+      "ytd": 890340
+    },
+    "signedDate": "2024-11-02"
+  },
+  {
+    "id": "sawyer-kennedy",
+    "name": "Sawyer Kennedy",
+    "genre": "Nashville Country",
+    "genres": [
+      "Country",
+      "Nashville",
+      "Singer-Songwriter"
+    ],
+    "hometown": "Nashville, TN",
+    "formed": 2021,
+    "type": "solo",
+    "tagline": "Nashville steel with a late-night conscience.",
+    "description": "A solo Nashville country artist who writes like a novelist and sings like the last person left in the room. Sawyer Kennedy's catalog is intimate, cinematic, and unafraid of silence.",
+    "biography": "Sawyer Kennedy moved to Nashville with a notebook and a borrowed Telecaster. After two winters of writer's rounds and one very public breakup record, the songs started traveling further than the gigs. QFR heard a demo of 'Glass Off the Dashboard' and offered a home that would not force a radio template onto a storyteller. Sawyer records with a small rotating cast of Nashville players and produces with a documentary ear — room tone, breath, and the scrape of a chair are part of the arrangement.",
+    "image": "/assets/images/artists/sawyer-kennedy.jpg",
+    "hero": "/assets/images/artists/sawyer-kennedy-hero.jpg",
+    "logo": "/assets/images/logos/sawyer-kennedy.png",
+    "members": [
+      {
+        "id": "sk-sawyer",
+        "name": "Sawyer Kennedy",
+        "role": "Vocals / Guitar / Writer",
+        "bio": "Solo artist. Writes, sings, and produces from a converted garage studio east of downtown Nashville.",
+        "image": "/assets/images/members/sk-sawyer.jpg"
+      }
+    ],
+    "stats": {
+      "week": 22110,
+      "month": 98040,
+      "ytd": 610220
+    },
+    "signedDate": "2025-02-14"
+  },
+  {
+    "id": "fractal-hearts",
+    "name": "Fractal Hearts",
+    "genre": "Progressive / Space Rock",
+    "genres": [
+      "Progressive Rock",
+      "Space Rock",
+      "Alt Rock"
+    ],
+    "hometown": "Portland, OR",
+    "formed": 2018,
+    "type": "group",
+    "tagline": "Long-form rock for people who still look up.",
+    "description": "Progressive, cosmic, and meticulously built. Fractal Hearts treat albums like constellations — motifs return, time signatures tilt, and guitars bloom into atmospheres.",
+    "biography": "Fractal Hearts formed in a Portland rehearsal loft after a failed jazz-fusion project and a successful all-night planetarium shift. Their music folds math-rock discipline into space-rock wonder. QFR signed them for the ambition: records that reward headphones, stages that reward patience, and a visual language of recursive geometry. Live, they run a three-screen light plot designed by the drummer.",
+    "image": "/assets/images/artists/fractal-hearts.jpg",
+    "hero": "/assets/images/artists/fractal-hearts-hero.jpg",
+    "logo": "/assets/images/logos/fractal-hearts.png",
+    "members": [
+      {
+        "id": "fh-nova",
+        "name": "Nova Ellison",
+        "role": "Guitar / Vocals",
+        "bio": "Architect of the band's looping motifs and soaring mid-song key changes.",
+        "image": "/assets/images/members/fh-nova.jpg"
+      },
+      {
+        "id": "fh-iris",
+        "name": "Iris Venn",
+        "role": "Keys / Synths",
+        "bio": "Builds the interstellar weather system the guitars fly through.",
+        "image": "/assets/images/members/fh-iris.jpg"
+      },
+      {
+        "id": "fh-kal",
+        "name": "Kal Dreher",
+        "role": "Bass",
+        "bio": "A melodic bassist who treats odd meters like a conversation, not a stunt.",
+        "image": "/assets/images/members/fh-kal.jpg"
+      },
+      {
+        "id": "fh-jin",
+        "name": "Jin Park",
+        "role": "Drums / Visuals",
+        "bio": "Polyrhythmic engine and the designer of the live light fractal.",
+        "image": "/assets/images/members/fh-jin.jpg"
+      }
+    ],
+    "stats": {
+      "week": 30112,
+      "month": 154880,
+      "ytd": 1022440
+    },
+    "signedDate": "2023-08-19"
+  },
+  {
+    "id": "grassroots-rebellion",
+    "name": "Grassroots Rebellion",
+    "genre": "Punk Rock",
+    "genres": [
+      "Punk Rock",
+      "Alt Rock",
+      "Pop Punk"
+    ],
+    "hometown": "Brooklyn, NY",
+    "formed": 2020,
+    "type": "group",
+    "tagline": "Hooks first. Compromise never.",
+    "description": "Punk rock with pop-punk adrenaline and alt-rock craft. Grassroots Rebellion write two-minute arguments you can shout from a sticky floor.",
+    "biography": "Grassroots Rebellion came up on basement bills, community radio, and a photocopied zine that outlived three practice spaces. Their songs are short, sharp, and surprisingly tender in the third verse. QFR wanted a band that could sit next to country and nu-metal without blinking — GR is that band. They still run their own merch table.",
+    "image": "/assets/images/artists/grassroots-rebellion.jpg",
+    "hero": "/assets/images/artists/grassroots-rebellion-hero.jpg",
+    "logo": "/assets/images/logos/grassroots-rebellion.png",
+    "members": [
+      {
+        "id": "gr-tia",
+        "name": "Tia Morales",
+        "role": "Vocals / Guitar",
+        "bio": "Lyricist of the uprising. Tia writes slogans that still feel like diary entries.",
+        "image": "/assets/images/members/gr-tia.jpg"
+      },
+      {
+        "id": "gr-benji",
+        "name": "Benji Crowe",
+        "role": "Guitar",
+        "bio": "Downstrokes, delay, and a gift for the one note that makes a chorus lift.",
+        "image": "/assets/images/members/gr-benji.jpg"
+      },
+      {
+        "id": "gr-pam",
+        "name": "Pam Okoye",
+        "role": "Bass / Vocals",
+        "bio": "The low-end argument. Pam's backing vocals are half the band's identity.",
+        "image": "/assets/images/members/gr-pam.jpg"
+      },
+      {
+        "id": "gr-otto",
+        "name": "Otto Finch",
+        "role": "Drums",
+        "bio": "Fast, precise, and allergic to drum fills that last longer than the point.",
+        "image": "/assets/images/members/gr-otto.jpg"
+      }
+    ],
+    "stats": {
+      "week": 27540,
+      "month": 133210,
+      "ytd": 744500
+    },
+    "signedDate": "2024-04-01"
+  },
+  {
+    "id": "warpnotix",
+    "name": "Warpnotix",
+    "genre": "Electronic Dance",
+    "genres": [
+      "Electronic",
+      "Dance",
+      "DJ / Producer"
+    ],
+    "hometown": "Los Angeles, CA",
+    "formed": 2017,
+    "type": "solo",
+    "tagline": "Low-end physics for crowded rooms.",
+    "description": "A DJ/producer building kinetic, nocturnal electronic music — warehouse pressure, neon melancholy, and drops engineered like architecture.",
+    "biography": "Warpnotix (Wren Nox) spent a decade inside other people's tracks as a mix engineer before stepping in front of the decks. The Warpnotix project is a laboratory for dance-floor physics: sub that you feel in your ribs, breaks that reset the room, and a visual identity of warped grids. QFR signed Wren to prove the label's universe is not genre-bound. Club nights, festival afters, and headphone albums all sit in the same catalog.",
+    "image": "/assets/images/artists/warpnotix.jpg",
+    "hero": "/assets/images/artists/warpnotix-hero.jpg",
+    "logo": "/assets/images/logos/warpnotix.png",
+    "members": [
+      {
+        "id": "wn-wren",
+        "name": "Wren Nox",
+        "role": "Producer / DJ",
+        "bio": "The entire Warpnotix operation: writing, production, live sets, and visual direction.",
+        "image": "/assets/images/members/wn-wren.jpg"
+      }
+    ],
+    "stats": {
+      "week": 44890,
+      "month": 210440,
+      "ytd": 1540880
+    },
+    "signedDate": "2023-12-09"
+  },
+  {
+    "id": "sound-shamans",
+    "name": "Sound Shamans",
+    "genre": "Alt / Indie Rock",
+    "genres": [
+      "Alt Rock",
+      "Indie Rock"
+    ],
+    "hometown": "Austin, TX",
+    "formed": 2016,
+    "type": "group",
+    "tagline": "Rituals for a loud room.",
+    "description": "Alt-rock built on hypnotic riffs, desert air, and a live reputation that borders on ceremony. Sound Shamans treat volume as a language.",
+    "biography": "Sound Shamans emerged from Austin's late-night circuit with a reputation for sets that felt longer than the clock. They write in cycles and drones, then smash those cycles with choruses. The band's visual world is ochre, bone, and blue-black night. QFR brought them in to hold the indie/alt lane without turning it into a costume.",
+    "image": "/assets/images/artists/sound-shamans.jpg",
+    "hero": "/assets/images/artists/sound-shamans-hero.jpg",
+    "logo": "/assets/images/logos/sound-shamans.png",
+    "members": [
+      {
+        "id": "ss-rowan",
+        "name": "Rowan Hale",
+        "role": "Vocals / Guitar",
+        "bio": "Writes the incantations. A baritone that can go from whisper to weather.",
+        "image": "/assets/images/members/ss-rowan.jpg"
+      },
+      {
+        "id": "ss-leah",
+        "name": "Leah Voss",
+        "role": "Guitar / Pedals",
+        "bio": "Pedalboard cartographer. Leah's textures are half the band's atmosphere.",
+        "image": "/assets/images/members/ss-leah.jpg"
+      },
+      {
+        "id": "ss-mik",
+        "name": "Mik Santos",
+        "role": "Bass",
+        "bio": "Holds the ritual down. Prefers one great note to twelve busy ones.",
+        "image": "/assets/images/members/ss-mik.jpg"
+      },
+      {
+        "id": "ss-ada",
+        "name": "Ada Quinn",
+        "role": "Drums",
+        "bio": "Drives the trance. Ada's tom patterns are the band's pulse.",
+        "image": "/assets/images/members/ss-ada.jpg"
+      }
+    ],
+    "stats": {
+      "week": 19880,
+      "month": 87500,
+      "ytd": 501220
+    },
+    "signedDate": "2024-06-21"
+  },
+  {
+    "id": "immovable-giants",
+    "name": "Immovable Giants",
+    "genre": "Alt / Indie Rock",
+    "genres": [
+      "Alt Rock",
+      "Indie Rock"
+    ],
+    "hometown": "Chicago, IL",
+    "formed": 2015,
+    "type": "group",
+    "tagline": "Heavy feelings, human scale.",
+    "description": "Chicago alt-rock that builds cathedrals out of patience. Immovable Giants write slow-burn anthems for people who stayed.",
+    "biography": "Immovable Giants have been a Chicago secret for a decade: winter records, sold-out rooms, and a refusal to hurry. Their songs start small and become inevitable. QFR signed them to give the catalog a backbone of adult, unshowy rock — the kind that still hits like weather. The band records to tape when the song asks for it and to a laptop when it doesn't.",
+    "image": "/assets/images/artists/immovable-giants.jpg",
+    "hero": "/assets/images/artists/immovable-giants-hero.jpg",
+    "logo": "/assets/images/logos/immovable-giants.png",
+    "members": [
+      {
+        "id": "ig-ellen",
+        "name": "Ellen Marsh",
+        "role": "Vocals / Guitar",
+        "bio": "The still point. Ellen writes about endurance without making a speech of it.",
+        "image": "/assets/images/members/ig-ellen.jpg"
+      },
+      {
+        "id": "ig-theo",
+        "name": "Theo Brant",
+        "role": "Guitar",
+        "bio": "Architect of the band's huge, patient chord voicings.",
+        "image": "/assets/images/members/ig-theo.jpg"
+      },
+      {
+        "id": "ig-nori",
+        "name": "Nori Blake",
+        "role": "Bass / Vocals",
+        "bio": "Melodic ballast. Nori's voice is the ghost in the choruses.",
+        "image": "/assets/images/members/ig-nori.jpg"
+      },
+      {
+        "id": "ig-cam",
+        "name": "Cam Ruiz",
+        "role": "Drums",
+        "bio": "Dynamics first. Cam can make a verse feel like a held breath.",
+        "image": "/assets/images/members/ig-cam.jpg"
+      }
+    ],
+    "stats": {
+      "week": 16220,
+      "month": 74010,
+      "ytd": 388900
+    },
+    "signedDate": "2025-01-08"
+  },
+  {
+    "id": "jones-beach-boys",
+    "name": "The Jones Beach Boys",
+    "genre": "Surf Rock",
+    "genres": [
+      "Surf Rock",
+      "1960s Revival",
+      "Indie"
+    ],
+    "hometown": "Long Island, NY",
+    "formed": 2022,
+    "type": "group",
+    "tagline": "Reverb, salt, and a perfect chorus.",
+    "description": "A 1960s-surf-influenced group that treats the shoreline as a time machine. Twang, harmony, and summer even in January.",
+    "biography": "The Jones Beach Boys started as a joke name and became a real band the night they learned four-part surf harmony in a parking lot. They write instrumentals and vocal tunes with equal love for spring reverb and unsarcastic joy. QFR signed them because the roster needed sun — and because the songs are better than nostalgia. They record live in a beach bungalow when the weather allows.",
+    "image": "/assets/images/artists/jones-beach-boys.jpg",
+    "hero": "/assets/images/artists/jones-beach-boys-hero.jpg",
+    "logo": "/assets/images/logos/jones-beach-boys.png",
+    "members": [
+      {
+        "id": "jb-nick",
+        "name": "Nick Ellery",
+        "role": "Lead Guitar",
+        "bio": "Whammy-bar poet. Nick collects vintage Fenders the way other people collect postcards.",
+        "image": "/assets/images/members/jb-nick.jpg"
+      },
+      {
+        "id": "jb-sam",
+        "name": "Sam Prieto",
+        "role": "Vocals / Rhythm",
+        "bio": "The smile in the mix and the architect of the vocal stacks.",
+        "image": "/assets/images/members/jb-sam.jpg"
+      },
+      {
+        "id": "jb-dewey",
+        "name": "Dewey Hart",
+        "role": "Bass",
+        "bio": "Walking lines, spring-reverb grin, never in a hurry.",
+        "image": "/assets/images/members/jb-dewey.jpg"
+      },
+      {
+        "id": "jb-kit",
+        "name": "Kit Ambrose",
+        "role": "Drums",
+        "bio": "Ride-cymbal specialist. Kit plays like the tide coming in.",
+        "image": "/assets/images/members/jb-kit.jpg"
+      }
+    ],
+    "stats": {
+      "week": 14110,
+      "month": 66240,
+      "ytd": 290440
+    },
+    "signedDate": "2025-05-30"
+  },
+  {
+    "id": "cosmic-run",
+    "name": "The Cosmic Run",
+    "genre": "Alt / Folk Rock",
+    "genres": [
+      "Alt Rock",
+      "Indie Rock",
+      "Folk Rock"
+    ],
+    "hometown": "Boulder, CO",
+    "formed": 2019,
+    "type": "group",
+    "tagline": "Campfire songs for the upper atmosphere.",
+    "description": "Alt-folk-rock that starts on a trail and ends in orbit. Acoustic bones, electric weather, and lyrics that look both inward and up.",
+    "biography": "The Cosmic Run write on long drives and longer hikes. Their records move from fingerpicked confessionals to wide, night-sky rock without losing the plot. QFR heard them as the connective tissue of the roster — the band that makes country fans stay for the psych set. They self-produce with a mobile rig and a stubborn love of first takes.",
+    "image": "/assets/images/artists/cosmic-run.jpg",
+    "hero": "/assets/images/artists/cosmic-run-hero.jpg",
+    "logo": "/assets/images/logos/cosmic-run.png",
+    "members": [
+      {
+        "id": "cr-june",
+        "name": "June Calder",
+        "role": "Vocals / Acoustic",
+        "bio": "The compass. June's songs are maps disguised as letters.",
+        "image": "/assets/images/members/cr-june.jpg"
+      },
+      {
+        "id": "cr-eli",
+        "name": "Eli Navarro",
+        "role": "Electric Guitar",
+        "bio": "Paints the sky around the acoustic bones.",
+        "image": "/assets/images/members/cr-eli.jpg"
+      },
+      {
+        "id": "cr-posey",
+        "name": "Posey Lin",
+        "role": "Bass / Vocals",
+        "bio": "Folk-root low end with a harmony sense from choir-kid years.",
+        "image": "/assets/images/members/cr-posey.jpg"
+      },
+      {
+        "id": "cr-hart",
+        "name": "Hart Benson",
+        "role": "Drums / Percussion",
+        "bio": "Brushes, boots, and the occasional thunder roll.",
+        "image": "/assets/images/members/cr-hart.jpg"
+      }
+    ],
+    "stats": {
+      "week": 17330,
+      "month": 81020,
+      "ytd": 455600
+    },
+    "signedDate": "2024-09-12"
+  },
+  {
+    "id": "moonflower-radio",
+    "name": "Moonflower Radio",
+    "genre": "Psychedelic Rock",
+    "genres": [
+      "Alt Rock",
+      "Psychedelic Rock"
+    ],
+    "hometown": "San Francisco, CA",
+    "formed": 2014,
+    "type": "group",
+    "tagline": "Tune in. Drift. Come back changed.",
+    "description": "Psychedelic alt-rock transmitted like a late-night station from another decade. Pedals, poetry, and patiently exploding choruses.",
+    "biography": "Moonflower Radio have always sounded like a broadcast you found by accident and then never left. They came out of San Francisco's psych revival without becoming a museum act. QFR signed them for the color they add to the universe — washed-out film, analog delay, and lyrics that treat consciousness as a collaborative instrument. Their live shows are famously long and famously kind.",
+    "image": "/assets/images/artists/moonflower-radio.jpg",
+    "hero": "/assets/images/artists/moonflower-radio-hero.jpg",
+    "logo": "/assets/images/logos/moonflower-radio.png",
+    "members": [
+      {
+        "id": "mr-lark",
+        "name": "Lark Emerson",
+        "role": "Vocals / Guitar",
+        "bio": "Soft-loud mystic. Lark writes like a DJ of memories.",
+        "image": "/assets/images/members/mr-lark.jpg"
+      },
+      {
+        "id": "mr-suki",
+        "name": "Suki Arden",
+        "role": "Keys / Vocals",
+        "bio": "Organ, mellotron, and the voice that makes verses levitate.",
+        "image": "/assets/images/members/mr-suki.jpg"
+      },
+      {
+        "id": "mr-paulie",
+        "name": "Paulie Trent",
+        "role": "Bass",
+        "bio": "Hypnotic, patient, slightly behind the beat on purpose.",
+        "image": "/assets/images/members/mr-paulie.jpg"
+      },
+      {
+        "id": "mr-dove",
+        "name": "Dove Kim",
+        "role": "Drums",
+        "bio": "Plays time like it's elastic. A student of both motorik and swing.",
+        "image": "/assets/images/members/mr-dove.jpg"
+      }
+    ],
+    "stats": {
+      "week": 20990,
+      "month": 94010,
+      "ytd": 512880
+    },
+    "signedDate": "2023-10-04"
+  },
+  {
+    "id": "find-replace",
+    "name": "Find/Replace",
+    "genre": "Industrial / Nu-Metal",
+    "genres": [
+      "Industrial Rock",
+      "Nu-Metal",
+      "Alt Rock"
+    ],
+    "hometown": "Detroit, MI",
+    "formed": 2018,
+    "type": "group",
+    "tagline": "Machines that still bleed.",
+    "description": "Industrial rock colliding with nu-metal weight. Find/Replace write about systems, glitches, and the people caught in the search field.",
+    "biography": "Find/Replace formed in a Detroit warehouse that used to stamp auto parts. The building's acoustics — and its ghosts — are in the records. They sample factory ambience, scream like a UI error, and still write choruses you can put a fist in the air for. QFR wanted industrial muscle without corporate dystopia-as-cosplay. Find/Replace is the real weather of a city that makes things.",
+    "image": "/assets/images/artists/find-replace.jpg",
+    "hero": "/assets/images/artists/find-replace-hero.jpg",
+    "logo": "/assets/images/logos/find-replace.png",
+    "members": [
+      {
+        "id": "fr-hex",
+        "name": "Hex Calder",
+        "role": "Vocals / Programming",
+        "bio": "Half preacher, half compiler error. Hex writes in all-caps feelings.",
+        "image": "/assets/images/members/fr-hex.jpg"
+      },
+      {
+        "id": "fr-vex",
+        "name": "Vex Moreau",
+        "role": "Guitar / Noise",
+        "bio": "Seven-string architect. Treats feedback as a lead instrument.",
+        "image": "/assets/images/members/fr-vex.jpg"
+      },
+      {
+        "id": "fr-null",
+        "name": "Null Reyes",
+        "role": "Bass / Synths",
+        "bio": "The industrial floor. Null's tone is a building settling.",
+        "image": "/assets/images/members/fr-null.jpg"
+      },
+      {
+        "id": "fr-tick",
+        "name": "Tick Abram",
+        "role": "Drums",
+        "bio": "Acoustic kit triggered into a machine. Human swing, factory precision.",
+        "image": "/assets/images/members/fr-tick.jpg"
+      }
+    ],
+    "stats": {
+      "week": 33210,
+      "month": 148900,
+      "ytd": 877440
+    },
+    "signedDate": "2024-03-18"
+  },
+  {
+    "id": "immortal-prophets",
+    "name": "Immortal Prophets",
+    "genre": "Nu-Metal",
+    "genres": [
+      "Nu-Metal",
+      "Alternative Metal"
+    ],
+    "hometown": "Cleveland, OH",
+    "formed": 2017,
+    "type": "group",
+    "tagline": "Prophecy at drop-tuned volume.",
+    "description": "Nu-metal with a philosophical streak. Immortal Prophets write about fate, fury, and the joke of being mortal at this volume.",
+    "biography": "Immortal Prophets came out of Cleveland's heavy circuit with riffs that felt both vintage-2000 and unnervingly current. They rap, they scream, they stack gang vocals, and they mean it. QFR signed them to hold the heavy lane with dignity — no nostalgia trap, no irony shield. The band's mythos is self-made: sigils, sermons, and a live show that feels like a rite.",
+    "image": "/assets/images/artists/immortal-prophets.jpg",
+    "hero": "/assets/images/artists/immortal-prophets-hero.jpg",
+    "logo": "/assets/images/logos/immortal-prophets.png",
+    "members": [
+      {
+        "id": "ip-cain",
+        "name": "Cain Vesper",
+        "role": "Vocals",
+        "bio": "The prophet. Moves from whisper to rupture without a seam.",
+        "image": "/assets/images/members/ip-cain.jpg"
+      },
+      {
+        "id": "ip-joss",
+        "name": "Joss Halek",
+        "role": "Guitar",
+        "bio": "Drop-tuned author of the band's central riffs.",
+        "image": "/assets/images/members/ip-joss.jpg"
+      },
+      {
+        "id": "ip-mira",
+        "name": "Mira Solt",
+        "role": "Bass / Vocals",
+        "bio": "The low sermon. Mira's tone is half the prophecy.",
+        "image": "/assets/images/members/ip-mira.jpg"
+      },
+      {
+        "id": "ip-rook",
+        "name": "Rook Danner",
+        "role": "Drums",
+        "bio": "Double-kick philosopher. Rook writes beats like arguments.",
+        "image": "/assets/images/members/ip-rook.jpg"
+      }
+    ],
+    "stats": {
+      "week": 38990,
+      "month": 176600,
+      "ytd": 990120
+    },
+    "signedDate": "2024-07-07"
+  },
+  {
+    "id": "firewall-nation",
+    "name": "Firewall Nation",
+    "genre": "Nu-Metal / Rap Rock",
+    "genres": [
+      "Nu-Metal",
+      "Rap Rock",
+      "Alt Metal"
+    ],
+    "hometown": "Atlanta, GA",
+    "formed": 2020,
+    "type": "group",
+    "tagline": "Encrypted feelings, public volume.",
+    "description": "Nu-metal colliding with rap-rock cadence. Firewall Nation write about networks, loyalty, and what gets through.",
+    "biography": "Firewall Nation started as a cypher that needed guitars. Atlanta's rap precision met Midwestern heaviness after a tour van accident (minor, mythologized) put a producer and a metal guitarist in the same waiting room. The result is a band that can cut a verse like a verse and a chorus like a wall. QFR signed them as proof that the roster's 'nation' is bigger than any one scene.",
+    "image": "/assets/images/artists/firewall-nation.jpg",
+    "hero": "/assets/images/artists/firewall-nation-hero.jpg",
+    "logo": "/assets/images/logos/firewall-nation.png",
+    "members": [
+      {
+        "id": "fn-ace",
+        "name": "Ace Calderon",
+        "role": "Vocals / Rap",
+        "bio": "The packet. Ace writes in couplets that hit like exploits.",
+        "image": "/assets/images/members/fn-ace.jpg"
+      },
+      {
+        "id": "fn-rye",
+        "name": "Rye Patton",
+        "role": "Vocals / Scream",
+        "bio": "The payload. Rye turns choruses into sirens.",
+        "image": "/assets/images/members/fn-rye.jpg"
+      },
+      {
+        "id": "fn-gio",
+        "name": "Gio Hart",
+        "role": "Guitar",
+        "bio": "Djent-adjacent without the lecture. Gio loves a dirty octave.",
+        "image": "/assets/images/members/fn-gio.jpg"
+      },
+      {
+        "id": "fn-zee",
+        "name": "Zee Okonkwo",
+        "role": "Bass / Production",
+        "bio": "808s under a live bass. Zee produces the band's records in-house.",
+        "image": "/assets/images/members/fn-zee.jpg"
+      },
+      {
+        "id": "fn-pix",
+        "name": "Pix Renner",
+        "role": "Drums",
+        "bio": "Trap hats meet live kit. Pix is the reason the drop lands.",
+        "image": "/assets/images/members/fn-pix.jpg"
+      }
+    ],
+    "stats": {
+      "week": 41220,
+      "month": 188340,
+      "ytd": 1102450
+    },
+    "signedDate": "2025-03-03"
+  }
+]

@@ -1,0 +1,370 @@
+[
+  {
+    "id": "buckshot-bourbon-v1",
+    "artistId": "buckshot-bourbon",
+    "title": "Last Call Gravity — Live at the Mill",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/buckshot-bourbon-v1.jpg",
+    "date": "2025-01-09",
+    "views": {
+      "week": 1200,
+      "month": 8400,
+      "ytd": 54000
+    },
+    "category": "live",
+    "description": "Last Call Gravity — Live at the Mill by Buckshot Bourbon. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "buckshot-bourbon-v2",
+    "artistId": "buckshot-bourbon",
+    "title": "Anywhere, NY (Official Video)",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/buckshot-bourbon-v2.jpg",
+    "date": "2025-04-14",
+    "views": {
+      "week": 2000,
+      "month": 8400,
+      "ytd": 54000
+    },
+    "category": "official",
+    "description": "Anywhere, NY (Official Video) by Buckshot Bourbon. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "sawyer-kennedy-v1",
+    "artistId": "sawyer-kennedy",
+    "title": "Glass Off the Dashboard",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/sawyer-kennedy-v1.jpg",
+    "date": "2025-02-09",
+    "views": {
+      "week": 1340,
+      "month": 9300,
+      "ytd": 58200
+    },
+    "category": "official",
+    "description": "Glass Off the Dashboard by Sawyer Kennedy. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "sawyer-kennedy-v2",
+    "artistId": "sawyer-kennedy",
+    "title": "Writer's Round, Vol. 2",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/sawyer-kennedy-v2.jpg",
+    "date": "2025-05-14",
+    "views": {
+      "week": 2140,
+      "month": 9300,
+      "ytd": 58200
+    },
+    "category": "behind",
+    "description": "Writer's Round, Vol. 2 by Sawyer Kennedy. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "fractal-hearts-v1",
+    "artistId": "fractal-hearts",
+    "title": "Lattice of Light (Visualizer)",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/fractal-hearts-v1.jpg",
+    "date": "2025-03-09",
+    "views": {
+      "week": 1480,
+      "month": 10200,
+      "ytd": 62400
+    },
+    "category": "visualizer",
+    "description": "Lattice of Light (Visualizer) by Fractal Hearts. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "fractal-hearts-v2",
+    "artistId": "fractal-hearts",
+    "title": "Recursion — Planetarium Session",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/fractal-hearts-v2.jpg",
+    "date": "2025-06-14",
+    "views": {
+      "week": 2280,
+      "month": 10200,
+      "ytd": 62400
+    },
+    "category": "live",
+    "description": "Recursion — Planetarium Session by Fractal Hearts. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "grassroots-rebellion-v1",
+    "artistId": "grassroots-rebellion",
+    "title": "Don't Sand The Edges",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/grassroots-rebellion-v1.jpg",
+    "date": "2025-04-09",
+    "views": {
+      "week": 1620,
+      "month": 11100,
+      "ytd": 66600
+    },
+    "category": "official",
+    "description": "Don't Sand The Edges by Grassroots Rebellion. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "grassroots-rebellion-v2",
+    "artistId": "grassroots-rebellion",
+    "title": "Zine Age Tour Diary",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/grassroots-rebellion-v2.jpg",
+    "date": "2025-07-14",
+    "views": {
+      "week": 2420,
+      "month": 11100,
+      "ytd": 66600
+    },
+    "category": "behind",
+    "description": "Zine Age Tour Diary by Grassroots Rebellion. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "warpnotix-v1",
+    "artistId": "warpnotix",
+    "title": "Drop Architecture (Official Visual)",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/warpnotix-v1.jpg",
+    "date": "2025-05-09",
+    "views": {
+      "week": 1760,
+      "month": 12000,
+      "ytd": 70800
+    },
+    "category": "visualizer",
+    "description": "Drop Architecture (Official Visual) by Warpnotix. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "warpnotix-v2",
+    "artistId": "warpnotix",
+    "title": "Warehouse Set 04",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/warpnotix-v2.jpg",
+    "date": "2025-08-14",
+    "views": {
+      "week": 2560,
+      "month": 12000,
+      "ytd": 70800
+    },
+    "category": "live",
+    "description": "Warehouse Set 04 by Warpnotix. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "sound-shamans-v1",
+    "artistId": "sound-shamans",
+    "title": "Rite of Volume — Full Set",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/sound-shamans-v1.jpg",
+    "date": "2025-06-09",
+    "views": {
+      "week": 1900,
+      "month": 12900,
+      "ytd": 75000
+    },
+    "category": "live",
+    "description": "Rite of Volume — Full Set by Sound Shamans. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "immovable-giants-v1",
+    "artistId": "immovable-giants",
+    "title": "People Who Stayed",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/immovable-giants-v1.jpg",
+    "date": "2025-07-09",
+    "views": {
+      "week": 2040,
+      "month": 13800,
+      "ytd": 79200
+    },
+    "category": "official",
+    "description": "People Who Stayed by Immovable Giants. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "jones-beach-boys-v1",
+    "artistId": "jones-beach-boys",
+    "title": "Jones Beach Dawn",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/jones-beach-boys-v1.jpg",
+    "date": "2025-08-09",
+    "views": {
+      "week": 2180,
+      "month": 14700,
+      "ytd": 83400
+    },
+    "category": "official",
+    "description": "Jones Beach Dawn by The Jones Beach Boys. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "jones-beach-boys-v2",
+    "artistId": "jones-beach-boys",
+    "title": "Parking Lot Harmony",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/jones-beach-boys-v2.jpg",
+    "date": "2025-11-14",
+    "views": {
+      "week": 2980,
+      "month": 14700,
+      "ytd": 83400
+    },
+    "category": "behind",
+    "description": "Parking Lot Harmony by The Jones Beach Boys. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "cosmic-run-v1",
+    "artistId": "cosmic-run",
+    "title": "Upper Atmosphere",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/cosmic-run-v1.jpg",
+    "date": "2025-09-09",
+    "views": {
+      "week": 2320,
+      "month": 15600,
+      "ytd": 87600
+    },
+    "category": "official",
+    "description": "Upper Atmosphere by The Cosmic Run. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "moonflower-radio-v1",
+    "artistId": "moonflower-radio",
+    "title": "Station After Midnight",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/moonflower-radio-v1.jpg",
+    "date": "2025-10-09",
+    "views": {
+      "week": 2460,
+      "month": 16500,
+      "ytd": 91800
+    },
+    "category": "visualizer",
+    "description": "Station After Midnight by Moonflower Radio. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "moonflower-radio-v2",
+    "artistId": "moonflower-radio",
+    "title": "Kind Explosion — Live",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/moonflower-radio-v2.jpg",
+    "date": "2025-01-14",
+    "views": {
+      "week": 3260,
+      "month": 16500,
+      "ytd": 91800
+    },
+    "category": "live",
+    "description": "Kind Explosion — Live by Moonflower Radio. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "find-replace-v1",
+    "artistId": "find-replace",
+    "title": "Search Field",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/find-replace-v1.jpg",
+    "date": "2025-11-09",
+    "views": {
+      "week": 2600,
+      "month": 17400,
+      "ytd": 96000
+    },
+    "category": "official",
+    "description": "Search Field by Find/Replace. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "find-replace-v2",
+    "artistId": "find-replace",
+    "title": "Stamp Press Hymn",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/find-replace-v2.jpg",
+    "date": "2025-02-14",
+    "views": {
+      "week": 3400,
+      "month": 17400,
+      "ytd": 96000
+    },
+    "category": "live",
+    "description": "Stamp Press Hymn by Find/Replace. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "immortal-prophets-v1",
+    "artistId": "immortal-prophets",
+    "title": "Mortal Volume",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/immortal-prophets-v1.jpg",
+    "date": "2025-12-09",
+    "views": {
+      "week": 2740,
+      "month": 18300,
+      "ytd": 100200
+    },
+    "category": "official",
+    "description": "Mortal Volume by Immortal Prophets. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "immortal-prophets-v2",
+    "artistId": "immortal-prophets",
+    "title": "Sigil Ritual",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/immortal-prophets-v2.jpg",
+    "date": "2025-03-14",
+    "views": {
+      "week": 3540,
+      "month": 18300,
+      "ytd": 100200
+    },
+    "category": "live",
+    "description": "Sigil Ritual by Immortal Prophets. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "firewall-nation-v1",
+    "artistId": "firewall-nation",
+    "title": "Public Volume",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/firewall-nation-v1.jpg",
+    "date": "2025-01-09",
+    "views": {
+      "week": 2880,
+      "month": 19200,
+      "ytd": 104400
+    },
+    "category": "official",
+    "description": "Public Volume by Firewall Nation. Add a YouTube ID in data/videos.json to enable playback."
+  },
+  {
+    "id": "firewall-nation-v2",
+    "artistId": "firewall-nation",
+    "title": "Nation (Performance)",
+    "platform": "youtube",
+    "youtubeId": "",
+    "thumbnail": "/assets/images/gallery/firewall-nation-v2.jpg",
+    "date": "2025-04-14",
+    "views": {
+      "week": 3680,
+      "month": 19200,
+      "ytd": 104400
+    },
+    "category": "live",
+    "description": "Nation (Performance) by Firewall Nation. Add a YouTube ID in data/videos.json to enable playback."
+  }
+]

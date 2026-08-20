@@ -1,0 +1,278 @@
+[
+  {
+    "id": "bb-last-call",
+    "artistId": "buckshot-bourbon",
+    "title": "Last Call Gravity",
+    "type": "album",
+    "date": "2025-03-21",
+    "artwork": "/assets/images/releases/bb-last-call.jpg",
+    "songIds": [
+      "bb-last-call-t1",
+      "bb-last-call-t2",
+      "bb-last-call-t3",
+      "bb-last-call-t4",
+      "bb-last-call-t5"
+    ],
+    "description": "Last Call Gravity — a album from Buckshot Bourbon. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "bb-steel",
+    "artistId": "buckshot-bourbon",
+    "title": "Steel Magnolia Single",
+    "type": "single",
+    "date": "2025-09-12",
+    "artwork": "/assets/images/releases/bb-steel.jpg",
+    "songIds": [
+      "bb-steel-t1"
+    ],
+    "description": "Steel Magnolia Single — a single from Buckshot Bourbon. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "sk-glass",
+    "artistId": "sawyer-kennedy",
+    "title": "Glass Off the Dashboard",
+    "type": "album",
+    "date": "2025-06-06",
+    "artwork": "/assets/images/releases/sk-glass.jpg",
+    "songIds": [
+      "sk-glass-t1",
+      "sk-glass-t2",
+      "sk-glass-t3",
+      "sk-glass-t4"
+    ],
+    "description": "Glass Off the Dashboard — a album from Sawyer Kennedy. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "sk-river",
+    "artistId": "sawyer-kennedy",
+    "title": "River In Reverse",
+    "type": "single",
+    "date": "2026-01-17",
+    "artwork": "/assets/images/releases/sk-river.jpg",
+    "songIds": [
+      "sk-river-t1"
+    ],
+    "description": "River In Reverse — a single from Sawyer Kennedy. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "fh-lattice",
+    "artistId": "fractal-hearts",
+    "title": "Lattice of Light",
+    "type": "album",
+    "date": "2024-11-08",
+    "artwork": "/assets/images/releases/fh-lattice.jpg",
+    "songIds": [
+      "fh-lattice-t1",
+      "fh-lattice-t2",
+      "fh-lattice-t3",
+      "fh-lattice-t4",
+      "fh-lattice-t5"
+    ],
+    "description": "Lattice of Light — a album from Fractal Hearts. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "gr-zine",
+    "artistId": "grassroots-rebellion",
+    "title": "Zine Age",
+    "type": "album",
+    "date": "2025-04-18",
+    "artwork": "/assets/images/releases/gr-zine.jpg",
+    "songIds": [
+      "gr-zine-t1",
+      "gr-zine-t2",
+      "gr-zine-t3",
+      "gr-zine-t4",
+      "gr-zine-t5"
+    ],
+    "description": "Zine Age — a album from Grassroots Rebellion. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "gr-riot",
+    "artistId": "grassroots-rebellion",
+    "title": "Riot Softly",
+    "type": "single",
+    "date": "2025-10-31",
+    "artwork": "/assets/images/releases/gr-riot.jpg",
+    "songIds": [
+      "gr-riot-t1"
+    ],
+    "description": "Riot Softly — a single from Grassroots Rebellion. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "wn-grid",
+    "artistId": "warpnotix",
+    "title": "Warped Grid",
+    "type": "album",
+    "date": "2025-02-14",
+    "artwork": "/assets/images/releases/wn-grid.jpg",
+    "songIds": [
+      "wn-grid-t1",
+      "wn-grid-t2",
+      "wn-grid-t3",
+      "wn-grid-t4",
+      "wn-grid-t5"
+    ],
+    "description": "Warped Grid — a album from Warpnotix. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "wn-drop",
+    "artistId": "warpnotix",
+    "title": "Drop Architecture",
+    "type": "single",
+    "date": "2025-08-22",
+    "artwork": "/assets/images/releases/wn-drop.jpg",
+    "songIds": [
+      "wn-drop-t1"
+    ],
+    "description": "Drop Architecture — a single from Warpnotix. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "ss-rite",
+    "artistId": "sound-shamans",
+    "title": "Rite of Volume",
+    "type": "album",
+    "date": "2024-09-20",
+    "artwork": "/assets/images/releases/ss-rite.jpg",
+    "songIds": [
+      "ss-rite-t1",
+      "ss-rite-t2",
+      "ss-rite-t3",
+      "ss-rite-t4"
+    ],
+    "description": "Rite of Volume — a album from Sound Shamans. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "ig-weather",
+    "artistId": "immovable-giants",
+    "title": "People Who Stayed",
+    "type": "album",
+    "date": "2025-11-07",
+    "artwork": "/assets/images/releases/ig-weather.jpg",
+    "songIds": [
+      "ig-weather-t1",
+      "ig-weather-t2",
+      "ig-weather-t3",
+      "ig-weather-t4"
+    ],
+    "description": "People Who Stayed — a album from Immovable Giants. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "jb-salt",
+    "artistId": "jones-beach-boys",
+    "title": "Salt & Spring",
+    "type": "album",
+    "date": "2025-07-04",
+    "artwork": "/assets/images/releases/jb-salt.jpg",
+    "songIds": [
+      "jb-salt-t1",
+      "jb-salt-t2",
+      "jb-salt-t3",
+      "jb-salt-t4",
+      "jb-salt-t5"
+    ],
+    "description": "Salt & Spring — a album from The Jones Beach Boys. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "cr-trail",
+    "artistId": "cosmic-run",
+    "title": "Upper Atmosphere",
+    "type": "album",
+    "date": "2025-05-16",
+    "artwork": "/assets/images/releases/cr-trail.jpg",
+    "songIds": [
+      "cr-trail-t1",
+      "cr-trail-t2",
+      "cr-trail-t3",
+      "cr-trail-t4"
+    ],
+    "description": "Upper Atmosphere — a album from The Cosmic Run. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "mr-dial",
+    "artistId": "moonflower-radio",
+    "title": "Station After Midnight",
+    "type": "album",
+    "date": "2024-10-11",
+    "artwork": "/assets/images/releases/mr-dial.jpg",
+    "songIds": [
+      "mr-dial-t1",
+      "mr-dial-t2",
+      "mr-dial-t3",
+      "mr-dial-t4",
+      "mr-dial-t5"
+    ],
+    "description": "Station After Midnight — a album from Moonflower Radio. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "fr-query",
+    "artistId": "find-replace",
+    "title": "Search Field",
+    "type": "album",
+    "date": "2025-01-24",
+    "artwork": "/assets/images/releases/fr-query.jpg",
+    "songIds": [
+      "fr-query-t1",
+      "fr-query-t2",
+      "fr-query-t3",
+      "fr-query-t4",
+      "fr-query-t5"
+    ],
+    "description": "Search Field — a album from Find/Replace. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "fr-patch",
+    "artistId": "find-replace",
+    "title": "Hotfix",
+    "type": "single",
+    "date": "2025-12-05",
+    "artwork": "/assets/images/releases/fr-patch.jpg",
+    "songIds": [
+      "fr-patch-t1"
+    ],
+    "description": "Hotfix — a single from Find/Replace. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "ip-rite",
+    "artistId": "immortal-prophets",
+    "title": "Mortal Volume",
+    "type": "album",
+    "date": "2025-08-01",
+    "artwork": "/assets/images/releases/ip-rite.jpg",
+    "songIds": [
+      "ip-rite-t1",
+      "ip-rite-t2",
+      "ip-rite-t3",
+      "ip-rite-t4",
+      "ip-rite-t5"
+    ],
+    "description": "Mortal Volume — a album from Immortal Prophets. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "fn-packet",
+    "artistId": "firewall-nation",
+    "title": "Public Volume",
+    "type": "album",
+    "date": "2025-09-19",
+    "artwork": "/assets/images/releases/fn-packet.jpg",
+    "songIds": [
+      "fn-packet-t1",
+      "fn-packet-t2",
+      "fn-packet-t3",
+      "fn-packet-t4",
+      "fn-packet-t5"
+    ],
+    "description": "Public Volume — a album from Firewall Nation. Replace this placeholder copy with official liner notes."
+  },
+  {
+    "id": "fn-port",
+    "artistId": "firewall-nation",
+    "title": "Open Port",
+    "type": "single",
+    "date": "2026-02-06",
+    "artwork": "/assets/images/releases/fn-port.jpg",
+    "songIds": [
+      "fn-port-t1"
+    ],
+    "description": "Open Port — a single from Firewall Nation. Replace this placeholder copy with official liner notes."
+  }
+]

@@ -1,0 +1,470 @@
+[
+  {
+    "id": "buckshot-bourbon-g1",
+    "artistId": "buckshot-bourbon",
+    "image": "/assets/images/gallery/buckshot-bourbon-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-01-12",
+    "location": "Anywhere, NY",
+    "caption": "Buckshot Bourbon — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "buckshot-bourbon-g2",
+    "artistId": "buckshot-bourbon",
+    "image": "/assets/images/gallery/buckshot-bourbon-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-02-12",
+    "location": "Anywhere, NY",
+    "caption": "Buckshot Bourbon — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "buckshot-bourbon-g3",
+    "artistId": "buckshot-bourbon",
+    "image": "/assets/images/gallery/buckshot-bourbon-g3.jpg",
+    "category": "Studio",
+    "date": "2025-03-12",
+    "location": "Anywhere, NY",
+    "caption": "Buckshot Bourbon — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "buckshot-bourbon-g4",
+    "artistId": "buckshot-bourbon",
+    "image": "/assets/images/gallery/buckshot-bourbon-g4.jpg",
+    "category": "Events",
+    "date": "2025-04-12",
+    "location": "Anywhere, NY",
+    "caption": "Buckshot Bourbon — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "sawyer-kennedy-g1",
+    "artistId": "sawyer-kennedy",
+    "image": "/assets/images/gallery/sawyer-kennedy-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-02-12",
+    "location": "Nashville, TN",
+    "caption": "Sawyer Kennedy — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "sawyer-kennedy-g2",
+    "artistId": "sawyer-kennedy",
+    "image": "/assets/images/gallery/sawyer-kennedy-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-03-12",
+    "location": "Nashville, TN",
+    "caption": "Sawyer Kennedy — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "sawyer-kennedy-g3",
+    "artistId": "sawyer-kennedy",
+    "image": "/assets/images/gallery/sawyer-kennedy-g3.jpg",
+    "category": "Studio",
+    "date": "2025-04-12",
+    "location": "Nashville, TN",
+    "caption": "Sawyer Kennedy — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "sawyer-kennedy-g4",
+    "artistId": "sawyer-kennedy",
+    "image": "/assets/images/gallery/sawyer-kennedy-g4.jpg",
+    "category": "Events",
+    "date": "2025-05-12",
+    "location": "Nashville, TN",
+    "caption": "Sawyer Kennedy — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "fractal-hearts-g1",
+    "artistId": "fractal-hearts",
+    "image": "/assets/images/gallery/fractal-hearts-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-03-12",
+    "location": "Portland, OR",
+    "caption": "Fractal Hearts — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "fractal-hearts-g2",
+    "artistId": "fractal-hearts",
+    "image": "/assets/images/gallery/fractal-hearts-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-04-12",
+    "location": "Portland, OR",
+    "caption": "Fractal Hearts — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "fractal-hearts-g3",
+    "artistId": "fractal-hearts",
+    "image": "/assets/images/gallery/fractal-hearts-g3.jpg",
+    "category": "Studio",
+    "date": "2025-05-12",
+    "location": "Portland, OR",
+    "caption": "Fractal Hearts — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "fractal-hearts-g4",
+    "artistId": "fractal-hearts",
+    "image": "/assets/images/gallery/fractal-hearts-g4.jpg",
+    "category": "Events",
+    "date": "2025-06-12",
+    "location": "Portland, OR",
+    "caption": "Fractal Hearts — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "grassroots-rebellion-g1",
+    "artistId": "grassroots-rebellion",
+    "image": "/assets/images/gallery/grassroots-rebellion-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-04-12",
+    "location": "Brooklyn, NY",
+    "caption": "Grassroots Rebellion — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "grassroots-rebellion-g2",
+    "artistId": "grassroots-rebellion",
+    "image": "/assets/images/gallery/grassroots-rebellion-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-05-12",
+    "location": "Brooklyn, NY",
+    "caption": "Grassroots Rebellion — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "grassroots-rebellion-g3",
+    "artistId": "grassroots-rebellion",
+    "image": "/assets/images/gallery/grassroots-rebellion-g3.jpg",
+    "category": "Studio",
+    "date": "2025-06-12",
+    "location": "Brooklyn, NY",
+    "caption": "Grassroots Rebellion — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "grassroots-rebellion-g4",
+    "artistId": "grassroots-rebellion",
+    "image": "/assets/images/gallery/grassroots-rebellion-g4.jpg",
+    "category": "Events",
+    "date": "2025-07-12",
+    "location": "Brooklyn, NY",
+    "caption": "Grassroots Rebellion — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "warpnotix-g1",
+    "artistId": "warpnotix",
+    "image": "/assets/images/gallery/warpnotix-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-05-12",
+    "location": "Los Angeles, CA",
+    "caption": "Warpnotix — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "warpnotix-g2",
+    "artistId": "warpnotix",
+    "image": "/assets/images/gallery/warpnotix-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-06-12",
+    "location": "Los Angeles, CA",
+    "caption": "Warpnotix — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "warpnotix-g3",
+    "artistId": "warpnotix",
+    "image": "/assets/images/gallery/warpnotix-g3.jpg",
+    "category": "Studio",
+    "date": "2025-07-12",
+    "location": "Los Angeles, CA",
+    "caption": "Warpnotix — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "warpnotix-g4",
+    "artistId": "warpnotix",
+    "image": "/assets/images/gallery/warpnotix-g4.jpg",
+    "category": "Events",
+    "date": "2025-08-12",
+    "location": "Los Angeles, CA",
+    "caption": "Warpnotix — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "sound-shamans-g1",
+    "artistId": "sound-shamans",
+    "image": "/assets/images/gallery/sound-shamans-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-06-12",
+    "location": "Austin, TX",
+    "caption": "Sound Shamans — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "sound-shamans-g2",
+    "artistId": "sound-shamans",
+    "image": "/assets/images/gallery/sound-shamans-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-07-12",
+    "location": "Austin, TX",
+    "caption": "Sound Shamans — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "sound-shamans-g3",
+    "artistId": "sound-shamans",
+    "image": "/assets/images/gallery/sound-shamans-g3.jpg",
+    "category": "Studio",
+    "date": "2025-08-12",
+    "location": "Austin, TX",
+    "caption": "Sound Shamans — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "sound-shamans-g4",
+    "artistId": "sound-shamans",
+    "image": "/assets/images/gallery/sound-shamans-g4.jpg",
+    "category": "Events",
+    "date": "2025-09-12",
+    "location": "Austin, TX",
+    "caption": "Sound Shamans — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "immovable-giants-g1",
+    "artistId": "immovable-giants",
+    "image": "/assets/images/gallery/immovable-giants-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-07-12",
+    "location": "Chicago, IL",
+    "caption": "Immovable Giants — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "immovable-giants-g2",
+    "artistId": "immovable-giants",
+    "image": "/assets/images/gallery/immovable-giants-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-08-12",
+    "location": "Chicago, IL",
+    "caption": "Immovable Giants — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "immovable-giants-g3",
+    "artistId": "immovable-giants",
+    "image": "/assets/images/gallery/immovable-giants-g3.jpg",
+    "category": "Studio",
+    "date": "2025-09-12",
+    "location": "Chicago, IL",
+    "caption": "Immovable Giants — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "immovable-giants-g4",
+    "artistId": "immovable-giants",
+    "image": "/assets/images/gallery/immovable-giants-g4.jpg",
+    "category": "Events",
+    "date": "2025-10-12",
+    "location": "Chicago, IL",
+    "caption": "Immovable Giants — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "jones-beach-boys-g1",
+    "artistId": "jones-beach-boys",
+    "image": "/assets/images/gallery/jones-beach-boys-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-08-12",
+    "location": "Long Island, NY",
+    "caption": "The Jones Beach Boys — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "jones-beach-boys-g2",
+    "artistId": "jones-beach-boys",
+    "image": "/assets/images/gallery/jones-beach-boys-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-09-12",
+    "location": "Long Island, NY",
+    "caption": "The Jones Beach Boys — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "jones-beach-boys-g3",
+    "artistId": "jones-beach-boys",
+    "image": "/assets/images/gallery/jones-beach-boys-g3.jpg",
+    "category": "Studio",
+    "date": "2025-10-12",
+    "location": "Long Island, NY",
+    "caption": "The Jones Beach Boys — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "jones-beach-boys-g4",
+    "artistId": "jones-beach-boys",
+    "image": "/assets/images/gallery/jones-beach-boys-g4.jpg",
+    "category": "Events",
+    "date": "2025-11-12",
+    "location": "Long Island, NY",
+    "caption": "The Jones Beach Boys — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "cosmic-run-g1",
+    "artistId": "cosmic-run",
+    "image": "/assets/images/gallery/cosmic-run-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-09-12",
+    "location": "Boulder, CO",
+    "caption": "The Cosmic Run — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "cosmic-run-g2",
+    "artistId": "cosmic-run",
+    "image": "/assets/images/gallery/cosmic-run-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-10-12",
+    "location": "Boulder, CO",
+    "caption": "The Cosmic Run — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "cosmic-run-g3",
+    "artistId": "cosmic-run",
+    "image": "/assets/images/gallery/cosmic-run-g3.jpg",
+    "category": "Studio",
+    "date": "2025-11-12",
+    "location": "Boulder, CO",
+    "caption": "The Cosmic Run — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "cosmic-run-g4",
+    "artistId": "cosmic-run",
+    "image": "/assets/images/gallery/cosmic-run-g4.jpg",
+    "category": "Events",
+    "date": "2025-12-12",
+    "location": "Boulder, CO",
+    "caption": "The Cosmic Run — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "moonflower-radio-g1",
+    "artistId": "moonflower-radio",
+    "image": "/assets/images/gallery/moonflower-radio-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-10-12",
+    "location": "San Francisco, CA",
+    "caption": "Moonflower Radio — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "moonflower-radio-g2",
+    "artistId": "moonflower-radio",
+    "image": "/assets/images/gallery/moonflower-radio-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-11-12",
+    "location": "San Francisco, CA",
+    "caption": "Moonflower Radio — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "moonflower-radio-g3",
+    "artistId": "moonflower-radio",
+    "image": "/assets/images/gallery/moonflower-radio-g3.jpg",
+    "category": "Studio",
+    "date": "2025-12-12",
+    "location": "San Francisco, CA",
+    "caption": "Moonflower Radio — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "moonflower-radio-g4",
+    "artistId": "moonflower-radio",
+    "image": "/assets/images/gallery/moonflower-radio-g4.jpg",
+    "category": "Events",
+    "date": "2025-01-12",
+    "location": "San Francisco, CA",
+    "caption": "Moonflower Radio — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "find-replace-g1",
+    "artistId": "find-replace",
+    "image": "/assets/images/gallery/find-replace-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-11-12",
+    "location": "Detroit, MI",
+    "caption": "Find/Replace — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "find-replace-g2",
+    "artistId": "find-replace",
+    "image": "/assets/images/gallery/find-replace-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-12-12",
+    "location": "Detroit, MI",
+    "caption": "Find/Replace — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "find-replace-g3",
+    "artistId": "find-replace",
+    "image": "/assets/images/gallery/find-replace-g3.jpg",
+    "category": "Studio",
+    "date": "2025-01-12",
+    "location": "Detroit, MI",
+    "caption": "Find/Replace — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "find-replace-g4",
+    "artistId": "find-replace",
+    "image": "/assets/images/gallery/find-replace-g4.jpg",
+    "category": "Events",
+    "date": "2025-02-12",
+    "location": "Detroit, MI",
+    "caption": "Find/Replace — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "immortal-prophets-g1",
+    "artistId": "immortal-prophets",
+    "image": "/assets/images/gallery/immortal-prophets-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-12-12",
+    "location": "Cleveland, OH",
+    "caption": "Immortal Prophets — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "immortal-prophets-g2",
+    "artistId": "immortal-prophets",
+    "image": "/assets/images/gallery/immortal-prophets-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-01-12",
+    "location": "Cleveland, OH",
+    "caption": "Immortal Prophets — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "immortal-prophets-g3",
+    "artistId": "immortal-prophets",
+    "image": "/assets/images/gallery/immortal-prophets-g3.jpg",
+    "category": "Studio",
+    "date": "2025-02-12",
+    "location": "Cleveland, OH",
+    "caption": "Immortal Prophets — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "immortal-prophets-g4",
+    "artistId": "immortal-prophets",
+    "image": "/assets/images/gallery/immortal-prophets-g4.jpg",
+    "category": "Events",
+    "date": "2025-03-12",
+    "location": "Cleveland, OH",
+    "caption": "Immortal Prophets — Events. Replace this still with authorized photography."
+  },
+  {
+    "id": "firewall-nation-g1",
+    "artistId": "firewall-nation",
+    "image": "/assets/images/gallery/firewall-nation-g1.jpg",
+    "category": "Live Performances",
+    "date": "2025-01-12",
+    "location": "Atlanta, GA",
+    "caption": "Firewall Nation — Live Performances. Replace this still with authorized photography."
+  },
+  {
+    "id": "firewall-nation-g2",
+    "artistId": "firewall-nation",
+    "image": "/assets/images/gallery/firewall-nation-g2.jpg",
+    "category": "Band Members",
+    "date": "2025-02-12",
+    "location": "Atlanta, GA",
+    "caption": "Firewall Nation — Band Members. Replace this still with authorized photography."
+  },
+  {
+    "id": "firewall-nation-g3",
+    "artistId": "firewall-nation",
+    "image": "/assets/images/gallery/firewall-nation-g3.jpg",
+    "category": "Studio",
+    "date": "2025-03-12",
+    "location": "Atlanta, GA",
+    "caption": "Firewall Nation — Studio. Replace this still with authorized photography."
+  },
+  {
+    "id": "firewall-nation-g4",
+    "artistId": "firewall-nation",
+    "image": "/assets/images/gallery/firewall-nation-g4.jpg",
+    "category": "Events",
+    "date": "2025-04-12",
+    "location": "Atlanta, GA",
+    "caption": "Firewall Nation — Events. Replace this still with authorized photography."
+  }
+]

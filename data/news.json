@@ -1,0 +1,392 @@
+[
+  {
+    "id": "buckshot-bourbon-news-sign",
+    "date": "2024-11-02",
+    "headline": "Buckshot Bourbon joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/buckshot-bourbon-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Buckshot Bourbon — Country Rock from Anywhere, NY.",
+    "body": "Buckshot Bourbon have joined Quantum Frequency Records. A country-rock outfit that treats the open road like a studio. Buckshot Bourbon writes bar-room hymns with arena-sized choruses — whiskey-warm guitars, stacked harmonies, and stories that refuse to sand off their edges.\n\nBuckshot Bourbon started as a Friday-night residency in a converted feed mill north of the city. What began as three-hour sets for regulars became a catalog of songs about work, weather, loyalty, and the kind of love that leaves boot prints. Quantum Frequency Records signed the group after a live tape of 'Last Call Gravity' circulated through the label's A&R circle. They remain proudly analog in spirit — tracking liv",
+    "artistIds": [
+      "buckshot-bourbon"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "buckshot-bourbon-news-rel",
+    "date": "2025-03-21",
+    "headline": "Buckshot Bourbon release Last Call Gravity",
+    "category": "Release",
+    "image": "/assets/images/releases/bb-last-call.jpg",
+    "excerpt": "The new album Last Call Gravity is in the QFR catalog.",
+    "body": "Buckshot Bourbon have released Last Call Gravity. Dust, steel strings, and a second chance at midnight.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "buckshot-bourbon"
+    ],
+    "releaseIds": [
+      "bb-last-call"
+    ],
+    "featured": false
+  },
+  {
+    "id": "sawyer-kennedy-news-sign",
+    "date": "2025-02-14",
+    "headline": "Sawyer Kennedy joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/sawyer-kennedy-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Sawyer Kennedy — Nashville Country from Nashville, TN.",
+    "body": "Sawyer Kennedy have joined Quantum Frequency Records. A solo Nashville country artist who writes like a novelist and sings like the last person left in the room. Sawyer Kennedy's catalog is intimate, cinematic, and unafraid of silence.\n\nSawyer Kennedy moved to Nashville with a notebook and a borrowed Telecaster. After two winters of writer's rounds and one very public breakup record, the songs started traveling further than the gigs. QFR heard a demo of 'Glass Off the Dashboard' and offered a home that would not force a radio template onto a storyteller. Sawyer records with a small rotating cast of Nashville players and produces with a documentary e",
+    "artistIds": [
+      "sawyer-kennedy"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "sawyer-kennedy-news-rel",
+    "date": "2025-06-06",
+    "headline": "Sawyer Kennedy release Glass Off the Dashboard",
+    "category": "Release",
+    "image": "/assets/images/releases/sk-glass.jpg",
+    "excerpt": "The new album Glass Off the Dashboard is in the QFR catalog.",
+    "body": "Sawyer Kennedy have released Glass Off the Dashboard. Nashville steel with a late-night conscience.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "sawyer-kennedy"
+    ],
+    "releaseIds": [
+      "sk-glass"
+    ],
+    "featured": false
+  },
+  {
+    "id": "fractal-hearts-news-sign",
+    "date": "2023-08-19",
+    "headline": "Fractal Hearts joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/fractal-hearts-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Fractal Hearts — Progressive / Space Rock from Portland, OR.",
+    "body": "Fractal Hearts have joined Quantum Frequency Records. Progressive, cosmic, and meticulously built. Fractal Hearts treat albums like constellations — motifs return, time signatures tilt, and guitars bloom into atmospheres.\n\nFractal Hearts formed in a Portland rehearsal loft after a failed jazz-fusion project and a successful all-night planetarium shift. Their music folds math-rock discipline into space-rock wonder. QFR signed them for the ambition: records that reward headphones, stages that reward patience, and a visual language of recursive geometry. Live, they run a three-screen light plot designed by the drummer.",
+    "artistIds": [
+      "fractal-hearts"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "fractal-hearts-news-rel",
+    "date": "2024-11-08",
+    "headline": "Fractal Hearts release Lattice of Light",
+    "category": "Release",
+    "image": "/assets/images/releases/fh-lattice.jpg",
+    "excerpt": "The new album Lattice of Light is in the QFR catalog.",
+    "body": "Fractal Hearts have released Lattice of Light. Long-form rock for people who still look up.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "fractal-hearts"
+    ],
+    "releaseIds": [
+      "fh-lattice"
+    ],
+    "featured": false
+  },
+  {
+    "id": "grassroots-rebellion-news-sign",
+    "date": "2024-04-01",
+    "headline": "Grassroots Rebellion joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/grassroots-rebellion-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Grassroots Rebellion — Punk Rock from Brooklyn, NY.",
+    "body": "Grassroots Rebellion have joined Quantum Frequency Records. Punk rock with pop-punk adrenaline and alt-rock craft. Grassroots Rebellion write two-minute arguments you can shout from a sticky floor.\n\nGrassroots Rebellion came up on basement bills, community radio, and a photocopied zine that outlived three practice spaces. Their songs are short, sharp, and surprisingly tender in the third verse. QFR wanted a band that could sit next to country and nu-metal without blinking — GR is that band. They still run their own merch table.",
+    "artistIds": [
+      "grassroots-rebellion"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "grassroots-rebellion-news-rel",
+    "date": "2025-04-18",
+    "headline": "Grassroots Rebellion release Zine Age",
+    "category": "Release",
+    "image": "/assets/images/releases/gr-zine.jpg",
+    "excerpt": "The new album Zine Age is in the QFR catalog.",
+    "body": "Grassroots Rebellion have released Zine Age. Hooks first. Compromise never.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "grassroots-rebellion"
+    ],
+    "releaseIds": [
+      "gr-zine"
+    ],
+    "featured": false
+  },
+  {
+    "id": "warpnotix-news-sign",
+    "date": "2023-12-09",
+    "headline": "Warpnotix joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/warpnotix-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Warpnotix — Electronic Dance from Los Angeles, CA.",
+    "body": "Warpnotix have joined Quantum Frequency Records. A DJ/producer building kinetic, nocturnal electronic music — warehouse pressure, neon melancholy, and drops engineered like architecture.\n\nWarpnotix (Wren Nox) spent a decade inside other people's tracks as a mix engineer before stepping in front of the decks. The Warpnotix project is a laboratory for dance-floor physics: sub that you feel in your ribs, breaks that reset the room, and a visual identity of warped grids. QFR signed Wren to prove the label's universe is not genre-bound. Club nights, festival afters, and headphone albums all sit in the same",
+    "artistIds": [
+      "warpnotix"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "warpnotix-news-rel",
+    "date": "2025-02-14",
+    "headline": "Warpnotix release Warped Grid",
+    "category": "Release",
+    "image": "/assets/images/releases/wn-grid.jpg",
+    "excerpt": "The new album Warped Grid is in the QFR catalog.",
+    "body": "Warpnotix have released Warped Grid. Low-end physics for crowded rooms.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "warpnotix"
+    ],
+    "releaseIds": [
+      "wn-grid"
+    ],
+    "featured": false
+  },
+  {
+    "id": "sound-shamans-news-sign",
+    "date": "2024-06-21",
+    "headline": "Sound Shamans joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/sound-shamans-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Sound Shamans — Alt / Indie Rock from Austin, TX.",
+    "body": "Sound Shamans have joined Quantum Frequency Records. Alt-rock built on hypnotic riffs, desert air, and a live reputation that borders on ceremony. Sound Shamans treat volume as a language.\n\nSound Shamans emerged from Austin's late-night circuit with a reputation for sets that felt longer than the clock. They write in cycles and drones, then smash those cycles with choruses. The band's visual world is ochre, bone, and blue-black night. QFR brought them in to hold the indie/alt lane without turning it into a costume.",
+    "artistIds": [
+      "sound-shamans"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "sound-shamans-news-rel",
+    "date": "2024-09-20",
+    "headline": "Sound Shamans release Rite of Volume",
+    "category": "Release",
+    "image": "/assets/images/releases/ss-rite.jpg",
+    "excerpt": "The new album Rite of Volume is in the QFR catalog.",
+    "body": "Sound Shamans have released Rite of Volume. Rituals for a loud room.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "sound-shamans"
+    ],
+    "releaseIds": [
+      "ss-rite"
+    ],
+    "featured": false
+  },
+  {
+    "id": "immovable-giants-news-sign",
+    "date": "2025-01-08",
+    "headline": "Immovable Giants joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/immovable-giants-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Immovable Giants — Alt / Indie Rock from Chicago, IL.",
+    "body": "Immovable Giants have joined Quantum Frequency Records. Chicago alt-rock that builds cathedrals out of patience. Immovable Giants write slow-burn anthems for people who stayed.\n\nImmovable Giants have been a Chicago secret for a decade: winter records, sold-out rooms, and a refusal to hurry. Their songs start small and become inevitable. QFR signed them to give the catalog a backbone of adult, unshowy rock — the kind that still hits like weather. The band records to tape when the song asks for it and to a laptop when it doesn't.",
+    "artistIds": [
+      "immovable-giants"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "immovable-giants-news-rel",
+    "date": "2025-11-07",
+    "headline": "Immovable Giants release People Who Stayed",
+    "category": "Release",
+    "image": "/assets/images/releases/ig-weather.jpg",
+    "excerpt": "The new album People Who Stayed is in the QFR catalog.",
+    "body": "Immovable Giants have released People Who Stayed. Heavy feelings, human scale.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "immovable-giants"
+    ],
+    "releaseIds": [
+      "ig-weather"
+    ],
+    "featured": false
+  },
+  {
+    "id": "jones-beach-boys-news-sign",
+    "date": "2025-05-30",
+    "headline": "The Jones Beach Boys joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/jones-beach-boys-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes The Jones Beach Boys — Surf Rock from Long Island, NY.",
+    "body": "The Jones Beach Boys have joined Quantum Frequency Records. A 1960s-surf-influenced group that treats the shoreline as a time machine. Twang, harmony, and summer even in January.\n\nThe Jones Beach Boys started as a joke name and became a real band the night they learned four-part surf harmony in a parking lot. They write instrumentals and vocal tunes with equal love for spring reverb and unsarcastic joy. QFR signed them because the roster needed sun — and because the songs are better than nostalgia. They record live in a beach bungalow when the weather allows.",
+    "artistIds": [
+      "jones-beach-boys"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "jones-beach-boys-news-rel",
+    "date": "2025-07-04",
+    "headline": "The Jones Beach Boys release Salt & Spring",
+    "category": "Release",
+    "image": "/assets/images/releases/jb-salt.jpg",
+    "excerpt": "The new album Salt & Spring is in the QFR catalog.",
+    "body": "The Jones Beach Boys have released Salt & Spring. Reverb, salt, and a perfect chorus.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "jones-beach-boys"
+    ],
+    "releaseIds": [
+      "jb-salt"
+    ],
+    "featured": false
+  },
+  {
+    "id": "cosmic-run-news-sign",
+    "date": "2024-09-12",
+    "headline": "The Cosmic Run joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/cosmic-run-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes The Cosmic Run — Alt / Folk Rock from Boulder, CO.",
+    "body": "The Cosmic Run have joined Quantum Frequency Records. Alt-folk-rock that starts on a trail and ends in orbit. Acoustic bones, electric weather, and lyrics that look both inward and up.\n\nThe Cosmic Run write on long drives and longer hikes. Their records move from fingerpicked confessionals to wide, night-sky rock without losing the plot. QFR heard them as the connective tissue of the roster — the band that makes country fans stay for the psych set. They self-produce with a mobile rig and a stubborn love of first takes.",
+    "artistIds": [
+      "cosmic-run"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "cosmic-run-news-rel",
+    "date": "2025-05-16",
+    "headline": "The Cosmic Run release Upper Atmosphere",
+    "category": "Release",
+    "image": "/assets/images/releases/cr-trail.jpg",
+    "excerpt": "The new album Upper Atmosphere is in the QFR catalog.",
+    "body": "The Cosmic Run have released Upper Atmosphere. Campfire songs for the upper atmosphere.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "cosmic-run"
+    ],
+    "releaseIds": [
+      "cr-trail"
+    ],
+    "featured": false
+  },
+  {
+    "id": "moonflower-radio-news-sign",
+    "date": "2023-10-04",
+    "headline": "Moonflower Radio joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/moonflower-radio-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Moonflower Radio — Psychedelic Rock from San Francisco, CA.",
+    "body": "Moonflower Radio have joined Quantum Frequency Records. Psychedelic alt-rock transmitted like a late-night station from another decade. Pedals, poetry, and patiently exploding choruses.\n\nMoonflower Radio have always sounded like a broadcast you found by accident and then never left. They came out of San Francisco's psych revival without becoming a museum act. QFR signed them for the color they add to the universe — washed-out film, analog delay, and lyrics that treat consciousness as a collaborative instrument. Their live shows are famously long and famously kind.",
+    "artistIds": [
+      "moonflower-radio"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "moonflower-radio-news-rel",
+    "date": "2024-10-11",
+    "headline": "Moonflower Radio release Station After Midnight",
+    "category": "Release",
+    "image": "/assets/images/releases/mr-dial.jpg",
+    "excerpt": "The new album Station After Midnight is in the QFR catalog.",
+    "body": "Moonflower Radio have released Station After Midnight. Tune in. Drift. Come back changed.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "moonflower-radio"
+    ],
+    "releaseIds": [
+      "mr-dial"
+    ],
+    "featured": false
+  },
+  {
+    "id": "find-replace-news-sign",
+    "date": "2024-03-18",
+    "headline": "Find/Replace joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/find-replace-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Find/Replace — Industrial / Nu-Metal from Detroit, MI.",
+    "body": "Find/Replace have joined Quantum Frequency Records. Industrial rock colliding with nu-metal weight. Find/Replace write about systems, glitches, and the people caught in the search field.\n\nFind/Replace formed in a Detroit warehouse that used to stamp auto parts. The building's acoustics — and its ghosts — are in the records. They sample factory ambience, scream like a UI error, and still write choruses you can put a fist in the air for. QFR wanted industrial muscle without corporate dystopia-as-cosplay. Find/Replace is the real weather of a city that makes things.",
+    "artistIds": [
+      "find-replace"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "find-replace-news-rel",
+    "date": "2025-01-24",
+    "headline": "Find/Replace release Search Field",
+    "category": "Release",
+    "image": "/assets/images/releases/fr-query.jpg",
+    "excerpt": "The new album Search Field is in the QFR catalog.",
+    "body": "Find/Replace have released Search Field. Machines that still bleed.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "find-replace"
+    ],
+    "releaseIds": [
+      "fr-query"
+    ],
+    "featured": false
+  },
+  {
+    "id": "immortal-prophets-news-sign",
+    "date": "2024-07-07",
+    "headline": "Immortal Prophets joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/immortal-prophets-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Immortal Prophets — Nu-Metal from Cleveland, OH.",
+    "body": "Immortal Prophets have joined Quantum Frequency Records. Nu-metal with a philosophical streak. Immortal Prophets write about fate, fury, and the joke of being mortal at this volume.\n\nImmortal Prophets came out of Cleveland's heavy circuit with riffs that felt both vintage-2000 and unnervingly current. They rap, they scream, they stack gang vocals, and they mean it. QFR signed them to hold the heavy lane with dignity — no nostalgia trap, no irony shield. The band's mythos is self-made: sigils, sermons, and a live show that feels like a rite.",
+    "artistIds": [
+      "immortal-prophets"
+    ],
+    "releaseIds": [],
+    "featured": false
+  },
+  {
+    "id": "immortal-prophets-news-rel",
+    "date": "2025-08-01",
+    "headline": "Immortal Prophets release Mortal Volume",
+    "category": "Release",
+    "image": "/assets/images/releases/ip-rite.jpg",
+    "excerpt": "The new album Mortal Volume is in the QFR catalog.",
+    "body": "Immortal Prophets have released Mortal Volume. Prophecy at drop-tuned volume.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "immortal-prophets"
+    ],
+    "releaseIds": [
+      "ip-rite"
+    ],
+    "featured": false
+  },
+  {
+    "id": "firewall-nation-news-sign",
+    "date": "2025-03-03",
+    "headline": "Firewall Nation joins the Quantum Frequency roster",
+    "category": "Signing",
+    "image": "/assets/images/artists/firewall-nation-hero.jpg",
+    "excerpt": "Quantum Frequency Records welcomes Firewall Nation — Nu-Metal / Rap Rock from Atlanta, GA.",
+    "body": "Firewall Nation have joined Quantum Frequency Records. Nu-metal colliding with rap-rock cadence. Firewall Nation write about networks, loyalty, and what gets through.\n\nFirewall Nation started as a cypher that needed guitars. Atlanta's rap precision met Midwestern heaviness after a tour van accident (minor, mythologized) put a producer and a metal guitarist in the same waiting room. The result is a band that can cut a verse like a verse and a chorus like a wall. QFR signed them as proof that the roster's 'nation' is bigger than any one scene.",
+    "artistIds": [
+      "firewall-nation"
+    ],
+    "releaseIds": [],
+    "featured": true
+  },
+  {
+    "id": "firewall-nation-news-rel",
+    "date": "2025-09-19",
+    "headline": "Firewall Nation release Public Volume",
+    "category": "Release",
+    "image": "/assets/images/releases/fn-packet.jpg",
+    "excerpt": "The new album Public Volume is in the QFR catalog.",
+    "body": "Firewall Nation have released Public Volume. Encrypted feelings, public volume.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
+    "artistIds": [
+      "firewall-nation"
+    ],
+    "releaseIds": [
+      "fn-packet"
+    ],
+    "featured": false
+  }
+]
