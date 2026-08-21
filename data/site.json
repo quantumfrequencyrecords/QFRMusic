@@ -1,0 +1,238 @@
+{
+  "name": "Quantum Frequency Records",
+  "shortName": "QFR",
+  "tagline": "A home for artists, sounds and stories that refuse to exist inside the expected.",
+  "headline": "Unleash Music’s Raw Vibrational Energy",
+  "subtitleWords": [
+    "Discover",
+    "Harness",
+    "Nurture",
+    "Succeed"
+  ],
+  "homeHeading": "A New Wave Of Sound",
+
+  "brandStatement": "Music comes first. Artists come first. Everything else exists to help the music travel.",
+
+  "artistsIntro": {
+    "kicker": "QUANTUM FREQUENCY RECORDS",
+    "heading": "OUR ARTISTS. OUR FREQUENCY.",
+    "sub": "A diverse roster of independent artists creating the future of sound."
+  },
+
+  "social": {
+    "instagram": "https://instagram.com/quantumfrequencyrecords",
+    "youtube": "https://youtube.com/@quantumfrequencyrecords",
+    "spotify": "https://open.spotify.com",
+    "x": "https://x.com/QFRecords",
+    "tiktok": "https://tiktok.com/@quantumfrequencyrecords"
+  },
+
+  "contact": {
+    "email": "info@quantumfrequencyrecords.com",
+    "bookings": "bookings@quantumfrequencyrecords.com",
+    "press": "press@quantumfrequencyrecords.com"
+  },
+
+  "form": {
+    "provider": "formspree",
+    "endpoint": "",
+    "note": "Add a Formspree or similar secure form endpoint here. Never place SMTP credentials or other private credentials in client-side code."
+  },
+
+  "storeUrl": "/store",
+
+  "legal": {
+    "privacy": "/privacy",
+    "terms": "/terms"
+  },
+
+  "copyright": "© 2026 Quantum Frequency Records. All rights reserved.",
+
+  "about": {
+    "philosophy": "Quantum Frequency Records is an independent record label built around a simple belief: artists should not have to sacrifice who they are in order to build a career in music. We exist to give artists a place to create, grow and be heard without forcing them into a predetermined sound, image or commercial formula.",
+
+    "mission": "Our mission is to discover great artists, harness their potential, nurture their growth and help them succeed — without losing sight of the people behind the music. We believe a record label should be a partner, not a gatekeeper; a resource, not a restriction; and a home for creativity rather than another set of walls around it.",
+
+    "origin": "Quantum Frequency Records began with a simple observation: some of the most exciting music happens where the boundaries disappear. Country can exist beside industrial. Surf rock can exist beside nu-metal. Folk can collide with alternative rock. Electronic music can share the same universe as a guitar band. We built QFR around that idea — not as a genre, but as a frequency. A place where different artists can sound completely different while sharing the same freedom to create.",
+
+    "artistFirst": "Artists are the center of everything we do. The label exists to support the music, the people who create it and the audiences who discover it. We believe artists need room to experiment, make mistakes, change direction and grow. We do not believe creativity should be squeezed into arbitrary deadlines simply because a calendar says it should be. We would rather allow an artist to make something meaningful than rush something unfinished into the world.",
+
+    "artistPartnership": "We believe the relationship between an artist and a label should be a partnership. Artists should understand what is happening with their music, why decisions are being made and how the label is helping them move forward. Communication, transparency and mutual respect are not extras at QFR — they are part of the foundation.",
+
+    "fairness": "We believe artists deserve to be treated fairly. A label should not succeed by taking advantage of the people who create the music that makes the label possible. Our goal is to build sustainable relationships where the success of the label and the success of its artists move in the same direction.",
+
+    "creativeFreedom": "There is no single QFR sound. There is no approved mold that every artist must fit. An artist can evolve. A band can change direction. A songwriter can experiment. A producer can cross genres. We are interested in what an artist can become, not simply what they already are.",
+
+    "beyondGenre": "The roster intentionally spans country, country rock, punk, alternative, progressive and space rock, electronic, industrial, nu-metal, rap rock, psychedelic and indie sounds. That range is not a marketing strategy. It is a statement about what we believe music should be allowed to be.",
+
+    "artistDevelopment": "Supporting an artist means more than releasing songs. It means helping build a catalog, develop an identity, reach listeners, tell a story and create opportunities. Some artists need guidance. Others need resources. Some need space. The role of QFR is to understand what each artist actually needs rather than forcing every artist through the same process.",
+
+    "noFormula": "We do not believe every artist needs the same release schedule, promotional strategy or creative process. There is no universal formula for making meaningful music. Our job is to help each artist find the approach that works for them.",
+
+    "success": "Success is bigger than a stream count. It can mean building a dedicated audience, releasing an album an artist is proud of, playing a great show, writing the song they always wanted to write, reaching someone on the other side of the world or simply creating something that would not have existed otherwise. Numbers matter, but they are not the entire story.",
+
+    "community": "QFR is designed to be more than a collection of artist pages. It is a community of different voices sharing the same space. Every artist brings their own frequency, and together those frequencies create something larger than any single genre or scene.",
+
+    "future": "The future of Quantum Frequency Records is a living music universe built around the artists. That means expanding the catalog, creating meaningful opportunities, developing merchandise and physical releases, strengthening connections with listeners and continuing to build tools that make discovering and supporting independent music easier.",
+
+    "promise": "We will never forget why the label exists. The music comes first. The artists come first. The audience matters. The business supports the mission — it does not replace it."
+  },
+
+  "missionGrid": [
+    {
+      "id": "independent",
+      "label": "Independent",
+      "note": "We believe artists should have room to create without being forced into someone else's formula. Independence means keeping the focus on the music and the people making it."
+    },
+    {
+      "id": "artist-driven",
+      "label": "Artist Driven",
+      "note": "The artist is the center of gravity. Decisions should support the artist's creative direction, goals and long-term development rather than forcing the artist to serve the label."
+    },
+    {
+      "id": "beyond-genre",
+      "label": "Beyond Genre",
+      "note": "We do not believe great music needs to stay inside a genre. Country can sit beside industrial. Surf can sit beside nu-metal. Different frequencies can belong in the same universe."
+    },
+    {
+      "id": "fair",
+      "label": "Fair",
+      "note": "A label should not succeed by taking advantage of its artists. We believe in fair treatment, honest communication, mutual respect and relationships designed to benefit everyone involved."
+    },
+    {
+      "id": "fearless",
+      "label": "Fearless",
+      "note": "We would rather support something original than chase whatever happens to be popular. Taking creative risks is part of why independent music matters."
+    },
+    {
+      "id": "creative-freedom",
+      "label": "Creative Freedom",
+      "note": "Artists need room to experiment, evolve and change direction. We do not believe creativity should be restricted simply because something does not fit an existing formula."
+    },
+    {
+      "id": "evolving",
+      "label": "Evolving",
+      "note": "Artists grow. Sounds change. Ideas develop. We want QFR to grow alongside its artists rather than expecting them to remain frozen in one version of themselves."
+    },
+    {
+      "id": "authentic",
+      "label": "Authentic",
+      "note": "We want the fingerprints left on the music. Personality, imperfections, experimentation and individuality are part of what makes an artist worth listening to."
+    },
+    {
+      "id": "unrestricted",
+      "label": "Unrestricted",
+      "note": "There is no predetermined QFR sound. If an artist has something meaningful to say and a sound worth sharing, there should be room for it here."
+    }
+  ],
+
+  "latest": {
+    "signingArtistId": "jones-beach-boys",
+    "albumReleaseId": "ig-weather",
+    "singleReleaseId": "fn-port",
+    "newsId": "immovable-giants-news-rel"
+  },
+
+  "inquiryTypes": [
+    {
+      "id": "general",
+      "label": "General Label Feedback",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "artist",
+      "label": "Artist Feedback",
+      "fields": [
+        "artist",
+        "message"
+      ]
+    },
+    {
+      "id": "album",
+      "label": "Album Feedback",
+      "fields": [
+        "artist",
+        "album",
+        "message"
+      ]
+    },
+    {
+      "id": "song",
+      "label": "Song Feedback",
+      "fields": [
+        "artist",
+        "song",
+        "message"
+      ]
+    },
+    {
+      "id": "complaint",
+      "label": "Complaint",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "collab",
+      "label": "Request Collaboration",
+      "fields": [
+        "role",
+        "links",
+        "message"
+      ]
+    },
+    {
+      "id": "content-use",
+      "label": "Request the Use of Content",
+      "fields": [
+        "contentType",
+        "artist",
+        "song",
+        "video",
+        "videoTitle",
+        "message"
+      ]
+    },
+    {
+      "id": "purchase-song",
+      "label": "Purchase a Song",
+      "fields": [
+        "artist",
+        "song",
+        "message"
+      ]
+    },
+    {
+      "id": "stems",
+      "label": "Request Purchasing Song Stems",
+      "fields": [
+        "artist",
+        "song",
+        "message"
+      ]
+    },
+    {
+      "id": "store-idea",
+      "label": "Suggestion for the Store",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "store-feedback",
+      "label": "Store Feedback",
+      "fields": [
+        "message"
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Other",
+      "fields": [
+        "message"
+      ]
+    }
+  ]
+}
