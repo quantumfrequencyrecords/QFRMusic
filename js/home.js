@@ -25,15 +25,17 @@ QFR.ready("home").then(() => {
     const d = details[latest];
     const a = top("artist"), song = top("song"), vid = top("video");
     document.getElementById("app").innerHTML = `
-<section class="wrap hero-split" style="position: relative;">
+
+
+<section class="wrap hero-split" style="position: relative; overflow: hidden; background: #000000;">
   
-  <!-- Image in the background -->
-  <div style="width: 100%;">
-    <img class="hairline" src="${QFR.asset("assets/images/backgrounds/music-studio.jpg")}" alt="Studio" style="width: 100%; display: block;">
+  <!-- Image scaled up by 25% with vignette mask to blend edges -->
+  <div style="width: 100%; mask-image: radial-gradient(circle, black 60%, transparent 100%); -webkit-mask-image: radial-gradient(circle, black 60%, transparent 100%);">
+    <img src="${QFR.asset("assets/images/backgrounds/music-studio.jpg")}" alt="Studio" style="width: 125%; display: block; border: none; outline: none;">
   </div>
 
-  <!-- Text overlayed on top -->
-  <div style="position: absolute; top: 50%; left: 5%; transform: translateY(-50%); z-index: 2; color: white;">
+  <!-- Text aligned left and vertically centered -->
+  <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); z-index: 2; color: white; padding-left: 2rem;">
     <p class="kicker">The Label</p>
     <h1 style="font-size:clamp(2.8rem,7vw,4.5rem);margin-top:.75rem">${s.homeHeading}</h1>
     <p class="muted" style="margin-top:1.25rem;max-width:28rem">${s.tagline}</p>
