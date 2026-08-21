@@ -27,21 +27,25 @@ QFR.ready("home").then(() => {
     document.getElementById("app").innerHTML = `
 
 
-<section class="wrap hero-split" style="position: relative; overflow: hidden; background: #000000;">
-  
-  <!-- Image scaled up by 25% with vignette mask to blend edges -->
-  <div style="width: 100%; mask-image: radial-gradient(circle, black 60%, transparent 100%); -webkit-mask-image: radial-gradient(circle, black 60%, transparent 100%);">
-    <img src="${QFR.asset("assets/images/backgrounds/music-studio.jpg")}" alt="Studio" style="width: 125%; display: block; border: none; outline: none;">
+<section class="wrap hero-split" style="position: relative; width: 100%; min-height: 500px; overflow: hidden;">
+  <!-- Image Container (zoomed 15%) -->
+  <div style="width: 100%; height: 100%; overflow: hidden; position: absolute; top: 0; left: 0; z-index: 1;">
+    <img class="hairline" src="${QFR.asset("assets/images/backgrounds/music-studio.jpg")}" alt="Studio" 
+         style="width: 100%; height: 100%; object-fit: cover; display: block; transform: scale(1.15); transform-origin: center;">
   </div>
 
-  <!-- Text aligned left and vertically centered -->
-  <div style="position: absolute; top: 50%; left: 0; transform: translateY(-50%); z-index: 2; color: white; padding-left: 2rem;">
-    <p class="kicker">The Label</p>
-    <h1 style="font-size:clamp(2.8rem,7vw,4.5rem);margin-top:.75rem">${s.homeHeading}</h1>
-    <p class="muted" style="margin-top:1.25rem;max-width:28rem">${s.tagline}</p>
+  <!-- Text Container (Left Aligned & Overlayed) -->
+  <div style="position: relative; z-index: 2; padding: 4rem 2rem; max-width: 1200px; margin: 0 auto; text-align: left; height: 100%; display: flex; flex-direction: column; justify-content: center; min-height: 500px;">
+    <p class="kicker" style="text-align: left;">The Label</p>
+    <h1 style="font-size: clamp(2.8rem, 7vw, 4.5rem); margin-top: .75rem; text-align: left; line-height: 1.2; max-width: 25rem; color: white;">
+      ${s.homeHeading}
+    </h1>
+    <p class="muted" style="margin-top: 1.25rem; max-width: 24rem; text-align: left; color: #e0e0e0; line-height: 1.5;">
+      ${s.tagline}
+    </p>
   </div>
-
 </section>
+
 
       <div class="wrap"><div class="freq"></div></div>
       <section class="wrap section">
