@@ -8,19 +8,31 @@ This repository is a **static GitHub Pages site**. JSON is the single source of 
 
 | URL | Role |
 |---|---|
-| `/` (`index.html`) | Landing — logo, headline, glowing *Discover • Harness • Nurture • Succeed*, particles, Enter CTA |
-| `/pages/home.html` | Label dashboard — mission 3×3, Latest cards, Hot & Trending |
-| `/pages/artists.html` | Roster + moving logo ticker |
-| `/pages/artist.html?id=` | Artist mini-site (Home / News / Members / Releases / Songs / Videos / Gallery / Biography) |
-| `/pages/news.html` | Editorial |
-| `/pages/music.html` | Catalog + filters + player |
+| `/` (`index.html`) | Landing — no chrome, watermarked QF mark, particles, sequential glow *Discover · Harness · Partner · Succeed*, Explore → home |
+| `/pages/home.html` | Studio hero, 9-value ring, 5 Latest cards, Hottest & Trending (Weekly / Monthly / Yearly) |
+| `/pages/artists.html` | Roster + moving logo ticker (hover pause + glow) |
+| `/pages/artist.html?id=` | Artist mini-site (Profile / News / Music / Videos / Members / Gallery / Merch) |
+| `/pages/news.html` | Editorial — filters All / Label / Artist / Releases |
+| `/pages/music.html` | Catalog + genre / release / year filters + player |
 | `/pages/videos.html` | Video discovery |
 | `/pages/gallery.html` | Visuals |
-| `/pages/about.html` | Philosophy, origin, artist-first, beyond-genre, AI context, future |
-| `/pages/contact.html` | Dynamic inquiry form |
+| `/pages/about.html` | Story, timeline, mission, Discover / Develop / Deliver, team, numbers, quotes |
+| `/pages/contact.html` | Purpose tiles that reshape the form |
 | `/pages/store.html` | Store placeholder (future commerce backend) |
 
-Sticky header, left mobile drawer (full nav), identical footer, frequency separators, and a collapsible **Now Playing** bar persist across the universe.
+Sticky collapsible header, left mobile drawer, Stay Connected footer, frequency separators, and a **Now Playing** bar that docks to the side persist across the universe.
+
+## Data
+
+JSON in `/data` drives the site. Latest home cards live as separate files:
+
+- `data/values.json` — nine values
+- `data/latest/label-news.json`
+- `data/latest/artist-news.json`
+- `data/latest/signed-artist.json`
+- `data/latest/album.json`
+- `data/latest/song.json`
+- `data/trending.json` — optional pins (empty = auto from catalog stats)
 
 ## Publish on GitHub Pages
 
@@ -38,7 +50,7 @@ Any static server from the repo root, for example:
 python3 -m http.server 8080
 ```
 
-Open `/` then **Enter the Experience**.
+Open `/` then **Explore**.
 
 ## Important boundaries
 

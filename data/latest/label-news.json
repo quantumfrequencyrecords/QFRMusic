@@ -1,0 +1,14 @@
+{
+  "id": "latest-label-news",
+  "type": "label-news",
+  "kicker": "Latest Label News",
+  "title": "QFR opens the frequency to a new era of independent ownership",
+  "subtitle": "Announcement",
+  "date": "2026-08-12",
+  "image": "/assets/images/backgrounds/about.jpg",
+  "excerpt": "The label restates its core deal: artists keep their work, and the catalog stays a home — not a template.",
+  "body": "Quantum Frequency Records is doubling down on the thing that makes it different. Artists keep ownership of their material. There is no house sound to conform to, and no corporate playbook waiting to sand the edges off a real song. This announcement is a placeholder — replace the headline, body, and image in data/latest/label-news.json when the official story is ready. Until then it stands as the label's public position: partnership over extraction.",
+  "link": "/news",
+  "linkLabel": "Read label news",
+  "meta": "Label · Aug 12, 2026"
+}

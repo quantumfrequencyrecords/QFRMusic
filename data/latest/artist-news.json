@@ -1,0 +1,15 @@
+{
+  "id": "latest-artist-news",
+  "type": "artist-news",
+  "kicker": "Latest Artist News",
+  "title": "Immovable Giants take Weather Systems into the rooms that built them",
+  "subtitle": "Artist dispatch",
+  "date": "2026-07-28",
+  "image": "/assets/images/artists/immovable-giants-hero.jpg",
+  "excerpt": "A hometown run, a new visual world, and a reminder that slow music can still move a crowd.",
+  "body": "Immovable Giants return to the rooms that taught them patience. Weather Systems is still unfolding — new visuals, a handful of hometown dates, and a recording philosophy that treats silence as an instrument. Replace this placeholder in data/latest/artist-news.json with the official dispatch, press photos, and a link to the full news post.",
+  "link": "/news",
+  "linkLabel": "Read artist news",
+  "meta": "Artist · Jul 28, 2026",
+  "artistId": "immovable-giants"
+}

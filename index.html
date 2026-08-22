@@ -15,10 +15,12 @@
 
     <meta
         name="theme-color"
-        content="#000000"
+        content="#04060a"
     >
 
     <title>Quantum Frequency Records</title>
+
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
 
     <link
         rel="stylesheet"
@@ -60,6 +62,14 @@
             id="particleCanvas"
             aria-hidden="true"
         ></canvas>
+
+        <div class="wave-field" aria-hidden="true">
+            <svg viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M0 60 Q150 20 300 60 T600 60 T900 60 T1200 60 V120 H0 Z" fill="rgba(46,230,214,0.06)"/>
+                <path d="M0 70 Q150 40 300 70 T600 70 T900 70 T1200 70" fill="none" stroke="rgba(46,230,214,0.35)" stroke-width="1.2"/>
+                <path d="M0 82 Q200 50 400 82 T800 82 T1200 82" fill="none" stroke="rgba(46,230,214,0.2)" stroke-width="1"/>
+            </svg>
+        </div>
 
         <!-- Dark cinematic overlay -->
         <div
@@ -152,6 +162,9 @@
                 src="assets/images/logo/qfr-logo.png"
                 alt="Quantum Frequency Records"
             >
+
+            <p class="brand-name">QUANTUM FREQUENCY</p>
+            <p class="brand-sub">RECORDS</p>
 
         </div>
 

@@ -1,0 +1,17 @@
+{
+  "id": "latest-song",
+  "type": "song",
+  "kicker": "Latest Song Release",
+  "title": "Port Authority",
+  "subtitle": "Firewall Nation · Single",
+  "date": "2026-06-20",
+  "image": "/assets/images/releases/fn-port.jpg",
+  "excerpt": "A night-drive single built from packets, bass weight, and a skyline that will not sleep.",
+  "body": "Port Authority is the latest single from Firewall Nation — industrial hop, neon pressure, and a hook that arrives like a system ping. Replace this placeholder in data/latest/song.json with official credits, ISRC, and the streaming link. Until then the local preview file lives in the QFR player.",
+  "link": "/music",
+  "linkLabel": "Play the single",
+  "meta": "Single · Jun 2026",
+  "artistId": "firewall-nation",
+  "releaseId": "fn-port",
+  "songId": "fn-port-t1"
+}

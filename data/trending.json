@@ -1,0 +1,7 @@
+{
+  "note": "Leave ids empty to auto-pick from catalog stats. Fill ids to pin specific items. Counts always read from the catalog JSON so weekly/monthly/yearly filters stay live.",
+  "songId": "",
+  "albumId": "",
+  "artistId": "",
+  "videoId": ""
+}
