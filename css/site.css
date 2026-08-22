@@ -61,7 +61,7 @@ body.np-docked .page-pad { padding-bottom: 2rem; }
 .collapse-btn { display: none; width: 2.25rem; height: 2.25rem; color: var(--muted); }
 .collapse-btn:hover { color: var(--fg); }
 .site-header.collapsed .nav-desk { display: none !important; }
-.store-btn { display: inline-flex; align-items: center; height: 2.5rem; padding: 0 0.8rem; border: 1px solid color-mix(in srgb, var(--accent) 50%, transparent); background: var(--surface-2); font-size: 0.3rem; letter-spacing: 0.2em; text-transform: uppercase; }
+.store-btn { display: inline-flex; align-items: center; height: 2rem; padding: 0 0.5rem; border: 1px solid color-mix(in srgb, var(--accent) 50%, transparent); background: var(--surface-2); font-size: 0.3rem; letter-spacing: 0.2em; text-transform: uppercase; 
 .store-btn:hover { box-shadow: var(--glow); }
 
 @media (min-width: 1024px) {
