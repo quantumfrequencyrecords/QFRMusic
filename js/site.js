@@ -90,7 +90,6 @@
             <button class="icon-btn menu-btn" type="button" aria-label="Open menu">☰</button>
             <a class="wordmark" href="${QFR.page("index.html")}" aria-label="Quantum Frequency Records">
               ${MARK}
-              <span><span class="wordmark-qfr">QFR</span><span class="wordmark-sub">RECORDS</span></span>
             </a>
           </div>
           <p class="hdr-center">QFR</p>
