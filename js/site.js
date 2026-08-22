@@ -104,7 +104,7 @@
       <div class="drawer-root" id="drawer">
         <div class="drawer-ov" data-close></div>
         <aside class="drawer">
-          <div class="hdr-left" style="padding:1rem;justify-content:space-between">
+          <div class="hdr-left" style="padding:.2rem;justify-content:space-between">
             <span class="wordmark">${MARK}<span><span class="wordmark-qfr">QFR</span></span></span>
             <button class="icon-btn" type="button" data-close aria-label="Close">✕</button>
           </div>
