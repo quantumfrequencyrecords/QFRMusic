@@ -92,7 +92,7 @@
               ${MARK}
             </a>
           </div>
-          <p class="hdr-center">QFR</p>
+          <div class="hdr-center">Quantum Frequency Records</div>
           <nav class="nav-desk">${links}</nav>
           <div class="hdr-right">
             <button class="collapse-btn" id="hdr-collapse" type="button" aria-label="Collapse header">▴</button>
