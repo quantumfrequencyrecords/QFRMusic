@@ -49,7 +49,7 @@
   };
   QFR.param = (k) => new URLSearchParams(location.search).get(k);
 
-  const MARK = `<img class="qfr-header-logo" src="${QFR.asset("../favicon.svg")}" alt="Quantum Frequency Records logo">`;
+  const MARK = `<img class="qfr-header-logo" src="../favicon.svg" alt="Quantum Frequency Records logo">`;
 
   const ICONS = {
     spotify: `<svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4c-.2.3-.5.4-.8.2-2.2-1.3-5-1.6-8.3-.9-.3.1-.6-.1-.7-.4-.1-.3.1-.6.4-.7 3.6-.8 6.7-.4 9.2 1.1.3.1.4.5.2.7Zm1.1-2.5c-.2.4-.7.5-1 .3-2.5-1.5-6.4-2-9.4-1.1-.4.1-.8-.1-.9-.5-.1-.4.1-.8.5-.9 3.4-1 7.7-.5 10.6 1.2.4.2.5.7.2 1Zm.1-2.6c-3-1.8-8-2-10.9-1.1-.5.1-1-.2-1.1-.6-.2-.5.1-1 .6-1.1 3.3-1 8.8-.8 12.3 1.3.4.3.6.9.3 1.3-.2.4-.8.6-1.2.2Z"/></svg>`,
