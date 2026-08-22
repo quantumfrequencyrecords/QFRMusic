@@ -39,7 +39,7 @@ body.np-docked .page-pad { padding-bottom: 2rem; }
 .freq { position: relative; height: 1px; width: 100%; background: linear-gradient(90deg, transparent, var(--accent) 18%, var(--line) 72%, transparent); opacity: 0.9; }
 .freq::after {
   content: ""; position: absolute; right: 6%; top: 50%; width: 72px; height: 12px; transform: translateY(-50%);
-  background-image: url("../favicon.svg");
+  background-image: <link rel="icon" type="image/svg+xml" href="../favicon.svg">
   background-repeat: no-repeat; background-size: contain;
 }
 
