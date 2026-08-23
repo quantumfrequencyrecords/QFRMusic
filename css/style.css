@@ -485,7 +485,7 @@ h1 {
 .subtitle {
     position: absolute;
 
-    bottom: 25%;
+    bottom: 100px;
 
     left: 20px;
     right: 20px;
@@ -554,7 +554,7 @@ h1 {
 
     z-index: 12;
 
-    bottom: 10%;
+    bottom: 20px;
 
     left: 50%;
 
