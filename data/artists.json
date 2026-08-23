@@ -71,7 +71,7 @@
     "biography": "Sawyer Kennedy moved to Nashville with a notebook and a borrowed Telecaster. After two winters of writer's rounds and one very public breakup record, the songs started traveling further than the gigs. QFR heard a demo of 'Glass Off the Dashboard' and offered a home that would not force a radio template onto a storyteller. Sawyer records with a small rotating cast of Nashville players and produces with a documentary ear — room tone, breath, and the scrape of a chair are part of the arrangement.",
     "image": "/assets/images/artists/sawyer-kennedy.jpg",
     "hero": "/assets/images/artists/sawyer-kennedy-hero.jpg",
-    "logo": "/assets/images/logos/sawyer-kennedy.png",
+    "logo": "/assets/images/logos/sawyer-kennedy.jpg",
     "members": [
       {
         "id": "sk-sawyer",
@@ -105,7 +105,7 @@
     "biography": "Fractal Hearts formed in a Portland rehearsal loft after a failed jazz-fusion project and a successful all-night planetarium shift. Their music folds math-rock discipline into space-rock wonder. QFR signed them for the ambition: records that reward headphones, stages that reward patience, and a visual language of recursive geometry. Live, they run a three-screen light plot designed by the drummer.",
     "image": "/assets/images/artists/fractal-hearts.jpg",
     "hero": "/assets/images/artists/fractal-hearts-hero.jpg",
-    "logo": "/assets/images/logos/fractal-hearts.png",
+    "logo": "/assets/images/logos/fractal-hearts.jpg",
     "members": [
       {
         "id": "fh-nova",
@@ -160,7 +160,7 @@
     "biography": "Grassroots Rebellion came up on basement bills, community radio, and a photocopied zine that outlived three practice spaces. Their songs are short, sharp, and surprisingly tender in the third verse. QFR wanted a band that could sit next to country and nu-metal without blinking — GR is that band. They still run their own merch table.",
     "image": "/assets/images/artists/grassroots-rebellion.jpg",
     "hero": "/assets/images/artists/grassroots-rebellion-hero.jpg",
-    "logo": "/assets/images/logos/grassroots-rebellion.png",
+    "logo": "/assets/images/logos/grassroots-rebellion.jpg",
     "members": [
       {
         "id": "gr-tia",
@@ -215,7 +215,7 @@
     "biography": "Warpnotix (Wren Nox) spent a decade inside other people's tracks as a mix engineer before stepping in front of the decks. The Warpnotix project is a laboratory for dance-floor physics: sub that you feel in your ribs, breaks that reset the room, and a visual identity of warped grids. QFR signed Wren to prove the label's universe is not genre-bound. Club nights, festival afters, and headphone albums all sit in the same catalog.",
     "image": "/assets/images/artists/warpnotix.jpg",
     "hero": "/assets/images/artists/warpnotix-hero.jpg",
-    "logo": "/assets/images/logos/warpnotix.png",
+    "logo": "/assets/images/logos/warpnotix.jpg",
     "members": [
       {
         "id": "wn-wren",
@@ -248,7 +248,7 @@
     "biography": "Sound Shamans emerged from Austin's late-night circuit with a reputation for sets that felt longer than the clock. They write in cycles and drones, then smash those cycles with choruses. The band's visual world is ochre, bone, and blue-black night. QFR brought them in to hold the indie/alt lane without turning it into a costume.",
     "image": "/assets/images/artists/sound-shamans.jpg",
     "hero": "/assets/images/artists/sound-shamans-hero.jpg",
-    "logo": "/assets/images/logos/sound-shamans.png",
+    "logo": "/assets/images/logos/sound-shamans.jpg",
     "members": [
       {
         "id": "ss-rowan",
@@ -302,7 +302,7 @@
     "biography": "Immovable Giants have been a Chicago secret for a decade: winter records, sold-out rooms, and a refusal to hurry. Their songs start small and become inevitable. QFR signed them to give the catalog a backbone of adult, unshowy rock — the kind that still hits like weather. The band records to tape when the song asks for it and to a laptop when it doesn't.",
     "image": "/assets/images/artists/immovable-giants.jpg",
     "hero": "/assets/images/artists/immovable-giants-hero.jpg",
-    "logo": "/assets/images/logos/immovable-giants.png",
+    "logo": "/assets/images/logos/immovable-giants.jpg",
     "members": [
       {
         "id": "ig-ellen",
@@ -357,7 +357,7 @@
     "biography": "The Jones Beach Boys started as a joke name and became a real band the night they learned four-part surf harmony in a parking lot. They write instrumentals and vocal tunes with equal love for spring reverb and unsarcastic joy. QFR signed them because the roster needed sun — and because the songs are better than nostalgia. They record live in a beach bungalow when the weather allows.",
     "image": "/assets/images/artists/jones-beach-boys.jpg",
     "hero": "/assets/images/artists/jones-beach-boys-hero.jpg",
-    "logo": "/assets/images/logos/jones-beach-boys.png",
+    "logo": "/assets/images/logos/the-jones-beach-boys.jpg",
     "members": [
       {
         "id": "jb-nick",
@@ -412,7 +412,7 @@
     "biography": "The Cosmic Run write on long drives and longer hikes. Their records move from fingerpicked confessionals to wide, night-sky rock without losing the plot. QFR heard them as the connective tissue of the roster — the band that makes country fans stay for the psych set. They self-produce with a mobile rig and a stubborn love of first takes.",
     "image": "/assets/images/artists/cosmic-run.jpg",
     "hero": "/assets/images/artists/cosmic-run-hero.jpg",
-    "logo": "/assets/images/logos/cosmic-run.png",
+    "logo": "/assets/images/logos/the-cosmic-run.jpg",
     "members": [
       {
         "id": "cr-june",
@@ -466,7 +466,7 @@
     "biography": "Moonflower Radio have always sounded like a broadcast you found by accident and then never left. They came out of San Francisco's psych revival without becoming a museum act. QFR signed them for the color they add to the universe — washed-out film, analog delay, and lyrics that treat consciousness as a collaborative instrument. Their live shows are famously long and famously kind.",
     "image": "/assets/images/artists/moonflower-radio.jpg",
     "hero": "/assets/images/artists/moonflower-radio-hero.jpg",
-    "logo": "/assets/images/logos/moonflower-radio.png",
+    "logo": "/assets/images/logos/moonflower-radio.jpg",
     "members": [
       {
         "id": "mr-lark",
@@ -521,7 +521,7 @@
     "biography": "Find/Replace formed in a Detroit warehouse that used to stamp auto parts. The building's acoustics — and its ghosts — are in the records. They sample factory ambience, scream like a UI error, and still write choruses you can put a fist in the air for. QFR wanted industrial muscle without corporate dystopia-as-cosplay. Find/Replace is the real weather of a city that makes things.",
     "image": "/assets/images/artists/find-replace.jpg",
     "hero": "/assets/images/artists/find-replace-hero.jpg",
-    "logo": "/assets/images/logos/find-replace.png",
+    "logo": "/assets/images/logos/find-replace.jpg"
     "members": [
       {
         "id": "fr-hex",
@@ -575,7 +575,7 @@
     "biography": "Immortal Prophets came out of Cleveland's heavy circuit with riffs that felt both vintage-2000 and unnervingly current. They rap, they scream, they stack gang vocals, and they mean it. QFR signed them to hold the heavy lane with dignity — no nostalgia trap, no irony shield. The band's mythos is self-made: sigils, sermons, and a live show that feels like a rite.",
     "image": "/assets/images/artists/immortal-prophets.jpg",
     "hero": "/assets/images/artists/immortal-prophets-hero.jpg",
-    "logo": "/assets/images/logos/immortal-prophets.png",
+    "logo": "/assets/images/logos/immortal-prophets.jpg",
     "members": [
       {
         "id": "ip-cain",
@@ -630,7 +630,7 @@
     "biography": "Firewall Nation started as a cypher that needed guitars. Atlanta's rap precision met Midwestern heaviness after a tour van accident (minor, mythologized) put a producer and a metal guitarist in the same waiting room. The result is a band that can cut a verse like a verse and a chorus like a wall. QFR signed them as proof that the roster's 'nation' is bigger than any one scene.",
     "image": "/assets/images/artists/firewall-nation.jpg",
     "hero": "/assets/images/artists/firewall-nation-hero.jpg",
-    "logo": "/assets/images/logos/firewall-nation.png",
+    "logo": "/assets/images/logos/firewall-nation.jpg",
     "members": [
       {
         "id": "fn-ace",
