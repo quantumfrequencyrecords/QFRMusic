@@ -1,0 +1,12 @@
+{
+  "id": "trending-album",
+  "type": "album",
+  "kicker": "Most Streamed Album",
+  "title": "Warped Grid",
+  "image": "/assets/images/releases/wn-grid.jpg",
+  "link": "/music",
+  "linkLabel": "Open in music",
+  "albumId": "wn-grid",
+  "artistId": "warpnotix",
+  "note": "Replace title, image, and albumId to pin a different release. Stream totals still sum from songs.json."
+}

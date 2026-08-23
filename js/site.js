@@ -49,7 +49,7 @@
   };
   QFR.param = (k) => new URLSearchParams(location.search).get(k);
 
-  const MARK = `<img class="qfr-header-logo" src="../favicon.svg" alt="Quantum Frequency Records logo">`;
+  const MARK = `<img class="hdr-logo qfr-header-logo" src="${ROOT}favicon.svg" alt="Quantum Frequency Records logo">`;
 
   const ICONS = {
     spotify: `<svg viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm4.6 14.4c-.2.3-.5.4-.8.2-2.2-1.3-5-1.6-8.3-.9-.3.1-.6-.1-.7-.4-.1-.3.1-.6.4-.7 3.6-.8 6.7-.4 9.2 1.1.3.1.4.5.2.7Zm1.1-2.5c-.2.4-.7.5-1 .3-2.5-1.5-6.4-2-9.4-1.1-.4.1-.8-.1-.9-.5-.1-.4.1-.8.5-.9 3.4-1 7.7-.5 10.6 1.2.4.2.5.7.2 1Zm.1-2.6c-3-1.8-8-2-10.9-1.1-.5.1-1-.2-1.1-.6-.2-.5.1-1 .6-1.1 3.3-1 8.8-.8 12.3 1.3.4.3.6.9.3 1.3-.2.4-.8.6-1.2.2Z"/></svg>`,
@@ -60,7 +60,7 @@
   };
 
   async function loadData() {
-    const names = ["site", "artists", "releases", "songs", "videos", "news", "gallery", "values", "trending"];
+    const names = ["site", "artists", "releases", "songs", "videos", "news", "gallery", "values"];
     const pack = await Promise.all(
       names.map((n) =>
         fetch(ROOT + "data/" + n + ".json").then((r) => {
@@ -75,6 +75,10 @@
       latestNames.map((n) => fetch(ROOT + "data/latest/" + n + ".json").then((r) => r.json())),
     );
     QFR.latestCards = latest;
+    const trendNames = ["song", "album", "artist", "video"];
+    QFR.trendingCards = await Promise.all(
+      trendNames.map((n) => fetch(ROOT + "data/trending/" + n + ".json").then((r) => r.json())),
+    );
   }
 
   function headerHTML(pageId) {
@@ -92,8 +96,7 @@
               ${MARK}
             </a>
           </div>
-          <div class="hdr-center">Quantum Frequency Records</div>
-          <nav class="nav-desk">${links}</nav>
+          <p class="hdr-center">Quantum Frequency Records</p>
           <div class="hdr-right">
             <button class="collapse-btn" id="hdr-collapse" type="button" aria-label="Collapse header">▴</button>
             <a class="store-btn" href="${QFR.page("pages/store.html")}">Store</a>
@@ -104,8 +107,8 @@
       <div class="drawer-root" id="drawer">
         <div class="drawer-ov" data-close></div>
         <aside class="drawer">
-          <div class="hdr-left" style="padding:.2rem;justify-content:space-between">
-            <span class="wordmark">${MARK}<span><span class="wordmark-qfr">QFR</span></span></span>
+          <div class="hdr-left" style="padding:1rem;justify-content:space-between">
+            <a class="wordmark" href="${QFR.page("index.html")}" aria-label="Quantum Frequency Records">${MARK}</a>
             <button class="icon-btn" type="button" data-close aria-label="Close">✕</button>
           </div>
           <div class="freq"></div>
@@ -167,31 +170,17 @@
 
   function footerHTML() {
     const s = QFR.site;
-    const nav = NAV.map((n) => `<li><a href="${QFR.page(n.href)}">${n.label}</a></li>`).join("");
+    const nav = NAV.map((n) => `<a href="${QFR.page(n.href)}">${n.label}</a>`).join("");
     return `
       ${newsletterHTML()}
       <footer class="site-footer">
-        <div class="freq"></div>
-        <div class="wrap ft-grid">
-          <div>
-            <div class="wordmark">${MARK}<span><span class="wordmark-qfr">${s.shortName}</span><span class="wordmark-sub">QUANTUM FREQUENCY</span></span></div>
-            <p class="muted" style="margin-top:1rem;max-width:24rem">${s.tagline}</p>
-          </div>
-          <div>
-            <p class="kicker">Navigation</p>
-            <ul style="list-style:none;padding:0;margin:1rem 0 0">${nav}<li><a href="${QFR.page("pages/store.html")}">Store</a></li></ul>
-          </div>
-          <div>
-            <p class="kicker">Connect</p>
+        <div class="wrap ft-row">
+          <a class="wordmark" href="${QFR.page("index.html")}" aria-label="${s.name}">${MARK}<span class="ft-name">Quantum Frequency Records</span></a>
+          <nav class="ft-nav">${nav}<a href="${QFR.page("pages/store.html")}">Store</a></nav>
+          <div class="ft-end">
             ${QFR.socialIcons("social-row")}
-            <a class="muted" style="display:block;margin-top:1rem;font-size:.9rem" href="mailto:${s.contact.email}">${s.contact.email}</a>
-          </div>
-          <div>
-            <p class="kicker">Legal</p>
-            <ul style="list-style:none;padding:0;margin:1rem 0 0">
-              <li><a href="${QFR.page("pages/privacy.html")}">Privacy</a></li>
-              <li><a href="${QFR.page("pages/terms.html")}">Terms</a></li>
-            </ul>
+            <a href="${QFR.page("pages/privacy.html")}">Privacy</a>
+            <a href="${QFR.page("pages/terms.html")}">Terms</a>
           </div>
         </div>
         <div class="wrap ft-bar">
@@ -263,31 +252,38 @@
   };
 
   QFR.mostStreamedArtist = (tf) => {
-    const pin = QFR.trending && QFR.trending.artistId;
-    const pinned = pin ? QFR.getArtist(pin) : undefined;
-    if (pinned) return pinned;
     return [...QFR.artists].sort((a, b) => b.stats[tf] - a.stats[tf])[0];
   };
   QFR.mostStreamedSong = (tf) => {
-    const pin = QFR.trending && QFR.trending.songId;
-    const pinned = pin ? QFR.getSong(pin) : undefined;
-    if (pinned) return pinned;
     return [...QFR.songs].sort((a, b) => b.streams[tf] - a.streams[tf])[0];
   };
   QFR.mostStreamedAlbum = (tf) => {
-    const pin = QFR.trending && QFR.trending.albumId;
     const scores = new Map();
     for (const s of QFR.songs) scores.set(s.releaseId, (scores.get(s.releaseId) || 0) + s.streams[tf]);
-    const pinned = pin ? QFR.getRelease(pin) : undefined;
-    if (pinned) return { release: pinned, streams: scores.get(pinned.id) || 0 };
     const sorted = [...QFR.releases].sort((a, b) => (scores.get(b.id) || 0) - (scores.get(a.id) || 0));
     return { release: sorted[0], streams: scores.get(sorted[0].id) || 0 };
   };
   QFR.mostViewedVideo = (tf) => {
-    const pin = QFR.trending && QFR.trending.videoId;
-    const pinned = pin ? QFR.videos.find((v) => v.id === pin) : undefined;
-    if (pinned) return pinned;
     return [...QFR.videos].sort((a, b) => b.views[tf] - a.views[tf])[0];
+  };
+  QFR.albumStreams = (id, tf) =>
+    QFR.songs.filter((s) => s.releaseId === id).reduce((n, s) => n + s.streams[tf], 0);
+
+  QFR.resolveTrending = (card, tf) => {
+    if (card.type === "song") {
+      const song = (card.songId && QFR.getSong(card.songId)) || QFR.mostStreamedSong(tf);
+      return { title: card.title || song.title, image: card.image || song.artwork, stat: song.streams[tf], href: QFR.routeLink(card.link || "/music"), playId: song.id };
+    }
+    if (card.type === "album") {
+      const release = (card.albumId && QFR.getRelease(card.albumId)) || QFR.mostStreamedAlbum(tf).release;
+      return { title: card.title || release.title, image: card.image || release.artwork, stat: QFR.albumStreams(release.id, tf), href: QFR.routeLink(card.link || "/music") };
+    }
+    if (card.type === "artist") {
+      const artist = (card.artistId && QFR.getArtist(card.artistId)) || QFR.mostStreamedArtist(tf);
+      return { title: card.title || artist.name, image: card.image || artist.image, stat: artist.stats[tf], href: QFR.artistUrl(artist.id) };
+    }
+    const video = (card.videoId && QFR.videos.find((v) => v.id === card.videoId)) || QFR.mostViewedVideo(tf);
+    return { title: card.title || video.title, image: card.image || video.thumbnail, stat: video.views[tf], href: QFR.routeLink(card.link || "/videos") };
   };
 
   QFR.artistDna = (id) => {
@@ -316,14 +312,37 @@
     const logos = [...QFR.artists, ...QFR.artists]
       .map((a) => `<a href="${QFR.artistUrl(a.id)}" title="${a.name}"><img src="${QFR.asset(a.logo)}" alt="${a.name}"></a>`)
       .join("");
-    return `<div class="ticker" id="ticker"><div class="ticker-track">${logos}</div></div>`;
+    return `<div class="ticker" id="ticker">
+      <button type="button" class="ticker-btn" data-dir="1" aria-label="Move logos right">‹</button>
+      <div class="ticker-clip"><div class="ticker-track" id="ticker-track">${logos}</div></div>
+      <button type="button" class="ticker-btn" data-dir="-1" aria-label="Move logos left">›</button>
+    </div>`;
   };
 
   QFR.bindTicker = () => {
-    const el = document.getElementById("ticker");
-    if (!el) return;
-    el.onmouseenter = () => el.classList.add("paused");
-    el.onmouseleave = () => el.classList.remove("paused");
+    const wrap = document.getElementById("ticker");
+    const track = document.getElementById("ticker-track");
+    if (!wrap || !track) return;
+    let x = 0;
+    let paused = false;
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    wrap.onmouseenter = () => { paused = true; };
+    wrap.onmouseleave = () => { paused = false; };
+    wrap.querySelectorAll(".ticker-btn").forEach((b) => {
+      b.onclick = () => { x += Number(b.dataset.dir) * 180; };
+    });
+    if (reduce) return;
+    const step = () => {
+      if (!paused) x -= 0.5;
+      const half = track.scrollWidth / 2;
+      if (half > 0) {
+        if (x <= -half) x += half;
+        if (x > 0) x -= half;
+      }
+      track.style.transform = "translateX(" + x + "px)";
+      requestAnimationFrame(step);
+    };
+    requestAnimationFrame(step);
   };
 
   QFR.routeLink = (link) => {

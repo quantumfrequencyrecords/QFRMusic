@@ -1,8 +1,12 @@
 QFR.ready("artists").then(() => {
   const intro = QFR.site.artistsIntro;
-  const rows = QFR.artists
-    .map(
-      (a) => `
+  const genres = [...new Set(QFR.artists.map((a) => a.genre))];
+  let genre = "all";
+
+  function rowsFor(list) {
+    return list
+      .map(
+        (a) => `
     <article class="artist-banner" style="margin-bottom:1.5rem">
       <img class="bg" src="${QFR.asset(a.hero)}" alt="" loading="lazy">
       <div class="veil"></div>
@@ -20,20 +24,54 @@ QFR.ready("artists").then(() => {
         </div>
       </div>
     </article>`,
-    )
-    .join("");
+      )
+      .join("");
+  }
 
-  document.getElementById("app").innerHTML = `
-    ${QFR.pageHero({
-      kicker: intro.kicker,
-      title: intro.heading,
-      sub: intro.sub,
-      image: "assets/images/backgrounds/landing.jpg",
-    })}
-    ${QFR.tickerHTML()}
-    <div class="wrap py">${rows}</div>`;
-  QFR.bindTicker();
-  document.querySelectorAll("[data-listen]").forEach((b) => {
-    b.onclick = () => QFR.playRandom({ artistId: b.dataset.listen });
-  });
+  function groupsHtml() {
+    const list =
+      genre === "all"
+        ? QFR.artists
+        : QFR.artists.filter((a) => a.genre === genre || a.genres.includes(genre));
+    const map = new Map();
+    for (const a of list) {
+      const arr = map.get(a.genre) || [];
+      arr.push(a);
+      map.set(a.genre, arr);
+    }
+    return [...map.entries()]
+      .map(([label, roster]) => `<section style="margin-bottom:2.5rem"><p class="kicker" style="margin-bottom:1rem">${label}</p>${rowsFor(roster)}</section>`)
+      .join("");
+  }
+
+  function paint() {
+    document.getElementById("app").innerHTML = `
+      ${QFR.pageHero({
+        kicker: intro.kicker,
+        title: intro.heading,
+        sub: intro.sub,
+        image: "assets/images/backgrounds/landing.jpg",
+      })}
+      ${QFR.tickerHTML()}
+      <section class="wrap" style="padding-top:2rem">
+        <p class="kicker">Filter by genre</p>
+        <div class="chips" style="margin-top:1rem">
+          <button class="chip ${genre === "all" ? "on" : ""}" data-g="all">All</button>
+          ${genres.map((g) => `<button class="chip ${g === genre ? "on" : ""}" data-g="${g}">${g}</button>`).join("")}
+        </div>
+      </section>
+      <div class="wrap py">${groupsHtml()}</div>`;
+    QFR.bindTicker();
+    document.querySelectorAll("[data-g]").forEach((b) => {
+      b.onclick = () => {
+        genre = b.dataset.g;
+        paint();
+      };
+    });
+    document.querySelectorAll("[data-listen]").forEach((b) => {
+      b.onclick = () => QFR.playRandom({ artistId: b.dataset.listen });
+    });
+  }
+
+  paint();
 });

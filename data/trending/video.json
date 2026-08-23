@@ -1,0 +1,12 @@
+{
+  "id": "trending-video",
+  "type": "video",
+  "kicker": "Most Watched Video",
+  "title": "Public Volume",
+  "image": "/assets/images/gallery/firewall-nation-v1.jpg",
+  "link": "/videos",
+  "linkLabel": "Watch",
+  "videoId": "firewall-nation-v1",
+  "artistId": "firewall-nation",
+  "note": "Replace title, image, and videoId to pin a different video. View counts still read from videos.json."
+}

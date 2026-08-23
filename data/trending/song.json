@@ -1,0 +1,12 @@
+{
+  "id": "trending-song",
+  "type": "song",
+  "kicker": "Most Streamed Song",
+  "title": "Sub Ribs",
+  "image": "/assets/images/releases/wn-grid.jpg",
+  "link": "/music",
+  "linkLabel": "Play the track",
+  "songId": "wn-grid-t1",
+  "artistId": "warpnotix",
+  "note": "Replace title, image, and songId to pin a different track. Weekly/monthly/yearly counts still read from songs.json."
+}

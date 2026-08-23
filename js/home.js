@@ -18,13 +18,12 @@ QFR.ready("home").then(() => {
 
   function paint() {
     const d = cards[latest];
-    const a = QFR.mostStreamedArtist(tf);
-    const song = QFR.mostStreamedSong(tf);
-    const album = QFR.mostStreamedAlbum(tf);
-    const vid = QFR.mostViewedVideo(tf);
-    const albumArtist = QFR.getArtist(album.release.artistId);
     const values = QFR.values;
     const activeVal = values.find((v) => v.number === (window._qfrVal || 1)) || values[0];
+    const trends = (QFR.trendingCards || []).map((c) => {
+      const r = QFR.resolveTrending(c, tf);
+      return { card: c, ...r };
+    });
 
     document.getElementById("app").innerHTML = `
       <section class="studio-hero">
@@ -105,22 +104,14 @@ QFR.ready("home").then(() => {
             .join("")}</div>
         </div>
         <div class="trend">
-          <a href="${QFR.page("pages/music.html")}" data-play="${song.id}">
-            <img src="${QFR.asset(song.artwork)}" alt="">
-            <div class="cap"><p class="tiny">Most Streamed Song</p><p style="font-family:var(--font-display);font-size:1.6rem">${song.title}</p><p>${QFR.fmtCompact(song.streams[tf])} <span class="muted">${tfLabel[tf]}</span></p></div>
-          </a>
-          <a href="${QFR.page("pages/music.html")}">
-            <img src="${QFR.asset(album.release.artwork)}" alt="">
-            <div class="cap"><p class="tiny">Most Streamed Album</p><p style="font-family:var(--font-display);font-size:1.6rem">${album.release.title}</p><p>${QFR.fmtCompact(album.streams)} <span class="muted">${albumArtist ? albumArtist.name : ""} · ${tfLabel[tf]}</span></p></div>
-          </a>
-          <a href="${QFR.artistUrl(a.id)}">
-            <img src="${QFR.asset(a.image)}" alt="">
-            <div class="cap"><p class="tiny">Most Streamed Artist</p><p style="font-family:var(--font-display);font-size:1.6rem">${a.name}</p><p>${QFR.fmtCompact(a.stats[tf])} <span class="muted">${tfLabel[tf]}</span></p></div>
-          </a>
-          <a href="${QFR.page("pages/videos.html")}">
-            <img src="${QFR.asset(vid.thumbnail)}" alt="">
-            <div class="cap"><p class="tiny">Most Watched Video</p><p style="font-family:var(--font-display);font-size:1.6rem">${vid.title}</p><p>${QFR.fmtCompact(vid.views[tf])} <span class="muted">${tfLabel[tf]}</span></p></div>
-          </a>
+          ${trends
+            .map(
+              (t) => `<a href="${t.href}" ${t.playId ? `data-play="${t.playId}"` : ""}>
+            <img src="${QFR.asset(t.image)}" alt="">
+            <div class="cap"><p class="tiny">${t.card.kicker}</p><p style="font-family:var(--font-display);font-size:1.6rem">${t.title}</p><p>${QFR.fmtCompact(t.stat)} <span class="muted">${tfLabel[tf]}</span></p></div>
+          </a>`,
+            )
+            .join("")}
         </div>
       </section>
 

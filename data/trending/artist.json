@@ -1,0 +1,11 @@
+{
+  "id": "trending-artist",
+  "type": "artist",
+  "kicker": "Most Streamed Artist",
+  "title": "Warpnotix",
+  "image": "/assets/images/artists/warpnotix.jpg",
+  "link": "/artist/warpnotix",
+  "linkLabel": "Visit artist",
+  "artistId": "warpnotix",
+  "note": "Replace title, image, and artistId to pin a different artist. Stats still read from artists.json."
+}

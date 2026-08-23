@@ -525,6 +525,104 @@ if (exploreButton) {
 
 
 /* ------------------------------------------------------------
+   FREQUENCY CANVAS
+------------------------------------------------------------ */
+
+const freqCanvas = document.getElementById("frequencyCanvas");
+let freqFrame = 0;
+
+function startFrequencyCanvas() {
+    if (!freqCanvas) return;
+    const ctx = freqCanvas.getContext("2d");
+    if (!ctx) return;
+    if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+    let t = 0;
+    const resize = () => {
+        const dpr = Math.min(window.devicePixelRatio || 1, 2);
+        freqCanvas.width = window.innerWidth * dpr;
+        freqCanvas.height = window.innerHeight * dpr;
+        freqCanvas.style.width = window.innerWidth + "px";
+        freqCanvas.style.height = window.innerHeight + "px";
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    };
+    resize();
+    window.addEventListener("resize", resize);
+
+    const loop = () => {
+        const w = window.innerWidth;
+        const h = window.innerHeight;
+        ctx.clearRect(0, 0, w, h);
+        t += 0.018;
+        const waves = [
+            { amp: h * 0.045, freq: 0.0042, speed: 1.1, y: h * 0.62, a: 0.55 },
+            { amp: h * 0.07, freq: 0.0028, speed: 0.7, y: h * 0.72, a: 0.35 },
+            { amp: h * 0.03, freq: 0.006, speed: 1.6, y: h * 0.8, a: 0.28 },
+        ];
+        waves.forEach((wave) => {
+            ctx.beginPath();
+            ctx.strokeStyle = "rgba(46, 230, 214, " + wave.a + ")";
+            ctx.lineWidth = 1.2;
+            for (let x = 0; x <= w; x += 4) {
+                const y =
+                    wave.y +
+                    Math.sin(x * wave.freq + t * wave.speed) * wave.amp +
+                    Math.sin(x * wave.freq * 0.35 + t * 0.4) * wave.amp * 0.35;
+                if (x === 0) ctx.moveTo(x, y);
+                else ctx.lineTo(x, y);
+            }
+            ctx.stroke();
+        });
+        freqFrame = requestAnimationFrame(loop);
+    };
+    loop();
+}
+
+startFrequencyCanvas();
+
+
+/* ------------------------------------------------------------
+   FX TOGGLE
+------------------------------------------------------------ */
+
+const fxToggle = document.getElementById("fxToggle");
+let fxOn = true;
+try {
+    if (localStorage.getItem("qfr-fx") === "0") fxOn = false;
+} catch (e) {}
+
+function applyFx() {
+    if (!landing) return;
+    landing.classList.toggle("fx-off", !fxOn);
+    if (fxToggle) {
+        fxToggle.textContent = fxOn ? "FX ON" : "FX OFF";
+        fxToggle.setAttribute("aria-pressed", fxOn ? "true" : "false");
+        fxToggle.setAttribute("aria-label", fxOn ? "Turn atmosphere off" : "Turn atmosphere on");
+    }
+    if (!fxOn && animationFrame) {
+        cancelAnimationFrame(animationFrame);
+        animationFrame = 0;
+    }
+    if (!fxOn && freqFrame) {
+        cancelAnimationFrame(freqFrame);
+        freqFrame = 0;
+    }
+    if (fxOn && !animationFrame) animateParticles();
+    if (fxOn && !freqFrame) startFrequencyCanvas();
+}
+
+applyFx();
+
+if (fxToggle) {
+    fxToggle.addEventListener("click", () => {
+        fxOn = !fxOn;
+        try { localStorage.setItem("qfr-fx", fxOn ? "1" : "0"); } catch (e) {}
+        applyFx();
+    });
+}
+
+
+/* ------------------------------------------------------------
    CLEANUP
 ------------------------------------------------------------ */
 
@@ -538,6 +636,10 @@ window.addEventListener(
                 animationFrame
             );
 
+        }
+
+        if (freqFrame) {
+            cancelAnimationFrame(freqFrame);
         }
 
     }
