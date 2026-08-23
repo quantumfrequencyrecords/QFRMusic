@@ -47,7 +47,7 @@ body.np-docked .page-pad { padding-bottom: 2rem; }
 .site-header { position: sticky; top: 0; z-index: 40; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(10px); border-bottom: 1px solid color-mix(in srgb, var(--border) 80%, transparent); }
 .hdr { position: relative; display: flex; align-items: center; gap: 0.75rem; height: 4rem; max-width: 1400px; margin: 0 auto; padding: 0 0.75rem; }
 .site-header.collapsed .hdr { height: 2.75rem; }
-.hdr-left { display: flex; align-items: center; gap: 0.25rem; }
+.hdr-left { display: flex; align-items: center; gap: 0.1rem; }
 .icon-btn { width: 2.75rem; height: 2.75rem; display: inline-flex; align-items: center; justify-content: center; color: var(--fg); }
 .wordmark { display: flex; align-items: center; gap: 0.6rem; }
 .wordmark svg { width: 2.75rem; height: 2rem; color: var(--accent); }
