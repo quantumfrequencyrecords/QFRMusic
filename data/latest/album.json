@@ -2,15 +2,15 @@
   "id": "latest-album",
   "type": "album",
   "kicker": "Latest Album Release",
-  "title": "The Singals We Leave Behind",
+  "title": "The Signals We Leave Behind",
   "subtitle": "Immovable Giants · Album",
-  "date": "2026-04-02",
+  "date": "2026-08-14",
   "image": "/assets/images/releases/the-signals-we-leave-behind.jpg",
-  "excerpt": "A patient, heavy, emotion-shaped record from one o the label's newely signed bands.",
-  "body": "The Signals We Leave Behind is the new album from Immovable Giants — tectonic riffs, wide dynamics, and songs that take the long way around. Replace the copy, credits, and artwork path in data/latest/album.json with the official release. Play it from the QFR player the moment the masters are in.",
+  "excerpt": "A patient, expansive record about memory, distance, endurance and the traces people leave behind.",
+  "body": "The Signals We Leave Behind is Immovable Giants at their most expansive. Built from slow-burning guitars, enormous dynamics and deeply human songwriting, the album explores what remains after the moment has passed—the people we lose, the places we outgrow and the pieces of ourselves we leave behind along the way. Rather than chasing immediacy, Immovable Giants let each song breathe until its emotional weight becomes impossible to ignore. It is a record about endurance, memory and the quiet evidence that we were here.",
   "link": "/music",
-  "linkLabel": "Open in music",
-  "meta": "Album · Apr 2026",
+  "linkLabel": "Explore the album",
+  "meta": "Album · Aug 14, 2026",
   "artistId": "immovable-giants",
-  "releaseId": "ig-weather"
+  "releaseId": "ig-signals"
 }
