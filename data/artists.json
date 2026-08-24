@@ -8,43 +8,63 @@
       "Southern Rock",
       "Americana"
     ],
-    "hometown": "Anywhere, NY",
+    "hometown": "Smithtown, NY",
     "formed": 2019,
     "type": "group",
     "tagline": "Dust, steel strings, and a second chance at midnight.",
-    "description": "A country-rock outfit that treats the open road like a studio. Buckshot Bourbon writes bar-room hymns with arena-sized choruses — whiskey-warm guitars, stacked harmonies, and stories that refuse to sand off their edges.",
-    "biography": "Buckshot Bourbon started as a Friday-night residency in a converted feed mill north of the city. What began as three-hour sets for regulars became a catalog of songs about work, weather, loyalty, and the kind of love that leaves boot prints. Quantum Frequency Records signed the group after a live tape of 'Last Call Gravity' circulated through the label's A&R circle. They remain proudly analog in spirit — tracking live when it serves the song — while using the label as a launchpad to take country-rock somewhere less expected.",
+    "description": "Buckshot Bourbon is a Long Island country-rock band built around four lifelong friends, combining Nashville songwriting, Southern-rock muscle, and the unmistakable attitude of their New York roots.",
+    "biography": "Buckshot Bourbon began with Tucker 'Tuck' Kennedy and David 'Fireball' Daniels, childhood friends who grew up three houses apart in Smithtown, New York. Colt 'Buckshot' McCrae joined them during middle school, bringing equal parts musical curiosity and unpredictable energy. The final piece arrived when David discovered Jackson 'Crash' Reilly, a younger football teammate whose unconscious drumming turned out to be the missing ingredient. After years of garage rehearsals, Long Island bars, and playing every show as though it were an arena, the four friends built a devoted following around their blend of country storytelling, Southern-rock grit, and hard-rock energy. Quantum Frequency Records signed Buckshot Bourbon after seeing the band's ability to turn an ordinary barroom into a room full of believers. The band's story is deeply intertwined with another QFR artist: Tucker's younger brother, Sawyer Kennedy, who later established himself as a solo Nashville country artist on the label. The Kennedy brothers give QFR one of its most personal artist connections.",
     "image": "/assets/images/artists/buckshot-bourbon.jpg",
     "hero": "/assets/images/logos/buckshot-bourbon.jpg",
     "logo": "/assets/images/logos/buckshot-bourbon.jpg",
     "members": [
       {
-        "id": "bb-cole",
-        "name": "Cole Harlan",
-        "role": "Vocals / Guitar",
-        "bio": "Frontman and principal songwriter. Cole writes like he talks: plain, pointed, and a little dangerous after midnight.",
-        "image": "/assets/images/members/bb-cole.jpg"
+        "id": "bb-tucker-kennedy",
+        "name": "Tucker Kennedy",
+        "nickname": "Tuck",
+        "role": "Lead Vocals / Acoustic Guitar / Electric Guitar / Harmonica / Mandolin",
+        "bio": "The heart and frontman of Buckshot Bourbon. Tuck brings a warm, charismatic presence to the stage and writes with the confidence of someone who knows exactly where he came from. His younger brother, Sawyer Kennedy, is also signed to QFR as a solo country artist.",
+        "image": "/assets/images/members/bb-tucker-kennedy.jpg",
+        "height": "6'0\"",
+        "weight": "200 lbs",
+        "build": "Athletic",
+        "style": "Cowboy hat, clean-cut appearance, short hair, five-o'clock shadow, long-sleeve shirts, blue or black jeans, aviator sunglasses occasionally."
       },
       {
-        "id": "bb-mae",
-        "name": "Mae Riven",
-        "role": "Vocals / Fiddle",
-        "bio": "The high harmony and the wild card. Mae's fiddle lines are the band's secret weapon.",
-        "image": "/assets/images/members/bb-mae.jpg"
+        "id": "bb-david-daniels",
+        "name": "David Daniels",
+        "nickname": "Fireball",
+        "role": "Backup Vocals / Electric Guitar / Lead Guitar / Bass Guitar / Banjo / Mandolin",
+        "bio": "The band's firepower. David brings Nashville experience, hard-rock instincts, and an intensity that turns even a simple country progression into something capable of shaking a room.",
+        "image": "/assets/images/members/bb-david-daniels.jpg",
+        "height": "6'3\"",
+        "weight": "220 lbs",
+        "build": "Athletic",
+        "style": "Short pompadour-style hair, clean-cut appearance, medium beard and curled mustache, long-sleeve button-down shirt, leather vest, aviator sunglasses."
       },
       {
-        "id": "bb-dutch",
-        "name": "Dutch Keller",
-        "role": "Bass",
-        "bio": "Keeps the floorboards moving. Dutch came up playing roadhouses from Buffalo to Birmingham.",
-        "image": "/assets/images/members/bb-dutch.jpg"
+        "id": "bb-colt-mccrae",
+        "name": "Colt McCrae",
+        "nickname": "Buckshot",
+        "role": "Bass Guitar / Banjo / Mandolin / Harmonica / Percussion",
+        "bio": "The band's walking party. Colt is impossible to miss onstage, combining musical enthusiasm with his trademark American-flag bandana, cape, handlebar mustache, and larger-than-life personality.",
+        "image": "/assets/images/members/bb-colt-mccrae.jpg",
+        "height": "5'9\"",
+        "weight": "180 lbs",
+        "build": "Average",
+        "style": "American flag bandana, American flag cape, dramatic handlebar mustache, short textured hair, black shirt, blue jeans, decorated cowboy boots."
       },
       {
-        "id": "bb-rex",
-        "name": "Rex Lang",
-        "role": "Drums",
-        "bio": "A pocket drummer with a stomping right foot and a collection of vintage snares.",
-        "image": "/assets/images/members/bb-rex.jpg"
+        "id": "bb-jackson-reilly",
+        "name": "Jackson Reilly",
+        "nickname": "Crash",
+        "role": "Drums / Percussion / Backup Vocals",
+        "bio": "The silent engine of Buckshot Bourbon. Jackson is disciplined, focused, and almost unnervingly consistent behind the kit. The band jokes that while everyone else brings the party, Crash makes sure the party stays on time.",
+        "image": "/assets/images/members/bb-jackson-reilly.jpg",
+        "height": "5'11\"",
+        "weight": "185 lbs",
+        "build": "Athletic",
+        "style": "Short slicked-back hair, clean-shaven, black T-shirt, dark blue jeans, signature aviator sunglasses, occasional backwards snapback."
       }
     ],
     "stats": {
@@ -61,24 +81,26 @@
     "genres": [
       "Country",
       "Nashville",
+      "Country Pop",
       "Singer-Songwriter"
     ],
     "hometown": "Nashville, TN",
     "formed": 2021,
     "type": "solo",
     "tagline": "Nashville steel with a late-night conscience.",
-    "description": "A solo Nashville country artist who writes like a novelist and sings like the last person left in the room. Sawyer Kennedy's catalog is intimate, cinematic, and unafraid of silence.",
-    "biography": "Sawyer Kennedy moved to Nashville with a notebook and a borrowed Telecaster. After two winters of writer's rounds and one very public breakup record, the songs started traveling further than the gigs. QFR heard a demo of 'Glass Off the Dashboard' and offered a home that would not force a radio template onto a storyteller. Sawyer records with a small rotating cast of Nashville players and produces with a documentary ear — room tone, breath, and the scrape of a chair are part of the arrangement.",
+    "description": "Sawyer Kennedy is a Nashville country singer-songwriter known for emotionally direct storytelling, polished modern production, and songs that feel equally at home on a back porch or a sold-out arena.",
+    "biography": "Sawyer Kennedy grew up on Long Island, New York, as the younger brother of Buckshot Bourbon frontman Tucker 'Tuck' Kennedy. While his brother found his voice in a band, Sawyer developed a quieter obsession with songwriting. He eventually moved to Nashville with a notebook, a borrowed guitar, and a determination to build a career on songs rather than shortcuts. After years of writer's rounds and independent recording sessions, Sawyer caught Quantum Frequency Records' attention with a collection of demos that balanced modern country hooks with unusually personal storytelling. QFR signed him as a solo artist, giving the Kennedy family a unique place within the label's growing universe.",
     "image": "/assets/images/artists/sawyer-kennedy.jpg",
     "hero": "/assets/images/logos/sawyer-kennedy.jpg",
     "logo": "/assets/images/logos/sawyer-kennedy.jpg",
     "members": [
       {
-        "id": "sk-sawyer",
+        "id": "sk-sawyer-kennedy",
         "name": "Sawyer Kennedy",
-        "role": "Vocals / Guitar / Writer",
-        "bio": "Solo artist. Writes, sings, and produces from a converted garage studio east of downtown Nashville.",
-        "image": "/assets/images/members/sk-sawyer.jpg"
+        "nickname": "Sawyer",
+        "role": "Lead Vocals / Guitar / Songwriter / Producer",
+        "bio": "A modern Nashville storyteller who writes from observation, memory, and experience. Sawyer is the younger brother of Buckshot Bourbon frontman Tucker Kennedy.",
+        "image": "/assets/images/members/sk-sawyer-kennedy.jpg"
       }
     ],
     "stats": {
@@ -95,45 +117,52 @@
     "genres": [
       "Progressive Rock",
       "Space Rock",
-      "Alt Rock"
+      "Alternative Rock"
     ],
-    "hometown": "Portland, OR",
+    "hometown": "Philadelphia, PA",
     "formed": 2018,
     "type": "group",
     "tagline": "Long-form rock for people who still look up.",
-    "description": "Progressive, cosmic, and meticulously built. Fractal Hearts treat albums like constellations — motifs return, time signatures tilt, and guitars bloom into atmospheres.",
-    "biography": "Fractal Hearts formed in a Portland rehearsal loft after a failed jazz-fusion project and a successful all-night planetarium shift. Their music folds math-rock discipline into space-rock wonder. QFR signed them for the ambition: records that reward headphones, stages that reward patience, and a visual language of recursive geometry. Live, they run a three-screen light plot designed by the drummer.",
+    "description": "Fractal Hearts create expansive progressive and space rock built from soaring guitars, layered synths, shifting rhythms, and songs that feel designed to be experienced rather than simply heard.",
+    "biography": "Fractal Hearts formed in Philadelphia when five musicians discovered they shared an obsession with records that demanded headphones and uninterrupted attention. Their music moves between progressive-rock precision, space-rock atmosphere, and emotionally direct alternative-rock songwriting. The band became known for treating each album as a connected universe, allowing musical themes and melodies to reappear in unexpected places. Quantum Frequency Records signed Fractal Hearts because the band's ambition matched the label's belief that music does not need to fit a predetermined format.",
     "image": "/assets/images/artists/fractal-hearts.jpg",
     "hero": "/assets/images/logos/fractal-hearts.jpg",
     "logo": "/assets/images/logos/fractal-hearts.jpg",
     "members": [
       {
-        "id": "fh-nova",
-        "name": "Nova Ellison",
-        "role": "Guitar / Vocals",
-        "bio": "Architect of the band's looping motifs and soaring mid-song key changes.",
-        "image": "/assets/images/members/fh-nova.jpg"
+        "id": "fh-liam",
+        "name": "Liam Mercer",
+        "role": "Vocals / Keyboard",
+        "bio": "The atmospheric architect of Fractal Hearts, Liam builds the band's emotional center through layered keyboards and restrained vocal melodies.",
+        "image": "/assets/images/members/fh-liam.jpg"
       },
       {
-        "id": "fh-iris",
-        "name": "Iris Venn",
-        "role": "Keys / Synths",
-        "bio": "Builds the interstellar weather system the guitars fly through.",
-        "image": "/assets/images/members/fh-iris.jpg"
+        "id": "fh-ben",
+        "name": "Ben Holloway",
+        "role": "Guitar",
+        "bio": "A texture-driven guitarist who specializes in turning simple motifs into enormous walls of sound.",
+        "image": "/assets/images/members/fh-ben.jpg"
       },
       {
-        "id": "fh-kal",
-        "name": "Kal Dreher",
+        "id": "fh-david",
+        "name": "David Mercer",
+        "role": "Lead Vocals / Guitar",
+        "bio": "The band's primary frontman and principal songwriter, David combines progressive ambition with an instinct for memorable vocal hooks.",
+        "image": "/assets/images/members/fh-david.jpg"
+      },
+      {
+        "id": "fh-chris",
+        "name": "Chris Dalton",
+        "role": "Drums",
+        "bio": "A precise and dynamic drummer who moves effortlessly between intricate progressive passages and massive rock grooves.",
+        "image": "/assets/images/members/fh-chris.jpg"
+      },
+      {
+        "id": "fh-mark",
+        "name": "Mark Ellison",
         "role": "Bass",
-        "bio": "A melodic bassist who treats odd meters like a conversation, not a stunt.",
-        "image": "/assets/images/members/fh-kal.jpg"
-      },
-      {
-        "id": "fh-jin",
-        "name": "Jin Park",
-        "role": "Drums / Visuals",
-        "bio": "Polyrhythmic engine and the designer of the live light fractal.",
-        "image": "/assets/images/members/fh-jin.jpg"
+        "bio": "The foundation beneath the band's expansive sound. Mark approaches bass as both rhythm section and melodic instrument.",
+        "image": "/assets/images/members/fh-mark.jpg"
       }
     ],
     "stats": {
@@ -149,46 +178,46 @@
     "genre": "Punk Rock",
     "genres": [
       "Punk Rock",
-      "Alt Rock",
+      "Alternative Rock",
       "Pop Punk"
     ],
     "hometown": "Brooklyn, NY",
     "formed": 2020,
     "type": "group",
     "tagline": "Hooks first. Compromise never.",
-    "description": "Punk rock with pop-punk adrenaline and alt-rock craft. Grassroots Rebellion write two-minute arguments you can shout from a sticky floor.",
-    "biography": "Grassroots Rebellion came up on basement bills, community radio, and a photocopied zine that outlived three practice spaces. Their songs are short, sharp, and surprisingly tender in the third verse. QFR wanted a band that could sit next to country and nu-metal without blinking — GR is that band. They still run their own merch table.",
+    "description": "Grassroots Rebellion combine punk urgency, pop-punk hooks, and alternative-rock songwriting with the attitude of a band that has never been interested in asking permission.",
+    "biography": "Grassroots Rebellion grew out of Brooklyn basement shows, independent venues, and late-night rehearsal sessions where four friends learned that the best songs did not require permission from anyone. Their music is fast, melodic, sarcastic when necessary, and surprisingly vulnerable when the volume drops. Quantum Frequency Records connected with the band because their independent spirit mirrored the label's own philosophy: build something real first, then let the world catch up.",
     "image": "/assets/images/artists/grassroots-rebellion.jpg",
     "hero": "/assets/images/logos/grassroots-rebellion.jpg",
     "logo": "/assets/images/logos/grassroots-rebellion.jpg",
     "members": [
       {
-        "id": "gr-tia",
-        "name": "Tia Morales",
-        "role": "Vocals / Guitar",
-        "bio": "Lyricist of the uprising. Tia writes slogans that still feel like diary entries.",
-        "image": "/assets/images/members/gr-tia.jpg"
+        "id": "gr-dylan-reed",
+        "name": "Dylan Reed",
+        "role": "Lead Vocals / Guitar",
+        "bio": "The younger Reed brother and primary voice of Grassroots Rebellion. Dylan writes with equal parts urgency, humor, and frustration.",
+        "image": "/assets/images/members/gr-dylan-reed.jpg"
       },
       {
-        "id": "gr-benji",
-        "name": "Benji Crowe",
-        "role": "Guitar",
-        "bio": "Downstrokes, delay, and a gift for the one note that makes a chorus lift.",
-        "image": "/assets/images/members/gr-benji.jpg"
+        "id": "gr-brian-reed",
+        "name": "Brian Reed",
+        "role": "Bass Guitar",
+        "bio": "Dylan's older brother and the band's low-end anchor. Brian brings a steady presence that keeps the band's chaos controlled.",
+        "image": "/assets/images/members/gr-brian-reed.jpg"
       },
       {
-        "id": "gr-pam",
-        "name": "Pam Okoye",
-        "role": "Bass / Vocals",
-        "bio": "The low-end argument. Pam's backing vocals are half the band's identity.",
-        "image": "/assets/images/members/gr-pam.jpg"
-      },
-      {
-        "id": "gr-otto",
-        "name": "Otto Finch",
+        "id": "gr-travis-hamilton",
+        "name": "Travis Hamilton",
         "role": "Drums",
-        "bio": "Fast, precise, and allergic to drum fills that last longer than the point.",
-        "image": "/assets/images/members/gr-otto.jpg"
+        "bio": "A relentless drummer whose playing gives the band's short songs their sense of forward motion.",
+        "image": "/assets/images/members/gr-travis-hamilton.jpg"
+      },
+      {
+        "id": "gr-miles-harlan",
+        "name": "Miles Harlan",
+        "role": "Vocals / Rhythm Guitar",
+        "bio": "The band's second voice and rhythm guitarist, Miles provides the harmonies, counterpoints, and occasional chaos that make the choruses hit harder.",
+        "image": "/assets/images/members/gr-miles-harlan.jpg"
       }
     ],
     "stats": {
@@ -201,28 +230,31 @@
   {
     "id": "warpnotix",
     "name": "Warpnotix",
-    "genre": "Electronic Dance",
+    "genre": "Electronic / Dance",
     "genres": [
       "Electronic",
+      "House",
       "Dance",
-      "DJ / Producer"
+      "Big Room",
+      "Pop Rock"
     ],
-    "hometown": "Los Angeles, CA",
+    "hometown": "Jersey City, NJ",
     "formed": 2017,
     "type": "solo",
     "tagline": "Low-end physics for crowded rooms.",
-    "description": "A DJ/producer building kinetic, nocturnal electronic music — warehouse pressure, neon melancholy, and drops engineered like architecture.",
-    "biography": "Warpnotix (Wren Nox) spent a decade inside other people's tracks as a mix engineer before stepping in front of the decks. The Warpnotix project is a laboratory for dance-floor physics: sub that you feel in your ribs, breaks that reset the room, and a visual identity of warped grids. QFR signed Wren to prove the label's universe is not genre-bound. Club nights, festival afters, and headphone albums all sit in the same catalog.",
+    "description": "Warpnotix is a genre-bending electronic project combining house production, festival-scale energy, pop-rock instrumentation, and cinematic sound design.",
+    "biography": "Warpnotix is the project of Finn Thomas, a producer who spent years moving between club production, rock sessions, and electronic composition before deciding that none of the boundaries made much sense. His productions combine four-on-the-floor house rhythms with massive melodic drops, live guitar textures, and the emotional dynamics of arena rock. QFR signed Warpnotix because the project represents exactly what the label believes technology can do when it is used as a creative instrument rather than a substitute for creativity.",
     "image": "/assets/images/artists/warpnotix.jpg",
     "hero": "/assets/images/logos/warpnotix.jpg",
     "logo": "/assets/images/logos/warpnotix.jpg",
     "members": [
       {
-        "id": "wn-wren",
-        "name": "Wren Nox",
-        "role": "Producer / DJ",
-        "bio": "The entire Warpnotix operation: writing, production, live sets, and visual direction.",
-        "image": "/assets/images/members/wn-wren.jpg"
+        "id": "wn-finn-thomas",
+        "name": "Finn Thomas",
+        "nickname": "Finn",
+        "role": "DJ / Producer / Songwriter",
+        "bio": "Finn Thomas is the producer, DJ, songwriter, and creative director behind Warpnotix. His productions are designed to move between headphones, clubs, festivals, and rock stages without losing their identity.",
+        "image": "/assets/images/members/wn-finn-thomas.jpg"
       }
     ],
     "stats": {
@@ -235,48 +267,62 @@
   {
     "id": "sound-shamans",
     "name": "Sound Shamans",
-    "genre": "Alt / Indie Rock",
+    "genre": "Alternative / Indie Rock",
     "genres": [
-      "Alt Rock",
+      "Alternative Rock",
       "Indie Rock"
     ],
-    "hometown": "Austin, TX",
+    "hometown": "Newark, NJ",
     "formed": 2016,
     "type": "group",
     "tagline": "Rituals for a loud room.",
-    "description": "Alt-rock built on hypnotic riffs, desert air, and a live reputation that borders on ceremony. Sound Shamans treat volume as a language.",
-    "biography": "Sound Shamans emerged from Austin's late-night circuit with a reputation for sets that felt longer than the clock. They write in cycles and drones, then smash those cycles with choruses. The band's visual world is ochre, bone, and blue-black night. QFR brought them in to hold the indie/alt lane without turning it into a costume.",
+    "description": "Sound Shamans create atmospheric alternative rock built around layered guitars, hypnotic rhythms, expansive keyboards, and emotionally direct songwriting.",
+    "biography": "Sound Shamans formed after years of playing different corners of the New York and New Jersey music scene. Their music combines intimate verses with expansive choruses, drawing from alternative rock, indie music, and the communal energy of live performance. QFR signed the band because their songs demonstrate the label's belief that commercial accessibility and artistic individuality do not have to be opposites.",
     "image": "/assets/images/artists/sound-shamans.jpg",
     "hero": "/assets/images/logos/sound-shamans.jpg",
     "logo": "/assets/images/logos/sound-shamans.jpg",
     "members": [
       {
-        "id": "ss-rowan",
-        "name": "Rowan Hale",
-        "role": "Vocals / Guitar",
-        "bio": "Writes the incantations. A baritone that can go from whisper to weather.",
-        "image": "/assets/images/members/ss-rowan.jpg"
+        "id": "ss-sam-sterling",
+        "name": "Sam Sterling",
+        "role": "Vocals / Keyboard",
+        "bio": "The band's primary vocalist and keyboardist. Sam writes melodies that begin quietly and grow into emotionally expansive choruses.",
+        "image": "/assets/images/members/ss-sam-sterling.jpg"
       },
       {
-        "id": "ss-leah",
-        "name": "Leah Voss",
-        "role": "Guitar / Pedals",
-        "bio": "Pedalboard cartographer. Leah's textures are half the band's atmosphere.",
-        "image": "/assets/images/members/ss-leah.jpg"
+        "id": "ss-ben-childs",
+        "name": "Ben Childs",
+        "role": "Rhythm Guitar",
+        "bio": "Ben provides the rhythmic architecture beneath the band's atmospheric sound.",
+        "image": "/assets/images/members/ss-ben-childs.jpg"
       },
       {
-        "id": "ss-mik",
-        "name": "Mik Santos",
-        "role": "Bass",
-        "bio": "Holds the ritual down. Prefers one great note to twelve busy ones.",
-        "image": "/assets/images/members/ss-mik.jpg"
+        "id": "ss-leo-philips",
+        "name": "Leo Philips",
+        "role": "Lead Guitar",
+        "bio": "A melodic lead guitarist known for using texture and space as much as traditional solos.",
+        "image": "/assets/images/members/ss-leo-philips.jpg"
       },
       {
-        "id": "ss-ada",
-        "name": "Ada Quinn",
+        "id": "ss-max-wright",
+        "name": "Max Wright",
+        "role": "Keys / Synths",
+        "bio": "Max expands the band's palette with atmospheric keyboards, synthesizers, and subtle electronic textures.",
+        "image": "/assets/images/members/ss-max-wright.jpg"
+      },
+      {
+        "id": "ss-david-press",
+        "name": "David Press",
+        "role": "Bass Guitar",
+        "bio": "David gives Sound Shamans their deep, patient foundation and prefers grooves that leave room for everything above them.",
+        "image": "/assets/images/members/ss-david-press.jpg"
+      },
+      {
+        "id": "ss-ryan-lane",
+        "name": "Ryan Lane",
         "role": "Drums",
-        "bio": "Drives the trance. Ada's tom patterns are the band's pulse.",
-        "image": "/assets/images/members/ss-ada.jpg"
+        "bio": "Ryan combines disciplined pocket playing with dramatic dynamic shifts that help the band's songs breathe.",
+        "image": "/assets/images/members/ss-ryan-lane.jpg"
       }
     ],
     "stats": {
@@ -289,48 +335,49 @@
   {
     "id": "immovable-giants",
     "name": "Immovable Giants",
-    "genre": "Alt / Indie Rock",
+    "genre": "Alternative / Indie Rock",
     "genres": [
-      "Alt Rock",
-      "Indie Rock"
+      "Alternative Rock",
+      "Indie Rock",
+      "Folk Rock"
     ],
-    "hometown": "Chicago, IL",
+    "hometown": "Philadelphia, PA",
     "formed": 2015,
     "type": "group",
     "tagline": "Heavy feelings, human scale.",
-    "description": "Chicago alt-rock that builds cathedrals out of patience. Immovable Giants write slow-burn anthems for people who stayed.",
-    "biography": "Immovable Giants have been a Chicago secret for a decade: winter records, sold-out rooms, and a refusal to hurry. Their songs start small and become inevitable. QFR signed them to give the catalog a backbone of adult, unshowy rock — the kind that still hits like weather. The band records to tape when the song asks for it and to a laptop when it doesn't.",
+    "description": "Immovable Giants build emotionally massive alternative rock from patient songwriting, layered guitars, organic instrumentation, and choruses designed to stay with you.",
+    "biography": "Immovable Giants spent years developing their sound in Philadelphia before Quantum Frequency Records came calling. Their songs are patient rather than rushed, often beginning with a single guitar or piano before gradually expanding into enormous arrangements. Their latest album, 'The Signals We Leave Behind,' became a defining moment for the band, exploring memory, relationships, identity, and the traces people leave behind. QFR considers the group one of the label's core album-oriented acts.",
     "image": "/assets/images/artists/immovable-giants.jpg",
     "hero": "/assets/images/logos/immovable-giants.jpg",
     "logo": "/assets/images/logos/immovable-giants.jpg",
     "members": [
       {
-        "id": "ig-ellen",
-        "name": "Ellen Marsh",
-        "role": "Vocals / Guitar",
-        "bio": "The still point. Ellen writes about endurance without making a speech of it.",
-        "image": "/assets/images/members/ig-ellen.jpg"
+        "id": "ig-matthew-stone",
+        "name": "Matthew Stone",
+        "role": "Lead Vocals / Guitar",
+        "bio": "The primary songwriter and voice of Immovable Giants. Matthew's understated delivery gives the band's biggest moments their emotional weight.",
+        "image": "/assets/images/members/ig-matthew-stone.jpg"
       },
       {
-        "id": "ig-theo",
+        "id": "ig-theo-brant",
         "name": "Theo Brant",
-        "role": "Guitar",
-        "bio": "Architect of the band's huge, patient chord voicings.",
-        "image": "/assets/images/members/ig-theo.jpg"
+        "role": "Lead Guitar",
+        "bio": "Theo builds the band's expansive guitar arrangements and specializes in creating melodic lines that feel larger than the room.",
+        "image": "/assets/images/members/ig-theo-brant.jpg"
       },
       {
-        "id": "ig-nori",
-        "name": "Nori Blake",
+        "id": "ig-nolan-blake",
+        "name": "Nolan Blake",
         "role": "Bass / Vocals",
-        "bio": "Melodic ballast. Nori's voice is the ghost in the choruses.",
-        "image": "/assets/images/members/ig-nori.jpg"
+        "bio": "Nolan combines melodic bass work with harmony vocals that quietly become essential to the band's sound.",
+        "image": "/assets/images/members/ig-nolan-blake.jpg"
       },
       {
-        "id": "ig-cam",
-        "name": "Cam Ruiz",
-        "role": "Drums",
-        "bio": "Dynamics first. Cam can make a verse feel like a held breath.",
-        "image": "/assets/images/members/ig-cam.jpg"
+        "id": "ig-cameron-ruiz",
+        "name": "Cameron Ruiz",
+        "role": "Drums / Percussion",
+        "bio": "A dynamics-first drummer who knows when to hold back and when to turn a song into a wall of sound.",
+        "image": "/assets/images/members/ig-cameron-ruiz.jpg"
       }
     ],
     "stats": {
@@ -347,45 +394,46 @@
     "genres": [
       "Surf Rock",
       "1960s Revival",
+      "Rock",
       "Indie"
     ],
-    "hometown": "Long Island, NY",
+    "hometown": "Long Beach, NY",
     "formed": 2022,
     "type": "group",
     "tagline": "Reverb, salt, and a perfect chorus.",
-    "description": "A 1960s-surf-influenced group that treats the shoreline as a time machine. Twang, harmony, and summer even in January.",
-    "biography": "The Jones Beach Boys started as a joke name and became a real band the night they learned four-part surf harmony in a parking lot. They write instrumentals and vocal tunes with equal love for spring reverb and unsarcastic joy. QFR signed them because the roster needed sun — and because the songs are better than nostalgia. They record live in a beach bungalow when the weather allows.",
+    "description": "The Jones Beach Boys combine classic surf-rock guitar, stacked vocal harmonies, 1960s songwriting, and modern production into a sound that feels nostalgic without becoming a tribute act.",
+    "biography": "The Jones Beach Boys started as a group of Long Island friends obsessed with old records, beach culture, and the deceptively difficult art of writing a perfect three-minute song. Their name began as an inside joke before becoming the identity of a band that quickly developed its own sound. They borrow the optimism, harmonies, and guitar language of the 1960s while writing completely original songs about modern life, summer nights, relationships, and growing older. QFR signed them because the band proves nostalgia can be a starting point rather than a destination.",
     "image": "/assets/images/artists/jones-beach-boys.jpg",
     "hero": "/assets/images/logos/the-jones-beach-boys.jpg",
     "logo": "/assets/images/logos/the-jones-beach-boys.jpg",
     "members": [
       {
-        "id": "jb-nick",
+        "id": "jb-nick-ellery",
         "name": "Nick Ellery",
         "role": "Lead Guitar",
-        "bio": "Whammy-bar poet. Nick collects vintage Fenders the way other people collect postcards.",
-        "image": "/assets/images/members/jb-nick.jpg"
+        "bio": "Nick's shimmering guitar lines provide the band's signature surf-rock identity.",
+        "image": "/assets/images/members/jb-nick-ellery.jpg"
       },
       {
-        "id": "jb-sam",
+        "id": "jb-sam-prieto",
         "name": "Sam Prieto",
-        "role": "Vocals / Rhythm",
-        "bio": "The smile in the mix and the architect of the vocal stacks.",
-        "image": "/assets/images/members/jb-sam.jpg"
+        "role": "Lead Vocals / Rhythm Guitar",
+        "bio": "Sam leads the band's vocal arrangements and brings the optimistic center to their songwriting.",
+        "image": "/assets/images/members/jb-sam-prieto.jpg"
       },
       {
-        "id": "jb-dewey",
+        "id": "jb-dewey-hart",
         "name": "Dewey Hart",
-        "role": "Bass",
-        "bio": "Walking lines, spring-reverb grin, never in a hurry.",
-        "image": "/assets/images/members/jb-dewey.jpg"
+        "role": "Bass / Harmony Vocals",
+        "bio": "Dewey combines melodic bass playing with the band's carefully constructed vocal harmonies.",
+        "image": "/assets/images/members/jb-dewey-hart.jpg"
       },
       {
-        "id": "jb-kit",
+        "id": "jb-kit-ambrose",
         "name": "Kit Ambrose",
-        "role": "Drums",
-        "bio": "Ride-cymbal specialist. Kit plays like the tide coming in.",
-        "image": "/assets/images/members/jb-kit.jpg"
+        "role": "Drums / Percussion",
+        "bio": "Kit keeps the band's music moving with a relaxed pocket influenced by both surf rock and classic pop.",
+        "image": "/assets/images/members/jb-kit-ambrose.jpg"
       }
     ],
     "stats": {
@@ -398,49 +446,49 @@
   {
     "id": "cosmic-run",
     "name": "The Cosmic Run",
-    "genre": "Alt / Folk Rock",
+    "genre": "Alternative / Folk Rock",
     "genres": [
-      "Alt Rock",
+      "Alternative Rock",
       "Indie Rock",
       "Folk Rock"
     ],
-    "hometown": "Boulder, CO",
+    "hometown": "New Hope, PA",
     "formed": 2019,
     "type": "group",
     "tagline": "Campfire songs for the upper atmosphere.",
-    "description": "Alt-folk-rock that starts on a trail and ends in orbit. Acoustic bones, electric weather, and lyrics that look both inward and up.",
-    "biography": "The Cosmic Run write on long drives and longer hikes. Their records move from fingerpicked confessionals to wide, night-sky rock without losing the plot. QFR heard them as the connective tissue of the roster — the band that makes country fans stay for the psych set. They self-produce with a mobile rig and a stubborn love of first takes.",
+    "description": "The Cosmic Run blend acoustic songwriting, alternative-rock dynamics, folk harmonies, and expansive electric textures into music that feels both grounded and weightless.",
+    "biography": "The Cosmic Run formed around a group of friends who spent as much time hiking, driving, and writing as they did rehearsing. Their songs often begin with acoustic instruments and intimate lyrics before expanding into atmospheric rock arrangements. The band's name reflects their central philosophy: stay connected to the ground while always looking toward something larger. QFR signed The Cosmic Run as a bridge between the label's country, indie, rock, and experimental worlds.",
     "image": "/assets/images/artists/cosmic-run.jpg",
     "hero": "/assets/images/logos/the-cosmic-run.jpg",
     "logo": "/assets/images/logos/the-cosmic-run.jpg",
     "members": [
       {
-        "id": "cr-june",
+        "id": "cr-june-calder",
         "name": "June Calder",
-        "role": "Vocals / Acoustic",
-        "bio": "The compass. June's songs are maps disguised as letters.",
-        "image": "/assets/images/members/cr-june.jpg"
+        "role": "Lead Vocals / Acoustic Guitar",
+        "bio": "June writes the band's most intimate songs and anchors the group with an unmistakably human vocal delivery.",
+        "image": "/assets/images/members/cr-june-calder.jpg"
       },
       {
-        "id": "cr-eli",
+        "id": "cr-eli-navarro",
         "name": "Eli Navarro",
         "role": "Electric Guitar",
-        "bio": "Paints the sky around the acoustic bones.",
-        "image": "/assets/images/members/cr-eli.jpg"
+        "bio": "Eli creates the band's electric landscapes, moving effortlessly between understated textures and expansive leads.",
+        "image": "/assets/images/members/cr-eli-navarro.jpg"
       },
       {
-        "id": "cr-posey",
+        "id": "cr-posey-lin",
         "name": "Posey Lin",
-        "role": "Bass / Vocals",
-        "bio": "Folk-root low end with a harmony sense from choir-kid years.",
-        "image": "/assets/images/members/cr-posey.jpg"
+        "role": "Bass / Harmony Vocals",
+        "bio": "Posey provides the melodic low end and much of the band's distinctive harmony work.",
+        "image": "/assets/images/members/cr-posey-lin.jpg"
       },
       {
-        "id": "cr-hart",
+        "id": "cr-hart-benson",
         "name": "Hart Benson",
         "role": "Drums / Percussion",
-        "bio": "Brushes, boots, and the occasional thunder roll.",
-        "image": "/assets/images/members/cr-hart.jpg"
+        "bio": "Hart brings organic percussion and dynamic restraint to the band's atmospheric arrangements.",
+        "image": "/assets/images/members/cr-hart-benson.jpg"
       }
     ],
     "stats": {
@@ -455,46 +503,47 @@
     "name": "Moonflower Radio",
     "genre": "Psychedelic Rock",
     "genres": [
-      "Alt Rock",
-      "Psychedelic Rock"
+      "Alternative Rock",
+      "Psychedelic Rock",
+      "Indie Rock"
     ],
-    "hometown": "San Francisco, CA",
+    "hometown": "Asbury Park, NJ",
     "formed": 2014,
     "type": "group",
     "tagline": "Tune in. Drift. Come back changed.",
-    "description": "Psychedelic alt-rock transmitted like a late-night station from another decade. Pedals, poetry, and patiently exploding choruses.",
-    "biography": "Moonflower Radio have always sounded like a broadcast you found by accident and then never left. They came out of San Francisco's psych revival without becoming a museum act. QFR signed them for the color they add to the universe — washed-out film, analog delay, and lyrics that treat consciousness as a collaborative instrument. Their live shows are famously long and famously kind.",
+    "description": "Moonflower Radio create hazy, psychedelic alternative rock where dreamy textures, hypnotic rhythms, and modern songwriting collide.",
+    "biography": "Moonflower Radio grew out of the late-night music culture surrounding Asbury Park and the Jersey Shore. Their music has the atmosphere of an old radio signal drifting through a modern city: psychedelic guitars, warm synthesizers, loose grooves, and lyrics that explore memory and consciousness. QFR signed the band because their music occupies an unusual emotional space within the roster — relaxed enough for late nights but powerful enough to fill a room.",
     "image": "/assets/images/artists/moonflower-radio.jpg",
     "hero": "/assets/images/logos/moonflower-radio.jpg",
     "logo": "/assets/images/logos/moonflower-radio.jpg",
     "members": [
       {
-        "id": "mr-lark",
+        "id": "mr-lark-emerson",
         "name": "Lark Emerson",
-        "role": "Vocals / Guitar",
-        "bio": "Soft-loud mystic. Lark writes like a DJ of memories.",
-        "image": "/assets/images/members/mr-lark.jpg"
+        "role": "Lead Vocals / Guitar",
+        "bio": "Lark's understated vocal style and atmospheric guitar work form the center of Moonflower Radio.",
+        "image": "/assets/images/members/mr-lark-emerson.jpg"
       },
       {
-        "id": "mr-suki",
+        "id": "mr-suki-arden",
         "name": "Suki Arden",
-        "role": "Keys / Vocals",
-        "bio": "Organ, mellotron, and the voice that makes verses levitate.",
-        "image": "/assets/images/members/mr-suki.jpg"
+        "role": "Keyboard / Vocals",
+        "bio": "Suki adds vintage keyboard textures, synthesizers, and harmony vocals to the band's psychedelic palette.",
+        "image": "/assets/images/members/mr-suki-arden.jpg"
       },
       {
-        "id": "mr-paulie",
+        "id": "mr-paulie-trent",
         "name": "Paulie Trent",
         "role": "Bass",
-        "bio": "Hypnotic, patient, slightly behind the beat on purpose.",
-        "image": "/assets/images/members/mr-paulie.jpg"
+        "bio": "Paulie's restrained, hypnotic bass lines give the band's songs their late-night pulse.",
+        "image": "/assets/images/members/mr-paulie-trent.jpg"
       },
       {
-        "id": "mr-dove",
+        "id": "mr-dove-kim",
         "name": "Dove Kim",
         "role": "Drums",
-        "bio": "Plays time like it's elastic. A student of both motorik and swing.",
-        "image": "/assets/images/members/mr-dove.jpg"
+        "bio": "Dove blends motorik rhythms, classic rock grooves, and loose improvisation behind the kit.",
+        "image": "/assets/images/members/mr-dove-kim.jpg"
       }
     ],
     "stats": {
@@ -511,45 +560,45 @@
     "genres": [
       "Industrial Rock",
       "Nu-Metal",
-      "Alt Rock"
+      "Alternative Rock"
     ],
-    "hometown": "Detroit, MI",
+    "hometown": "Newark, NJ",
     "formed": 2018,
     "type": "group",
     "tagline": "Machines that still bleed.",
-    "description": "Industrial rock colliding with nu-metal weight. Find/Replace write about systems, glitches, and the people caught in the search field.",
-    "biography": "Find/Replace formed in a Detroit warehouse that used to stamp auto parts. The building's acoustics — and its ghosts — are in the records. They sample factory ambience, scream like a UI error, and still write choruses you can put a fist in the air for. QFR wanted industrial muscle without corporate dystopia-as-cosplay. Find/Replace is the real weather of a city that makes things.",
+    "description": "Find/Replace collide industrial electronics, nu-metal guitar weight, alternative-rock songwriting, and the anxiety of living inside systems that never seem to shut down.",
+    "biography": "Find/Replace formed in a converted industrial warehouse in Newark, where the sounds of machinery became an accidental part of the band's identity. Their music explores technology, systems, surveillance, identity, work, and the collision between human emotion and increasingly automated lives. QFR signed the group because they bring a distinctly modern perspective to heavy music without relying on nostalgia.",
     "image": "/assets/images/artists/find-replace.jpg",
     "hero": "/assets/images/logos/find-replace.jpg",
     "logo": "/assets/images/logos/find-replace.jpg",
     "members": [
       {
-        "id": "fr-hex",
+        "id": "fr-hex-calder",
         "name": "Hex Calder",
-        "role": "Vocals / Programming",
-        "bio": "Half preacher, half compiler error. Hex writes in all-caps feelings.",
-        "image": "/assets/images/members/fr-hex.jpg"
+        "role": "Lead Vocals / Programming",
+        "bio": "Hex combines aggressive vocals with electronic programming and lyrical themes centered on modern systems and human identity.",
+        "image": "/assets/images/members/fr-hex-calder.jpg"
       },
       {
-        "id": "fr-vex",
+        "id": "fr-vex-moreau",
         "name": "Vex Moreau",
         "role": "Guitar / Noise",
-        "bio": "Seven-string architect. Treats feedback as a lead instrument.",
-        "image": "/assets/images/members/fr-vex.jpg"
+        "bio": "Vex builds the band's enormous guitar sound and treats feedback, noise, and texture as musical instruments.",
+        "image": "/assets/images/members/fr-vex-moreau.jpg"
       },
       {
-        "id": "fr-null",
+        "id": "fr-null-reyes",
         "name": "Null Reyes",
         "role": "Bass / Synths",
-        "bio": "The industrial floor. Null's tone is a building settling.",
-        "image": "/assets/images/members/fr-null.jpg"
+        "bio": "Null bridges the band's electronic and organic sides with sub-heavy bass and dark synthesizer textures.",
+        "image": "/assets/images/members/fr-null-reyes.jpg"
       },
       {
-        "id": "fr-tick",
+        "id": "fr-tick-abram",
         "name": "Tick Abram",
         "role": "Drums",
-        "bio": "Acoustic kit triggered into a machine. Human swing, factory precision.",
-        "image": "/assets/images/members/fr-tick.jpg"
+        "bio": "Tick combines live drumming with electronic triggering to create the band's mechanical but unmistakably human pulse.",
+        "image": "/assets/images/members/fr-tick-abram.jpg"
       }
     ],
     "stats": {
@@ -565,45 +614,46 @@
     "genre": "Nu-Metal",
     "genres": [
       "Nu-Metal",
-      "Alternative Metal"
+      "Alternative Metal",
+      "Rap Rock"
     ],
-    "hometown": "Cleveland, OH",
+    "hometown": "Pittsburgh, PA",
     "formed": 2017,
     "type": "group",
     "tagline": "Prophecy at drop-tuned volume.",
-    "description": "Nu-metal with a philosophical streak. Immortal Prophets write about fate, fury, and the joke of being mortal at this volume.",
-    "biography": "Immortal Prophets came out of Cleveland's heavy circuit with riffs that felt both vintage-2000 and unnervingly current. They rap, they scream, they stack gang vocals, and they mean it. QFR signed them to hold the heavy lane with dignity — no nostalgia trap, no irony shield. The band's mythos is self-made: sigils, sermons, and a live show that feels like a rite.",
+    "description": "Immortal Prophets combine crushing nu-metal riffs, rap-rock rhythms, cinematic atmosphere, and philosophical lyrics about power, mortality, and human conflict.",
+    "biography": "Immortal Prophets emerged from Pittsburgh's heavy music community with a sound that refuses to choose between aggression and atmosphere. Their songs move from whispered philosophical observations to massive drop-tuned riffs, incorporating rap, melody, screams, and cinematic production. QFR signed the band because their music gives the label a heavy act with genuine thematic depth rather than relying solely on aggression.",
     "image": "/assets/images/artists/immortal-prophets.jpg",
     "hero": "/assets/images/logos/immortal-prophets.jpg",
     "logo": "/assets/images/logos/immortal-prophets.jpg",
     "members": [
       {
-        "id": "ip-cain",
+        "id": "ip-cain-vesper",
         "name": "Cain Vesper",
-        "role": "Vocals",
-        "bio": "The prophet. Moves from whisper to rupture without a seam.",
-        "image": "/assets/images/members/ip-cain.jpg"
+        "role": "Lead Vocals",
+        "bio": "Cain moves between restrained melodic vocals, rhythmic delivery, and explosive screams with an unusually theatrical presence.",
+        "image": "/assets/images/members/ip-cain-vesper.jpg"
       },
       {
-        "id": "ip-joss",
+        "id": "ip-joss-halek",
         "name": "Joss Halek",
         "role": "Guitar",
-        "bio": "Drop-tuned author of the band's central riffs.",
-        "image": "/assets/images/members/ip-joss.jpg"
+        "bio": "Joss writes the band's central riffs and specializes in creating massive guitar arrangements around rhythmic vocal patterns.",
+        "image": "/assets/images/members/ip-joss-halek.jpg"
       },
       {
-        "id": "ip-mira",
+        "id": "ip-mira-solt",
         "name": "Mira Solt",
         "role": "Bass / Vocals",
-        "bio": "The low sermon. Mira's tone is half the prophecy.",
-        "image": "/assets/images/members/ip-mira.jpg"
+        "bio": "Mira provides the band's low-end weight and an important second vocal presence.",
+        "image": "/assets/images/members/ip-mira-solt.jpg"
       },
       {
-        "id": "ip-rook",
+        "id": "ip-rook-danner",
         "name": "Rook Danner",
-        "role": "Drums",
-        "bio": "Double-kick philosopher. Rook writes beats like arguments.",
-        "image": "/assets/images/members/ip-rook.jpg"
+        "role": "Drums / Percussion",
+        "bio": "Rook's aggressive rhythmic style gives the band its physical live impact.",
+        "image": "/assets/images/members/ip-rook-danner.jpg"
       }
     ],
     "stats": {
@@ -620,52 +670,52 @@
     "genres": [
       "Nu-Metal",
       "Rap Rock",
-      "Alt Metal"
+      "Alternative Metal"
     ],
-    "hometown": "Atlanta, GA",
+    "hometown": "Philadelphia, PA",
     "formed": 2020,
     "type": "group",
     "tagline": "Encrypted feelings, public volume.",
-    "description": "Nu-metal colliding with rap-rock cadence. Firewall Nation write about networks, loyalty, and what gets through.",
-    "biography": "Firewall Nation started as a cypher that needed guitars. Atlanta's rap precision met Midwestern heaviness after a tour van accident (minor, mythologized) put a producer and a metal guitarist in the same waiting room. The result is a band that can cut a verse like a verse and a chorus like a wall. QFR signed them as proof that the roster's 'nation' is bigger than any one scene.",
+    "description": "Firewall Nation combine rap-rock cadence, nu-metal guitar weight, modern production, and emotionally charged lyrics about identity, information, loyalty, and what gets through.",
+    "biography": "Firewall Nation grew from a collaboration between Philadelphia musicians who believed rap and heavy rock had become far too separated. Their music treats information overload, social pressure, technology, and personal identity as material for songs rather than political slogans. The band's live show is built around the contrast between precise rhythmic verses and explosive guitar-driven choruses. QFR signed Firewall Nation because the group embodies the label's belief that genre boundaries are tools, not rules.",
     "image": "/assets/images/artists/firewall-nation.jpg",
     "hero": "/assets/images/logos/firewall-nation.jpg",
     "logo": "/assets/images/logos/firewall-nation.jpg",
     "members": [
       {
-        "id": "fn-ace",
+        "id": "fn-ace-calderon",
         "name": "Ace Calderon",
-        "role": "Vocals / Rap",
-        "bio": "The packet. Ace writes in couplets that hit like exploits.",
-        "image": "/assets/images/members/fn-ace.jpg"
+        "role": "Rap Vocals",
+        "bio": "Ace brings rhythmic precision and sharp lyrical delivery to the band's verses.",
+        "image": "/assets/images/members/fn-ace-calderon.jpg"
       },
       {
-        "id": "fn-rye",
+        "id": "fn-rye-patton",
         "name": "Rye Patton",
-        "role": "Vocals / Scream",
-        "bio": "The payload. Rye turns choruses into sirens.",
-        "image": "/assets/images/members/fn-rye.jpg"
+        "role": "Lead Vocals / Scream",
+        "bio": "Rye provides the band's melodic and aggressive vocal counterpoint.",
+        "image": "/assets/images/members/fn-rye-patton.jpg"
       },
       {
-        "id": "fn-gio",
+        "id": "fn-gio-hart",
         "name": "Gio Hart",
         "role": "Guitar",
-        "bio": "Djent-adjacent without the lecture. Gio loves a dirty octave.",
-        "image": "/assets/images/members/fn-gio.jpg"
+        "bio": "Gio builds the band's heavy guitar foundation while leaving room for the rhythmic elements to breathe.",
+        "image": "/assets/images/members/fn-gio-hart.jpg"
       },
       {
-        "id": "fn-zee",
+        "id": "fn-zee-okonkwo",
         "name": "Zee Okonkwo",
         "role": "Bass / Production",
-        "bio": "808s under a live bass. Zee produces the band's records in-house.",
-        "image": "/assets/images/members/fn-zee.jpg"
+        "bio": "Zee combines live bass, electronic production, and low-end programming to create the band's modern sound.",
+        "image": "/assets/images/members/fn-zee-okonkwo.jpg"
       },
       {
-        "id": "fn-pix",
+        "id": "fn-pix-renner",
         "name": "Pix Renner",
         "role": "Drums",
-        "bio": "Trap hats meet live kit. Pix is the reason the drop lands.",
-        "image": "/assets/images/members/fn-pix.jpg"
+        "bio": "Pix blends live drumming with modern rhythmic techniques, giving the band's songs their distinctive bounce.",
+        "image": "/assets/images/members/fn-pix-renner.jpg"
       }
     ],
     "stats": {
@@ -674,5 +724,138 @@
       "ytd": 1102450
     },
     "signedDate": "2025-03-03"
+  },
+  {
+    "id": "justified-heroes",
+    "name": "Justified Heroes",
+    "genre": "Pop Punk",
+    "genres": [
+      "Pop Punk",
+      "Alternative Rock",
+      "Heartland Rock"
+    ],
+    "hometown": "New Brunswick, NJ",
+    "formed": 2021,
+    "type": "group",
+    "tagline": "Songs for the ones who stayed.",
+    "description": "Justified Heroes combine pop-punk urgency with the emotional honesty and street-level storytelling of the New Jersey rock tradition.",
+    "biography": "Justified Heroes grew up between New Jersey shore towns, suburban garages, and the clubs connecting Philadelphia and New York. Their songs are built around friendships, missed opportunities, growing older, and the strange feeling of realizing the people you grew up with are changing alongside you. The band's sound combines melodic punk energy with the heartland storytelling tradition of their home state. QFR signed them because their songs feel immediate without being disposable.",
+    "image": "/assets/images/artists/justified-heroes.jpg",
+    "hero": "/assets/images/logos/justified-heroes.jpg",
+    "logo": "/assets/images/logos/justified-heroes.jpg",
+    "members": [
+      {
+        "id": "jh-jack-morrow",
+        "name": "Jack Morrow",
+        "role": "Lead Vocals / Guitar",
+        "bio": "Jack writes emotionally direct songs about friendships, mistakes, and trying to grow up without losing yourself.",
+        "image": "/assets/images/members/jh-jack-morrow.jpg"
+      },
+      {
+        "id": "jh-ryan-doyle",
+        "name": "Ryan Doyle",
+        "role": "Guitar / Vocals",
+        "bio": "Ryan provides the band's melodic guitar work and layered vocal harmonies.",
+        "image": "/assets/images/members/jh-ryan-doyle.jpg"
+      },
+      {
+        "id": "jh-matt-kelley",
+        "name": "Matt Kelley",
+        "role": "Bass",
+        "bio": "Matt gives the band its driving low end and has a reputation for keeping rehearsals moving.",
+        "image": "/assets/images/members/jh-matt-kelley.jpg"
+      },
+      {
+        "id": "jh-eddie-vance",
+        "name": "Eddie Vance",
+        "role": "Drums",
+        "bio": "Eddie brings the band's energetic live attack and knows exactly when a song needs to accelerate.",
+        "image": "/assets/images/members/jh-eddie-vance.jpg"
+      }
+    ],
+    "stats": {
+      "week": 18640,
+      "month": 79220,
+      "ytd": 426780
+    },
+    "signedDate": "2025-04-18"
+  },
+  {
+    "id": "cinder-block-statues",
+    "name": "Cinder Block Statues",
+    "genre": "Phonk-Bass Groove",
+    "genres": [
+      "Phonk",
+      "Bass Music",
+      "Alternative",
+      "Groove"
+    ],
+    "hometown": "Staten Island, NY",
+    "formed": 2022,
+    "type": "duo",
+    "tagline": "Concrete rhythm. Human pulse.",
+    "description": "Cinder Block Statues are a genre-defying male-and-female duo combining phonk-inspired bass, distorted grooves, cinematic production, and contrasting lead vocals.",
+    "biography": "Cinder Block Statues formed around a simple idea: take the low-end aggression and hypnotic rhythm of phonk and build an actual songwriting project around it. The result is a male-and-female vocal duo whose music shifts between smoky melodic passages, distorted bass grooves, electronic textures, and sudden bursts of rock energy. Based in Staten Island, the duo represents one of the most experimental corners of the QFR roster.",
+    "image": "/assets/images/artists/cinder-block-statues.jpg",
+    "hero": "/assets/images/logos/cinder-block-statues.jpg",
+    "logo": "/assets/images/logos/cinder-block-statues.jpg",
+    "members": [
+      {
+        "id": "cbs-roman-voss",
+        "name": "Roman Voss",
+        "role": "Lead Vocals / Producer / Bass",
+        "bio": "Roman provides the darker vocal counterpoint and produces the duo's bass-heavy foundation.",
+        "image": "/assets/images/members/cbs-roman-voss.jpg"
+      },
+      {
+        "id": "cbs-nova-reign",
+        "name": "Nova Reign",
+        "role": "Lead Vocals / Guitar",
+        "bio": "Nova is the melodic and visual center of Cinder Block Statues, bringing a powerful female lead vocal and guitar presence to the duo's unusual sound.",
+        "image": "/assets/images/members/cbs-nova-reign.jpg"
+      }
+    ],
+    "stats": {
+      "week": 15220,
+      "month": 68440,
+      "ytd": 318920
+    },
+    "signedDate": "2025-06-14"
+  },
+  {
+    "id": "easton-echo",
+    "name": "Easton Echo",
+    "genre": "Synth-Pop Rock",
+    "genres": [
+      "Synth-Pop",
+      "Pop Rock",
+      "Alternative Pop",
+      "Singer-Songwriter"
+    ],
+    "hometown": "Hoboken, NJ",
+    "formed": 2025,
+    "type": "solo",
+    "tagline": "Big feelings. Bright lights. No borrowed story.",
+    "description": "Easton Echo is a modern male singer-songwriter blending emotionally detailed storytelling with polished synth-pop, alternative rock, and arena-sized melodies.",
+    "biography": "Easton Echo is the newest artist to join Quantum Frequency Records and one of the most intriguing additions to the label's expanding universe. Born and raised in New Jersey, Easton began writing songs as a teenager, initially recording rough demos alone in his bedroom before developing a distinctive blend of synth-pop, alternative rock, and deeply personal songwriting. His music pairs intimate verses with enormous melodic choruses, creating songs that feel both conversational and cinematic. QFR was drawn to Easton not because he fit an existing category, but because he demonstrated the rare ability to make polished pop music while maintaining the feeling that someone is actually telling you something. His debut QFR release, 'The Way You Stay,' introduces an artist whose story is only beginning.",
+    "image": "/assets/images/artists/easton-echo.jpg",
+    "hero": "/assets/images/logos/easton-echo.jpg",
+    "logo": "/assets/images/logos/easton-echo.jpg",
+    "members": [
+      {
+        "id": "ee-easton-echo",
+        "name": "Easton Echo",
+        "nickname": "Easton",
+        "role": "Lead Vocals / Guitar / Piano / Songwriter / Producer",
+        "bio": "Easton Echo writes emotionally detailed songs that turn ordinary moments into large-scale pop stories. He is the newest artist signed to Quantum Frequency Records.",
+        "image": "/assets/images/members/ee-easton-echo.jpg"
+      }
+    ],
+    "stats": {
+      "week": 9840,
+      "month": 41200,
+      "ytd": 41200
+    },
+    "signedDate": "2026-08-01"
   }
 ]
