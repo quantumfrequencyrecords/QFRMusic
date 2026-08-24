@@ -2,13 +2,13 @@
   "id": "latest-label-news",
   "type": "label-news",
   "kicker": "Latest Label News",
-  "title": "QFR opens the frequency to a new era of independent ownership",
-  "subtitle": "Announcement",
-  "date": "2026-08-12",
+  "title": "Quantum Frequency Records Opens Its Doors",
+  "subtitle": "Launch Announcement",
+  "date": "2026-08-24",
   "image": "/assets/images/qfr-logo2.jpg",
-  "excerpt": "The label restates its core deal: artists keep their work, and the catalog stays a home — not a template.",
-  "body": "Quantum Frequency Records is doubling down on the thing that makes it different. Artists keep ownership of their material. There is no house sound to conform to, and no corporate playbook waiting to sand the edges off a real song. This announcement is a placeholder — replace the headline, body, and image in data/latest/label-news.json when the official story is ready. Until then it stands as the label's public position: partnership over extraction.",
+  "excerpt": "A new independent label launches with a different idea of what the artist-label relationship can be.",
+  "body": "Quantum Frequency Records is officially open. Built around a simple belief—that great music needs room to become great—the independent label launches with a sixteen-artist roster spanning country, rock, punk, electronic, psychedelic, industrial, nu-metal, pop and everything between. QFR was created to build a different kind of relationship between artists and labels: transparent partnerships, patient development, modern technology and a long-term path toward artist ownership. There is no house sound. There is no requirement to fit a predetermined commercial lane. The music comes first, the partnership comes second, and success is something the artist and label are meant to build together.",
   "link": "/news",
   "linkLabel": "Read label news",
-  "meta": "Label · Aug 12, 2026"
+  "meta": "Label Launch · Aug 24, 2026"
 }
