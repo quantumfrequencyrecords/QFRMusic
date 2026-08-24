@@ -43,7 +43,7 @@ QFR.ready("home").then(() => {
       <section class="wrap section">
         <p class="kicker">The Frequency</p>
         <h2 style="font-size:clamp(2.2rem,5vw,3.2rem);margin-top:.5rem">Nine values. One label.</h2>
-        <p class="muted" style="max-width:32rem;margin-top:.75rem">Cards cycle on their own. Press any value to hold it in the center.</p>
+        <p class="muted" style="max-width:32rem;margin-top:.75rem">Nine principles shape every artist relationship, every creative decision and every business decision we make.</p>
         <div class="values-ring" id="values-ring">
           ${values
             .map(
