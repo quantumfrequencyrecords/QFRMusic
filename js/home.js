@@ -34,7 +34,7 @@ QFR.ready("home").then(() => {
           <p style="margin-top:1.25rem;max-width:28rem;font-size:1.05rem;line-height:1.6;color:color-mix(in srgb,var(--fg) 85%, transparent)">${s.homeSub}</p>
           <div style="display:flex;flex-wrap:wrap;gap:.75rem;margin-top:2rem">
             <a class="btn btn-primary" href="${QFR.page("pages/artists.html")}">Explore Artists</a>
-            <a class="btn btn-line" href="${QFR.page("pages/about.html")}">Explore Label</a>
+            <a class="btn btn-line" href="${QFR.page("pages/about.html")}">Explore QFR</a>
           </div>
         </div>
         <div class="freq"></div>
