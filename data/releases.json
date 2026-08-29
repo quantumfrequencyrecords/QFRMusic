@@ -7,36 +7,36 @@
     "date": "2025-03-21",
     "artwork": "/assets/images/releases/bb-first-rounds-on-me-release.jpg",
     "songIds": [
-      "Backroad Rebels",
-      "Longneck Gospel",
-      "Island Time",
-      "Thunder In My Veins",
-      "Do Me Like That",
-      "First Rounds On Me",
-      "Tonight We Burn It Down",
-      "Front Porch We Havent Built Yet",
-      "Hell Yeah!",
-      "Let The Good Times Roll",
-      "Paradise",
-      "Hands Up, Hearts Out",
-      "Eye Of The Storm",
-      "We Are",
-      "Hey Hey Hey",
-      "Tailgate 'Til The Sun Comes Up"
+      "bb-backroad-rebela",
+      "bb-longneck-gospel",
+      "bb-island-time",
+      "bb-thunder-in-my-veins",
+      "bb-do-me-like-that",
+      "bb-first-rounds-on-me",
+      "bb-tongight-we-burn-it-down",
+      "bb-front-porch",
+      "bb-hell-yeah",
+      "bb-let-the-good-times-roll",
+      "bb-parabise",
+      "bb-hands-up-hearts-out",
+      "bb-eye-of-the-storm",
+      "bb-we-are",
+      "bb-hey-hey-hey",
+      "bb-tailgate-til-the-sun-comes-up"
     ],
-    "description": "First Rounds On Me — an album from Buckshot Bourbon. This mix ."
+    "description": "First Rounds On Me — the first album from Buckshot Bourbon. This mix of songs will have you dancing, bring you to the beach and singing along ahile enjoying a beer in your favorite bar."
   },
   {
-    "id": "bb-steel",
+    "id": "bb-island-time",
     "artistId": "buckshot-bourbon",
-    "title": "Steel Magnolia Single",
+    "title": "Island Time",
     "type": "single",
     "date": "2025-09-12",
-    "artwork": "/assets/images/releases/bb-steel.jpg",
+    "artwork": "/assets/images/releases/bb-island-time.jpg",
     "songIds": [
-      "bb-steel-t1"
+      "bb-island-time"
     ],
-    "description": "Steel Magnolia Single — a single from Buckshot Bourbon. Replace this placeholder copy with official liner notes."
+    "description": "Island Time — a single from Buckshot Bourbon. This song blends the nashville country sound with the sounds of the carribean.  Pack your bags, set your out of office - its vacation time! "
   },
   {
     "id": "sk-glass",
