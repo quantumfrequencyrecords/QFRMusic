@@ -2,16 +2,21 @@
   {
     "id": "bb-last-call",
     "artistId": "buckshot-bourbon",
-    "title": "Last Call Gravity",
+    "title": "First Rounds On Me",
     "type": "album",
     "date": "2025-03-21",
-    "artwork": "/assets/images/releases/bb-last-call.jpg",
+    "artwork": "/assets/images/releases/bb-first-rounds-on-me-release.jpg",
     "songIds": [
-      "bb-last-call-t1",
-      "bb-last-call-t2",
-      "bb-last-call-t3",
-      "bb-last-call-t4",
-      "bb-last-call-t5"
+      "Backroad Rebels",
+      "Longneck Gospel",
+      "Island Time",
+      "Thunder In My Veins",
+      "Do Me Like That",
+      "First Rounds On Me",
+      "Tonight We Burn It Down",
+      "Front Porch We Havent Built Yet",
+      "Hell Yeah!",
+      
     ],
     "description": "Last Call Gravity — a album from Buckshot Bourbon. Replace this placeholder copy with official liner notes."
   },
