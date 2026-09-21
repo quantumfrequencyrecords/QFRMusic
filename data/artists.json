@@ -130,7 +130,7 @@
     },
     "signedDate": "2023-10-04"
   },
-   {
+ {
     "id": "easton-echo",
     "name": "Easton Echo",
     "genre": "Synth-Pop Rock",
@@ -165,5 +165,6 @@
       "ytd": 41200
     },
     "signedDate": "2026-08-01"
-  },
+  }
+
 ]
