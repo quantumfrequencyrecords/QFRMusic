@@ -1,0 +1,205 @@
+[
+  {
+    "id": "buckshot-bourbon",
+    "name": "Buckshot Bourbon",
+    "genre": "Country Rock",
+    "genres": [
+      "Country Rock",
+      "Southern Rock",
+      "Americana"
+    ],
+    "hometown": "Smithtown, NY",
+    "formed": 2019,
+    "type": "group",
+    "tagline": "Dust, steel strings, and a second chance at midnight.",
+    "description": "Buckshot Bourbon is a Long Island country-rock band built around four lifelong friends, combining Nashville songwriting, Southern-rock muscle, and the unmistakable attitude of their New York roots.",
+    "biography": "Buckshot Bourbon began with Tucker 'Tuck' Kennedy and David 'Fireball' Daniels, childhood friends who grew up three houses apart in Smithtown, New York. Colt 'Buckshot' McCrae joined them during middle school, bringing equal parts musical curiosity and unpredictable energy. The final piece arrived when David discovered Jackson 'Crash' Reilly, a younger football teammate whose unconscious drumming turned out to be the missing ingredient. After years of garage rehearsals, Long Island bars, and playing every show as though it were an arena, the four friends built a devoted following around their blend of country storytelling, Southern-rock grit, and hard-rock energy. Quantum Frequency Records signed Buckshot Bourbon after seeing the band's ability to turn an ordinary barroom into a room full of believers. The band's story is deeply intertwined with another QFR artist: Tucker's younger brother, Sawyer Kennedy, who later established himself as a solo Nashville country artist on the label. The Kennedy brothers give QFR one of its most personal artist connections.",
+    "image": "/assets/images/artists/buckshot-bourbon.jpg",
+    "hero": "/assets/images/logos/buckshot-bourbon.jpg",
+    "logo": "/assets/images/logos/buckshot-bourbon.jpg",
+    "members": [
+      {
+        "id": "bb-tucker-kennedy",
+        "name": "Tucker Kennedy",
+        "nickname": "Tuck",
+        "role": "Lead Vocals / Acoustic Guitar / Electric Guitar / Harmonica / Mandolin",
+        "bio": "The heart and frontman of Buckshot Bourbon. Tuck brings a warm, charismatic presence to the stage and writes with the confidence of someone who knows exactly where he came from. His younger brother, Sawyer Kennedy, is also signed to QFR as a solo country artist.",
+        "image": "/assets/images/members/bb-tucker-kennedy.jpg",
+        "height": "6'0\"",
+        "weight": "200 lbs",
+        "build": "Athletic",
+        "style": "Cowboy hat, clean-cut appearance, short hair, five-o'clock shadow, long-sleeve shirts, blue or black jeans, aviator sunglasses occasionally."
+      },
+      {
+        "id": "bb-david-daniels",
+        "name": "David Daniels",
+        "nickname": "Fireball",
+        "role": "Backup Vocals / Electric Guitar / Lead Guitar / Bass Guitar / Banjo / Mandolin",
+        "bio": "The band's firepower. David brings Nashville experience, hard-rock instincts, and an intensity that turns even a simple country progression into something capable of shaking a room.",
+        "image": "/assets/images/members/bb-david-daniels.jpg",
+        "height": "6'3\"",
+        "weight": "220 lbs",
+        "build": "Athletic",
+        "style": "Short pompadour-style hair, clean-cut appearance, medium beard and curled mustache, long-sleeve button-down shirt, leather vest, aviator sunglasses."
+      },
+      {
+        "id": "bb-colt-mccrae",
+        "name": "Colt McCrae",
+        "nickname": "Buckshot",
+        "role": "Bass Guitar / Banjo / Mandolin / Harmonica / Percussion",
+        "bio": "The band's walking party. Colt is impossible to miss onstage, combining musical enthusiasm with his trademark American-flag bandana, cape, handlebar mustache, and larger-than-life personality.",
+        "image": "/assets/images/members/bb-colt-mccrae.jpg",
+        "height": "5'9\"",
+        "weight": "180 lbs",
+        "build": "Average",
+        "style": "American flag bandana, American flag cape, dramatic handlebar mustache, short textured hair, black shirt, blue jeans, decorated cowboy boots."
+      },
+      {
+        "id": "bb-jackson-reilly",
+        "name": "Jackson Reilly",
+        "nickname": "Crash",
+        "role": "Drums / Percussion / Backup Vocals",
+        "bio": "The silent engine of Buckshot Bourbon. Jackson is disciplined, focused, and almost unnervingly consistent behind the kit. The band jokes that while everyone else brings the party, Crash makes sure the party stays on time.",
+        "image": "/assets/images/members/bb-jackson-reilly.jpg",
+        "height": "5'11\"",
+        "weight": "185 lbs",
+        "build": "Athletic",
+        "style": "Short slicked-back hair, clean-shaven, black T-shirt, dark blue jeans, signature aviator sunglasses, occasional backwards snapback."
+      }
+    ],
+    "stats": {
+      "week": 18420,
+      "month": 120567,
+      "ytd": 890340
+    },
+    "signedDate": "2024-11-02"
+  },
+  {
+    "id": "sawyer-kennedy",
+    "name": "Sawyer Kennedy",
+    "genre": "Nashville Country",
+    "genres": [
+      "Country",
+      "Nashville",
+      "Country Pop",
+      "Singer-Songwriter"
+    ],
+    "hometown": "Nashville, TN",
+    "formed": 2021,
+    "type": "solo",
+    "tagline": "Nashville steel with a late-night conscience.",
+    "description": "Sawyer Kennedy is a Nashville country singer-songwriter known for emotionally direct storytelling, polished modern production, and songs that feel equally at home on a back porch or a sold-out arena.",
+    "biography": "Sawyer Kennedy grew up on Long Island, New York, as the younger brother of Buckshot Bourbon frontman Tucker 'Tuck' Kennedy. While his brother found his voice in a band, Sawyer developed a quieter obsession with songwriting. He eventually moved to Nashville with a notebook, a borrowed guitar, and a determination to build a career on songs rather than shortcuts. After years of writer's rounds and independent recording sessions, Sawyer caught Quantum Frequency Records' attention with a collection of demos that balanced modern country hooks with unusually personal storytelling. QFR signed him as a solo artist, giving the Kennedy family a unique place within the label's growing universe.",
+    "image": "/assets/images/artists/sawyer-kennedy.jpg",
+    "hero": "/assets/images/logos/sawyer-kennedy.jpg",
+    "logo": "/assets/images/logos/sawyer-kennedy.jpg",
+    "members": [
+      {
+        "id": "sk-sawyer-kennedy",
+        "name": "Sawyer Kennedy",
+        "nickname": "Sawyer",
+        "role": "Lead Vocals / Guitar / Songwriter / Producer",
+        "bio": "A modern Nashville storyteller who writes from observation, memory, and experience. Sawyer is the younger brother of Buckshot Bourbon frontman Tucker Kennedy.",
+        "image": "/assets/images/members/sk-sawyer-kennedy.jpg"
+      }
+    ],
+    "stats": {
+      "week": 22110,
+      "month": 98040,
+      "ytd": 610220
+    },
+    "signedDate": "2025-02-14"
+  },
+ 
+  {
+    "id": "moonflower-radio",
+    "name": "Moonflower Radio",
+    "genre": "Psychedelic Rock",
+    "genres": [
+      "Alternative Rock",
+      "Psychedelic Rock",
+      "Indie Rock"
+    ],
+    "hometown": "Asbury Park, NJ",
+    "formed": 2014,
+    "type": "group",
+    "tagline": "Tune in. Drift. Come back changed.",
+    "description": "Moonflower Radio create hazy, psychedelic alternative rock where dreamy textures, hypnotic rhythms, and modern songwriting collide.",
+    "biography": "Moonflower Radio grew out of the late-night music culture surrounding Asbury Park and the Jersey Shore. Their music has the atmosphere of an old radio signal drifting through a modern city: psychedelic guitars, warm synthesizers, loose grooves, and lyrics that explore memory and consciousness. QFR signed the band because their music occupies an unusual emotional space within the roster — relaxed enough for late nights but powerful enough to fill a room.",
+    "image": "/assets/images/artists/moonflower-radio.jpg",
+    "hero": "/assets/images/logos/moonflower-radio.jpg",
+    "logo": "/assets/images/logos/moonflower-radio.jpg",
+    "members": [
+      {
+        "id": "mr-lark-emerson",
+        "name": "Lark Emerson",
+        "role": "Lead Vocals / Guitar",
+        "bio": "Lark's understated vocal style and atmospheric guitar work form the center of Moonflower Radio.",
+        "image": "/assets/images/members/mr-lark-emerson.jpg"
+      },
+      {
+        "id": "mr-suki-arden",
+        "name": "Suki Arden",
+        "role": "Keyboard / Vocals",
+        "bio": "Suki adds vintage keyboard textures, synthesizers, and harmony vocals to the band's psychedelic palette.",
+        "image": "/assets/images/members/mr-suki-arden.jpg"
+      },
+      {
+        "id": "mr-paulie-trent",
+        "name": "Paulie Trent",
+        "role": "Bass",
+        "bio": "Paulie's restrained, hypnotic bass lines give the band's songs their late-night pulse.",
+        "image": "/assets/images/members/mr-paulie-trent.jpg"
+      },
+      {
+        "id": "mr-dove-kim",
+        "name": "Dove Kim",
+        "role": "Drums",
+        "bio": "Dove blends motorik rhythms, classic rock grooves, and loose improvisation behind the kit.",
+        "image": "/assets/images/members/mr-dove-kim.jpg"
+      }
+    ],
+    "stats": {
+      "week": 20990,
+      "month": 94010,
+      "ytd": 512880
+    },
+    "signedDate": "2023-10-04"
+  },
+   {
+    "id": "easton-echo",
+    "name": "Easton Echo",
+    "genre": "Synth-Pop Rock",
+    "genres": [
+      "Synth-Pop",
+      "Pop Rock",
+      "Alternative Pop",
+      "Singer-Songwriter"
+    ],
+    "hometown": "Hoboken, NJ",
+    "formed": 2025,
+    "type": "solo",
+    "tagline": "Big feelings. Bright lights. No borrowed story.",
+    "description": "Easton Echo is a modern male singer-songwriter blending emotionally detailed storytelling with polished synth-pop, alternative rock, and arena-sized melodies.",
+    "biography": "Easton Echo is the newest artist to join Quantum Frequency Records and one of the most intriguing additions to the label's expanding universe. Born and raised in New Jersey, Easton began writing songs as a teenager, initially recording rough demos alone in his bedroom before developing a distinctive blend of synth-pop, alternative rock, and deeply personal songwriting. His music pairs intimate verses with enormous melodic choruses, creating songs that feel both conversational and cinematic. QFR was drawn to Easton not because he fit an existing category, but because he demonstrated the rare ability to make polished pop music while maintaining the feeling that someone is actually telling you something. His debut QFR release, 'The Way You Stay,' introduces an artist whose story is only beginning.",
+    "image": "/assets/images/artists/easton-echo.jpg",
+    "hero": "/assets/images/logos/easton-echo.jpg",
+    "logo": "/assets/images/logos/easton-echo.jpg",
+    "members": [
+      {
+        "id": "ee-easton-echo",
+        "name": "Easton Echo",
+        "nickname": "Easton",
+        "role": "Lead Vocals / Guitar / Piano / Songwriter / Producer",
+        "bio": "Easton Echo writes emotionally detailed songs that turn ordinary moments into large-scale pop stories. He is the newest artist signed to Quantum Frequency Records.",
+        "image": "/assets/images/members/ee-easton-echo.jpg"
+      }
+    ],
+    "stats": {
+      "week": 9840,
+      "month": 41200,
+      "ytd": 41200
+    },
+    "signedDate": "2026-08-01"
+  }
+]
