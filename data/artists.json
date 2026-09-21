@@ -74,42 +74,7 @@
     },
     "signedDate": "2024-11-02"
   },
-  {
-    "id": "sawyer-kennedy",
-    "name": "Sawyer Kennedy",
-    "genre": "Nashville Country",
-    "genres": [
-      "Country",
-      "Nashville",
-      "Country Pop",
-      "Singer-Songwriter"
-    ],
-    "hometown": "Nashville, TN",
-    "formed": 2021,
-    "type": "solo",
-    "tagline": "Nashville steel with a late-night conscience.",
-    "description": "Sawyer Kennedy is a Nashville country singer-songwriter known for emotionally direct storytelling, polished modern production, and songs that feel equally at home on a back porch or a sold-out arena.",
-    "biography": "Sawyer Kennedy grew up on Long Island, New York, as the younger brother of Buckshot Bourbon frontman Tucker 'Tuck' Kennedy. While his brother found his voice in a band, Sawyer developed a quieter obsession with songwriting. He eventually moved to Nashville with a notebook, a borrowed guitar, and a determination to build a career on songs rather than shortcuts. After years of writer's rounds and independent recording sessions, Sawyer caught Quantum Frequency Records' attention with a collection of demos that balanced modern country hooks with unusually personal storytelling. QFR signed him as a solo artist, giving the Kennedy family a unique place within the label's growing universe.",
-    "image": "/assets/images/artists/sawyer-kennedy.jpg",
-    "hero": "/assets/images/logos/sawyer-kennedy.jpg",
-    "logo": "/assets/images/logos/sawyer-kennedy.jpg",
-    "members": [
-      {
-        "id": "sk-sawyer-kennedy",
-        "name": "Sawyer Kennedy",
-        "nickname": "Sawyer",
-        "role": "Lead Vocals / Guitar / Songwriter / Producer",
-        "bio": "A modern Nashville storyteller who writes from observation, memory, and experience. Sawyer is the younger brother of Buckshot Bourbon frontman Tucker Kennedy.",
-        "image": "/assets/images/members/sk-sawyer-kennedy.jpg"
-      }
-    ],
-    "stats": {
-      "week": 22110,
-      "month": 98040,
-      "ytd": 610220
-    },
-    "signedDate": "2025-02-14"
-  },
+ 
  
   {
     "id": "moonflower-radio",
