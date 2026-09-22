@@ -102,25 +102,25 @@
         "image": "/assets/images/members/mr-lark-emerson.jpg"
       },
       {
-        "id": "mr-suki-arden",
-        "name": "Suki Arden",
+        "id": "mr-charlie-oshea",
+        "name": "Charlie O'Shea",
         "role": "Keyboard / Vocals",
         "bio": "Suki adds vintage keyboard textures, synthesizers, and harmony vocals to the band's psychedelic palette.",
-        "image": "/assets/images/members/mr-suki-arden.jpg"
+        "image": "/assets/images/members/mr-charlie-oshea.jpg"
       },
       {
-        "id": "mr-paulie-trent",
-        "name": "Paulie Trent",
+        "id": "mr-paul-trent",
+        "name": "Paul Trent",
         "role": "Bass",
         "bio": "Paulie's restrained, hypnotic bass lines give the band's songs their late-night pulse.",
-        "image": "/assets/images/members/mr-paulie-trent.jpg"
+        "image": "/assets/images/members/mr-paul-trent.jpg"
       },
       {
-        "id": "mr-dove-kim",
-        "name": "Dove Kim",
+        "id": "mr-dan-finn",
+        "name": "Daniel Finn",
         "role": "Drums",
         "bio": "Dove blends motorik rhythms, classic rock grooves, and loose improvisation behind the kit.",
-        "image": "/assets/images/members/mr-dove-kim.jpg"
+        "image": "/assets/images/members/mr-dan-finn.jpg"
       }
     ],
     "stats": {
