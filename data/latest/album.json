@@ -2,15 +2,15 @@
   "id": "latest-album",
   "type": "album",
   "kicker": "Latest Album Release",
-  "title": "The Signals We Leave Behind",
-  "subtitle": "Immovable Giants · Album",
+  "title": "Cosmic Daydreams",
+  "subtitle": "Moonflower Radio - Cosmic Daydreams",
   "date": "2026-08-14",
-  "image": "/assets/images/releases/the-signals-we-leave-behind.jpg",
-  "excerpt": "A patient, expansive record about memory, distance, endurance and the traces people leave behind.",
-  "body": "The Signals We Leave Behind is Immovable Giants at their most expansive. Built from slow-burning guitars, enormous dynamics and deeply human songwriting, the album explores what remains after the moment has passed—the people we lose, the places we outgrow and the pieces of ourselves we leave behind along the way. Rather than chasing immediacy, Immovable Giants let each song breathe until its emotional weight becomes impossible to ignore. It is a record about endurance, memory and the quiet evidence that we were here.",
+  "image": "/assets/images/releases/cosmic-daydreams.jpg",
+  "excerpt": "A psychadlic journey that you will want to plug in your headphones, close your eyes, and turn up the volume.",
+  "body": "Cosmic Daydream will take the listener on a sknic journey through the world of Moonflower Radio.  Strap in tight and enjoy the chill ralaxing dream-like vocals moxed with indie rock vibes and lyrics that will make you think deep within your own soul.",
   "link": "/music",
   "linkLabel": "Explore the album",
   "meta": "Album · Aug 14, 2026",
-  "artistId": "immovable-giants",
-  "releaseId": "ig-signals"
+  "artistId": "moonflower-radio",
+  "releaseId": "mr-cosmicdaydreams"
 }
