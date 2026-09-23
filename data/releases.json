@@ -27,16 +27,16 @@
     "description": "First Rounds On Me — the first album from Buckshot Bourbon. This mix of songs will have you dancing, bring you to the beach and singing along ahile enjoying a beer in your favorite bar."
   },
   {
-    "id": "bb-island-time",
+    "id": "bb-let-the-good-times-roll",
     "artistId": "buckshot-bourbon",
-    "title": "Island Time",
+    "title": "Let The Good Times Roll",
     "type": "single",
-    "date": "2025-09-12",
-    "artwork": "/assets/images/releases/bb-island-time.jpg",
+    "date": "2026-09-12",
+    "artwork": "/assets/images/releases/let-the-good-times-roll.jpg",
     "songIds": [
-      "bb-island-time"
+      "bb-let-the-good-times-roll"
     ],
-    "description": "Island Time — a single from Buckshot Bourbon. This song blends the nashville country sound with the sounds of the carribean.  Pack your bags, set your out of office - its vacation time! "
+    "description": "Let The Good Times Roll — Let The Good Times Roll is Buckshot Bourbon at its most relaxed and alive—a country-rock anthem built around an acoustic guitar foundation, warm Southern bar-band energy, and the unmistakable feeling of a night you wish could last forever. The song settles into a gritty, conversational groove as friends gather around the fire, guitars come out, and the worries of tomorrow disappear. With a memorable sing-along chorus, natural country drawl, tight doubled vocals, and a restrained live-room feel, the song celebrates those rare nights when there is nowhere else to be and nothing more important than being right there with the people you love. From the opening fire-lit verses through the guitar solo and final chorus, the arrangement keeps its original character while sharpening the vocal flow, timing, and blend. "
   },
   {
     "id": "sk-glass",
