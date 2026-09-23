@@ -41,7 +41,7 @@
     "headline": "Buckshot Bourbon joins the Quantum Frequency roster",
     "category": "Signing",
     "image": "/assets/images/artists/buckshot-bourbon-hero.jpg",
-    "excerpt": "Quantum Frequency Records welcomes Buckshot Bourbon \u2014 Country Rock from Anywhere, NY.",
+    "excerpt": "Quantum Frequency Records welcomes Buckshot Bourbon \u2026 Country Rock from Smithtown, NY.",
     "body": "Buckshot Bourbon have joined Quantum Frequency Records. A country-rock outfit that treats the open road like a studio. Buckshot Bourbon writes bar-room hymns with arena-sized choruses \u2014 whiskey-warm guitars, stacked harmonies, and stories that refuse to sand off their edges.\n\nBuckshot Bourbon started as a Friday-night residency in a converted feed mill north of the city. What began as three-hour sets for regulars became a catalog of songs about work, weather, loyalty, and the kind of love that leaves boot prints. Quantum Frequency Records signed the group after a live tape of 'Last Call Gravity' circulated through the label's A&R circle. They remain proudly analog in spirit \u2014 tracking liv",
     "artistIds": [
       "buckshot-bourbon"
@@ -49,22 +49,7 @@
     "releaseIds": [],
     "featured": false
   },
-  {
-    "id": "buckshot-bourbon-news-rel",
-    "date": "2025-03-21",
-    "headline": "Buckshot Bourbon release Last Call Gravity",
-    "category": "Release",
-    "image": "/assets/images/releases/bb-last-call.jpg",
-    "excerpt": "The new album Last Call Gravity is in the QFR catalog.",
-    "body": "Buckshot Bourbon have released Last Call Gravity. Dust, steel strings, and a second chance at midnight.\n\nReplace this placeholder announcement with official press copy, credits, and streaming links.",
-    "artistIds": [
-      "buckshot-bourbon"
-    ],
-    "releaseIds": [
-      "bb-last-call"
-    ],
-    "featured": false
-  },
+  
   {
     "id": "sawyer-kennedy-news-sign",
     "date": "2025-02-14",
