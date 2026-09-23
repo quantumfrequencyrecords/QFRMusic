@@ -1,41 +1,41 @@
 [
   {
-    "id": "bb-last-call-t1",
-    "title": "Last Call Gravity",
+    "id": "bb-first-rounds-on-me-t10",
+    "title": "Let The Good Times Roll",
     "artistId": "buckshot-bourbon",
-    "releaseId": "bb-last-call",
-    "trackNumber": 1,
-    "date": "2025-03-21",
+    "releaseId": "bb-first-rounds-on-me",
+    "trackNumber": 10,
+    "date": "2025-09-21",
     "genre": "Country Rock",
-    "artwork": "/assets/images/releases/bb-last-call.jpg",
-    "audio": "/assets/audio/buckshot-bourbon.wav",
-    "lyrics": "The lights are low and the parking lot is a cathedral.\n\n[Verse 1]\nLast Call Gravity in the rearview, Anywhere, NY on the tongue.\nWe don't fit the template so we built another one.\n\n[Chorus]\nLast Call Gravity — say it until the room agrees.\nQuantum frequency, raw vibrational energy.\n\n[Verse 2]\nDust, steel strings, and a second chance at midnight.\nPlaceholder lyrics for authorized catalog use. Replace with the official lyric sheet.\n\n[Bridge]\nDiscover. Harness. Nurture. Succeed.\n",
+    "artwork": "/assets/images/releases/bb-first-rounds-on-me.jpg",
+    "audio": "/assets/audio/bb-let-the-good-times-roll.mp3",
+    "lyrics": "Mmm, Mmm, Sun went down about an hour ago, Somebody threw another log on the fire, Got a cold one in my hand and nowhere to be, And everything I need is right here with me, Faces I have loved for all my life, Laughing at the same old stupid stories, And I swear I don’t know how we got so lucky, Standing on this little patch of glory, And nobody’s checking their phone tonight, Nobody’s worried about tomorrow, The fire’s roaring high and the stars are out, And this right here is all we came to find, All we came to find, We’re burning like that bonfire, Wild and bright and free, Living for the moment, Right where we’re supposed to be, Young enough to feel it, Old enough to know, That nights like these won’t last forever, So let the good times roll, Let the good times roll, Oh oh oh, Let the good times roll, Oh oh oh, Burning like that bonfire, tonight, Somebody’s got a guitar going now, Singing along with all the songs we know, And the girl beside me’s got that look in her eyes, Like she knows she never wants to go home, I look around at every single face, Lit up orange by the fire’s glow, And I think man I wish I could bottle this, And drink it every time life gets cold, And nobody’s checking their phone tonight, Nobody’s worried about tomorrow, The fire’s roaring high and the stars are out, And this right here is all we ever wanted, All we ever wanted, We’re burning like that bonfire, Wild and bright and free,Living for the moment, Right where we’re supposed to be, Young enough to feel it,Old enough to know,That nights like these won’t last forever, So let the good times roll, Let the good times roll, Oh oh oh, Let the good times roll, Oh oh oh, Burning like that bonfire, tonight, You know these nights get rarer, The older that we get, More reasons to enjoy the moment, Make memories we’ll never forget, So tonight there’s nothing else, Tonight there’s only this, Cold beer and a bonfire, Hoping it ends with a goodnight kiss, We’re burning like that bonfire, Wild and bright and free, Living for the moment, Right where we’re supposed to be, Young enough to feel it, Old enough to know, That nights like these won’t last forever, So let the good times roll, Let the good times roll, Oh oh oh, Let the good times roll, Oh oh oh, Burning like that bonfire, tonight, Burning like that bonfire, (Oh oh oh), Let the good times roll, (Oh oh oh), Let the good times roll, (Oh oh oh), Burning all night long, Let the good times roll, (Oh oh oh), Right where we’re supposed to be, (Oh oh oh)",
     "streams": {
       "week": 13815,
       "month": 69928,
       "ytd": 418459
     },
     "spotifyUrl": "",
-    "duration": 180
+    "duration": 360
   },
   {
-    "id": "bb-last-call-t2",
-    "title": "Dust On The Dash",
+    "id": "bb-first tounds-on-me-t15",
+    "title": "High Tonight, Gone Tomorrow",
     "artistId": "buckshot-bourbon",
-    "releaseId": "bb-last-call",
-    "trackNumber": 2,
-    "date": "2025-03-21",
+    "releaseId": "bb-first-rounds-on-me",
+    "trackNumber": 15,
+    "date": "2026-09-21",
     "genre": "Country Rock",
-    "artwork": "/assets/images/releases/bb-last-call.jpg",
-    "audio": "/assets/audio/buckshot-bourbon.wav",
-    "lyrics": "A highway hymn for people who keep driving anyway.\n\n[Verse 1]\nDust On The Dash in the rearview, Anywhere, NY on the tongue.\nWe don't fit the template so we built another one.\n\n[Chorus]\nDust On The Dash — say it until the room agrees.\nQuantum frequency, raw vibrational energy.\n\n[Verse 2]\nDust, steel strings, and a second chance at midnight.\nPlaceholder lyrics for authorized catalog use. Replace with the official lyric sheet.\n\n[Bridge]\nDiscover. Harness. Nurture. Succeed.\n",
+    "artwork": "/assets/images/releases/bb-first-rounds-on-me.jpg",
+    "audio": "/assets/audio/high-tonight-gone-tomorrow.mp3",
+    "lyrics": "",
     "streams": {
       "week": 12341,
       "month": 62694,
       "ytd": 373942
     },
     "spotifyUrl": "",
-    "duration": 191
+    "duration": 360
   },
   {
     "id": "bb-last-call-t3",
