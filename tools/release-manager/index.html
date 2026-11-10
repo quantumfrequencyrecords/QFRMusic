@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#080b12">
+  <meta name="description" content="Private, approval-first music release preparation for Quantum Frequency Records.">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/qfr-icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <title>QFR Music Release Manager</title>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand"><span class="mark">Q</span><div><b>QUANTUM FREQUENCY RECORDS</b><small>Music Release Manager</small></div></div>
+  <span class="private-pill">PRIVATE WORKSPACE</span>
+</header>
+<main>
+  <section class="intro">
+    <p class="eyebrow">THE RELEASE WORKFLOW</p>
+    <h1>Every song.<br><em>One organized path.</em></h1>
+    <p class="sub">Prepare a complete release package, validate the website data, and keep the final publishing decision in your hands.</p>
+    <div class="steps"><span class="active">01 Intake</span><i></i><span>02 Assets</span><i></i><span>03 Review</span><i></i><span>04 Export</span></div>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head"><div><p class="eyebrow">01 / CONNECT YOUR CATALOG</p><h2>Load your QFR data</h2></div><span class="stepno">01</span></div>
+    <p class="help">Choose the current JSON files from your QFRMusic repository. They are read in this browser only; the app does not upload them anywhere.</p>
+    <div class="file-grid">
+      <label class="file-tile"><span>Artists</span><small>data/artists.json</small><input id="artistsFile" type="file" accept=".json,application/json"></label>
+      <label class="file-tile"><span>Songs</span><small>data/songs.json</small><input id="songsFile" type="file" accept=".json,application/json"></label>
+      <label class="file-tile"><span>Releases</span><small>data/releases.json</small><input id="releasesFile" type="file" accept=".json,application/json"></label>
+    </div>
+    <div class="statusline" id="catalogStatus">No catalog loaded yet.</div>
+  </section>
+
+  <form id="releaseForm">
+    <section class="panel">
+      <div class="panel-head"><div><p class="eyebrow">02 / SONG INTAKE</p><h2>Tell us about the song</h2></div><span class="stepno">02</span></div>
+      <div class="field-grid">
+        <label>Artist<select id="artistId" required><option value="">Load artists first</option></select></label>
+        <label>Song title<input id="title" required maxlength="120" placeholder="e.g. The Way You Stay"></label>
+        <label>Release type<select id="releaseType"><option value="single">Single</option><option value="EP">EP</option><option value="album">Album</option></select></label>
+        <label>Release title<input id="releaseTitle" placeholder="Defaults to song title for a single"></label>
+        <label>Release date<input id="date" type="date" required></label>
+        <label>Genre<input id="genre" required placeholder="e.g. Synth-Pop Rock"></label>
+        <label>Track number<input id="trackNumber" type="number" min="1" value="1" required></label>
+        <label>Duration (seconds)<input id="duration" type="number" min="1" placeholder="e.g. 213"></label>
+      </div>
+      <label class="wide">Final approved lyrics<textarea id="lyrics" rows="7" placeholder="Paste the approved lyric sheet here. You can leave this blank while the song is still in progress."></textarea></label>
+      <div class="field-grid">
+        <label>Spotify URL (optional)<input id="spotifyUrl" type="url" placeholder="https://open.spotify.com/..."></label>
+        <label>Release description (optional)<input id="description" placeholder="A short public-facing description"></label>
+      </div>
+      <label class="checkline"><input id="makeNews" type="checkbox"> Prepare a draft release announcement in <code>news.json</code></label>
+      <label class="checkline"><input id="makeLatest" type="checkbox"> Prepare a draft homepage Latest Song card</label>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head"><div><p class="eyebrow">03 / MASTER & WEB ASSETS</p><h2>Attach the release files</h2></div><span class="stepno">03</span></div>
+      <p class="help">Keep full-resolution masters, stems, DAW sessions and original artwork on your external drive. Add only the approved web versions here.</p>
+      <div class="field-grid">
+        <label class="upload">Website audio (MP3 recommended)<input id="audioFile" type="file" accept="audio/*"><small id="audioName">No audio selected</small></label>
+        <label class="upload">Release artwork (JPG recommended)<input id="artFile" type="file" accept="image/*"><small id="artName">No artwork selected</small></label>
+      </div>
+      <div class="field-grid">
+        <label>Artwork file name<input id="artFilename" placeholder="artist-song-title.jpg"></label>
+        <label>Audio file name<input id="audioFilename" placeholder="artist-song-title.mp3"></label>
+      </div>
+      <div class="asset-note"><b>Important:</b> This app packages the files you select. It does not master, convert, normalize or transcode audio. Upload a final, web-ready MP3 and correctly sized JPG before preparing a public release.</div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head"><div><p class="eyebrow">04 / QUALITY CONTROL</p><h2>Review before export</h2></div><span class="stepno">04</span></div>
+      <div class="checks" id="checks"><p class="muted">Load your catalog and complete the song intake to run validation.</p></div>
+      <div class="actions">
+        <button type="button" class="btn secondary" id="validateBtn">Run checks</button>
+        <button type="submit" class="btn primary">Prepare release package <span>→</span></button>
+      </div>
+      <p class="micro">Preparing a package does not publish it. The output is a reviewable ZIP containing proposed JSON changes and selected web assets.</p>
+    </section>
+  </form>
+
+  <section class="panel result" id="result" hidden>
+    <p class="eyebrow">PACKAGE READY</p><h2>Your release draft is assembled.</h2>
+    <p id="resultSummary" class="help"></p>
+    <div class="actions"><button class="btn primary" id="downloadBtn">Download ZIP package ↓</button></div>
+    <p class="micro">Save the ZIP to Files, then move it to your external drive. Review the included README and JSON diffs before copying anything into QFRMusic.</p>
+  </section>
+
+  <section class="panel compact">
+    <p class="eyebrow">YOUR PUBLISHING RULE</p>
+    <h2>Nothing goes live without your approval.</h2>
+    <p class="help">The manager only prepares files. It does not connect to your GitHub account, store a token, commit changes, or publish to GitHub Pages. Once you have reviewed the package, you can manually add the approved files or open a pull request from your computer.</p>
+  </section>
+</main>
+<footer>QFR MUSIC RELEASE MANAGER <span>Built for an artist-first workflow.</span></footer>
+<script src="./app.js"></script>
+</body>
+</html>
